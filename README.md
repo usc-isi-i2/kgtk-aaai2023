@@ -4,15 +4,11 @@ This page contains the notebooks corresponding to the tutorial [KGTK: User-frien
 
 ## Installation
 
-```
-conda create -n kgtk23 python=3.9
-conda activate kgtk23
+To install KGTK, run `pip install kgtk`. **Note: there are known issues with Python >3.9, so we suggest using a virtual (conda) environment with Python v3.9**.
 
-conda install -c conda-forge jupyterlab
+To run the notebooks locally, you can use Jupyter Lab, which is installed with `conda install -c conda-forge jupyterlab`.
 
-git clone https://github.com/usc-isi-i2/kgtk.git
-pip install -e .
-```
+If you run into problems, please visit [the KGTK GitHub page](https://github.com/usc-isi-i2/kgtk) for other installation possibilities. If the problems persist, please open an issue on the KGTK GitHub page and we will take a look.
 
 ## Use case notebooks
 
