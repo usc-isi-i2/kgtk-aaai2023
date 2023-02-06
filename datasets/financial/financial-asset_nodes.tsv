@@ -1,0 +1,7 @@
+id	label	description	alias	Pisa
+QIEM_asset_907	'REP04'@en	'Republican win'@en		Qasset
+QIEM_asset_906	'DEM04'@en	'Democratic win'@en		Qasset
+QIEM_asset_969	'DEM04_L52'@en	'Democratic win <52%'@en		Qasset
+QIEM_asset_968	'DEM04_G52'@en	'Democratic win >=52%'@en		Qasset
+QIEM_asset_971	'REP04_L52'@en	'Republican win <52%'@en		Qasset
+QIEM_asset_970	'REP04_G52'@en	'Republican win >=52%'@en		Qasset

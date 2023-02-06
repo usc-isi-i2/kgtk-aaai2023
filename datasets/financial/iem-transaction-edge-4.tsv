@@ -1,0 +1,25 @@
+node1	label	node2
+trade 3032624	buyer	Landon (17389)
+trade 3032624	seller	Juan (18305)
+trade 3032624	time	2004-07-20T15:08:45.963
+trade 3032624	asset	DEM04
+trade 3032624	price	0.497
+trade 3032624	quantity	6
+trade 3016263	buyer	Juan (18305)
+trade 3016263	seller	Owen (15547)
+trade 3016263	time	2004-07-10T17:21:22.800
+trade 3016263	asset	DEM04
+trade 3016263	price	0.501
+trade 3016263	quantity	7
+trade 3045955	buyer	Landon (17389)
+trade 3045955	seller	John (16234)
+trade 3045955	time	2004-07-29T05:25:28.947
+trade 3045955	asset	DEM04
+trade 3045955	price	0.490
+trade 3045955	quantity	3
+trade 2992596	buyer	Owen (15547)
+trade 2992596	seller	Julian (16571)
+trade 2992596	time	2004-06-10T22:24:24.783
+trade 2992596	asset	REP04
+trade 2992596	price	0.550
+trade 2992596	quantity	1

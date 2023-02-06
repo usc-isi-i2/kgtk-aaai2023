@@ -1,0 +1,19 @@
+node1	label	node2	id
+QIEM_asset_907	label	'REP04'@en	QIEM_asset_907-label-edfb30
+QIEM_asset_907	description	'Republican win'@en	QIEM_asset_907-description-3f7ffe
+QIEM_asset_907	Pisa	Qasset	QIEM_asset_907-Pisa-Qasset
+QIEM_asset_906	label	'DEM04'@en	QIEM_asset_906-label-ee62ed
+QIEM_asset_906	description	'Democratic win'@en	QIEM_asset_906-description-ca7e12
+QIEM_asset_906	Pisa	Qasset	QIEM_asset_906-Pisa-Qasset
+QIEM_asset_969	label	'DEM04_L52'@en	QIEM_asset_969-label-6cfc99
+QIEM_asset_969	description	'Democratic win <52%'@en	QIEM_asset_969-description-347293
+QIEM_asset_969	Pisa	Qasset	QIEM_asset_969-Pisa-Qasset
+QIEM_asset_968	label	'DEM04_G52'@en	QIEM_asset_968-label-deaa07
+QIEM_asset_968	description	'Democratic win >=52%'@en	QIEM_asset_968-description-eacb19
+QIEM_asset_968	Pisa	Qasset	QIEM_asset_968-Pisa-Qasset
+QIEM_asset_971	label	'REP04_L52'@en	QIEM_asset_971-label-94eeea
+QIEM_asset_971	description	'Republican win <52%'@en	QIEM_asset_971-description-bc7ba8
+QIEM_asset_971	Pisa	Qasset	QIEM_asset_971-Pisa-Qasset
+QIEM_asset_970	label	'REP04_G52'@en	QIEM_asset_970-label-5a38f5
+QIEM_asset_970	description	'Republican win >=52%'@en	QIEM_asset_970-description-2831bb
+QIEM_asset_970	Pisa	Qasset	QIEM_asset_970-Pisa-Qasset

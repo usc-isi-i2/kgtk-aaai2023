@@ -1,0 +1,6001 @@
+node1	label	node2
+trade 2988503	buyer	Maria (18183)
+trade 2988503	seller	Reagan (18206)
+trade 2988503	time	2004-06-01T15:29:21.130
+trade 2988503	asset	REP04
+trade 2988503	price	0.51
+trade 2988503	quantity	5
+trade 2988609	buyer	Sawyer (18209)
+trade 2988609	seller	Damian (18185)
+trade 2988609	time	2004-06-01T17:17:25.603
+trade 2988609	asset	REP04
+trade 2988609	price	0.55
+trade 2988609	quantity	7
+trade 2988683	buyer	Jada (6268)
+trade 2988683	seller	Kendra (6314)
+trade 2988683	time	2004-06-01T17:19:23.960
+trade 2988683	asset	DEM04
+trade 2988683	price	0.445
+trade 2988683	quantity	2
+trade 2989169	buyer	Armani (1888)
+trade 2989169	seller	Carter (4136)
+trade 2989169	time	2004-06-02T08:09:48.577
+trade 2989169	asset	DEM04
+trade 2989169	price	0.45
+trade 2989169	quantity	1
+trade 2989763	buyer	Ryder (18178)
+trade 2989763	seller	Carter (4136)
+trade 2989763	time	2004-06-02T11:10:15.157
+trade 2989763	asset	DEM04
+trade 2989763	price	0.45
+trade 2989763	quantity	1
+trade 2989870	buyer	Ryder (18178)
+trade 2989870	seller	Carter (4136)
+trade 2989870	time	2004-06-02T14:06:17.833
+trade 2989870	asset	DEM04
+trade 2989870	price	0.45
+trade 2989870	quantity	1
+trade 2990229	buyer	Maria (18183)
+trade 2990229	seller	Mila (1535)
+trade 2990229	time	2004-06-03T08:22:31.053
+trade 2990229	asset	REP04
+trade 2990229	price	0.545
+trade 2990229	quantity	8
+trade 2991689	buyer	Zoe (16742)
+trade 2991689	seller	Sophia (1277)
+trade 2991689	time	2004-06-08T12:21:52.973
+trade 2991689	asset	DEM04
+trade 2991689	price	0.453
+trade 2991689	quantity	7
+trade 2992248	buyer	James (1278)
+trade 2992248	seller	Lincoln (16628)
+trade 2992248	time	2004-06-10T10:18:50.177
+trade 2992248	asset	DEM04
+trade 2992248	price	0.445
+trade 2992248	quantity	5
+trade 2992481	buyer	Rowen (6188)
+trade 2992481	seller	Arya (18201)
+trade 2992481	time	2004-06-10T18:23:39.737
+trade 2992481	asset	DEM04
+trade 2992481	price	0.451
+trade 2992481	quantity	2
+trade 2992488	buyer	Sophia (1277)
+trade 2992488	seller	Arya (18201)
+trade 2992488	time	2004-06-10T18:23:57.050
+trade 2992488	asset	REP04
+trade 2992488	price	0.562
+trade 2992488	quantity	2
+trade 2992695	buyer	Adelina (6056)
+trade 2992695	seller	Mila (1535)
+trade 2992695	time	2004-06-11T11:50:09.127
+trade 2992695	asset	DEM04
+trade 2992695	price	0.566
+trade 2992695	quantity	2
+trade 2992708	buyer	Maximilian (207)
+trade 2992708	seller	Lorelai (5366)
+trade 2992708	time	2004-06-11T11:51:03.850
+trade 2992708	asset	REP04
+trade 2992708	price	0.53
+trade 2992708	quantity	15
+trade 2992867	buyer	Arya (18201)
+trade 2992867	seller	Zaire (5180)
+trade 2992867	time	2004-06-11T14:36:29.990
+trade 2992867	asset	REP04
+trade 2992867	price	0.495
+trade 2992867	quantity	2
+trade 2992888	buyer	Brayden (18191)
+trade 2992888	seller	Lorelai (5366)
+trade 2992888	time	2004-06-11T15:04:02.323
+trade 2992888	asset	REP04
+trade 2992888	price	0.518
+trade 2992888	quantity	1
+trade 2993061	buyer	Lincoln (16628)
+trade 2993061	seller	Mila (1535)
+trade 2993061	time	2004-06-12T13:20:54.170
+trade 2993061	asset	REP04
+trade 2993061	price	0.535
+trade 2993061	quantity	3
+trade 2993404	buyer	Lyla (18214)
+trade 2993404	seller	Ari (1933)
+trade 2993404	time	2004-06-14T13:20:44.890
+trade 2993404	asset	DEM04
+trade 2993404	price	0.485
+trade 2993404	quantity	50
+trade 2993760	buyer	Evan (18142)
+trade 2993760	seller	Owen (15547)
+trade 2993760	time	2004-06-15T11:22:31.477
+trade 2993760	asset	REP04
+trade 2993760	price	0.53
+trade 2993760	quantity	15
+trade 2994046	buyer	Bennett (18106)
+trade 2994046	seller	Wyatt (16359)
+trade 2994046	time	2004-06-16T10:53:02.600
+trade 2994046	asset	REP04
+trade 2994046	price	0.532
+trade 2994046	quantity	1
+trade 2994118	buyer	Lorelai (5366)
+trade 2994118	seller	Nathan (17252)
+trade 2994118	time	2004-06-16T14:08:22.077
+trade 2994118	asset	DEM04
+trade 2994118	price	0.46
+trade 2994118	quantity	1
+trade 2994131	buyer	Harrison (18205)
+trade 2994131	seller	Arya (18201)
+trade 2994131	time	2004-06-16T16:10:23.500
+trade 2994131	asset	REP04
+trade 2994131	price	0.554
+trade 2994131	quantity	2
+trade 2995349	buyer	Nathaniel (18250)
+trade 2995349	seller	Arianna (18227)
+trade 2995349	time	2004-06-20T08:16:42.083
+trade 2995349	asset	DEM04
+trade 2995349	price	0.455
+trade 2995349	quantity	10
+trade 2996268	buyer	Legend (18259)
+trade 2996268	seller	Diego (18248)
+trade 2996268	time	2004-06-22T18:40:06.253
+trade 2996268	asset	DEM04
+trade 2996268	price	0.457
+trade 2996268	quantity	200
+trade 2997918	buyer	Carter (4136)
+trade 2997918	seller	Gael (18198)
+trade 2997918	time	2004-06-26T07:27:51.933
+trade 2997918	asset	DEM04
+trade 2997918	price	0.45
+trade 2997918	quantity	1
+trade 2997939	buyer	Carter (4136)
+trade 2997939	seller	Gael (18198)
+trade 2997939	time	2004-06-26T07:29:11.660
+trade 2997939	asset	DEM04
+trade 2997939	price	0.45
+trade 2997939	quantity	2
+trade 2997945	buyer	Carter (4136)
+trade 2997945	seller	Gael (18198)
+trade 2997945	time	2004-06-26T07:29:28.130
+trade 2997945	asset	DEM04
+trade 2997945	price	0.45
+trade 2997945	quantity	2
+trade 2998802	buyer	Ronald (7276)
+trade 2998802	seller	Landon (17389)
+trade 2998802	time	2004-06-28T12:54:19.790
+trade 2998802	asset	DEM04
+trade 2998802	price	0.46
+trade 2998802	quantity	7
+trade 3001073	buyer	Kingston (18213)
+trade 3001073	seller	Bennett (18106)
+trade 3001073	time	2004-07-01T12:56:44.087
+trade 3001073	asset	DEM04
+trade 3001073	price	0.469
+trade 3001073	quantity	2
+trade 3002815	buyer	Derrick (6422)
+trade 3002815	seller	Owen (15547)
+trade 3002815	time	2004-07-02T13:45:39.817
+trade 3002815	asset	DEM04
+trade 3002815	price	0.461
+trade 3002815	quantity	12
+trade 3003142	buyer	Jenna (6280)
+trade 3003142	seller	Carter (4136)
+trade 3003142	time	2004-07-02T15:01:12.410
+trade 3003142	asset	DEM04
+trade 3003142	price	0.44
+trade 3003142	quantity	2
+trade 3003936	buyer	Jada (6268)
+trade 3003936	seller	Arya (18201)
+trade 3003936	time	2004-07-03T02:44:10.703
+trade 3003936	asset	DEM04
+trade 3003936	price	0.449
+trade 3003936	quantity	2
+trade 3008097	buyer	Nicholas (17599)
+trade 3008097	seller	Owen (15547)
+trade 3008097	time	2004-07-06T09:34:52.563
+trade 3008097	asset	REP04
+trade 3008097	price	0.521
+trade 3008097	quantity	9
+trade 3008308	buyer	Mary (18245)
+trade 3008308	seller	Owen (15547)
+trade 3008308	time	2004-07-06T12:01:10.390
+trade 3008308	asset	REP04
+trade 3008308	price	0.53
+trade 3008308	quantity	4
+trade 3014180	buyer	Giovanni (18218)
+trade 3014180	seller	Carter (4136)
+trade 3014180	time	2004-07-09T07:44:23.920
+trade 3014180	asset	DEM04
+trade 3014180	price	0.505
+trade 3014180	quantity	1
+trade 3016408	buyer	Reese (18304)
+trade 3016408	seller	Owen (15547)
+trade 3016408	time	2004-07-10T17:23:44.217
+trade 3016408	asset	REP04
+trade 3016408	price	0.504
+trade 3016408	quantity	2
+trade 3016465	buyer	Reese (18304)
+trade 3016465	seller	Owen (15547)
+trade 3016465	time	2004-07-10T17:24:31.487
+trade 3016465	asset	REP04
+trade 3016465	price	0.504
+trade 3016465	quantity	17
+trade 3016644	buyer	Zachary (18283)
+trade 3016644	seller	Owen (15547)
+trade 3016644	time	2004-07-10T19:17:36.790
+trade 3016644	asset	DEM04
+trade 3016644	price	0.499
+trade 3016644	quantity	10
+trade 3016814	buyer	Ashton (18285)
+trade 3016814	seller	Kendra (6314)
+trade 3016814	time	2004-07-10T22:07:46.340
+trade 3016814	asset	REP04
+trade 3016814	price	0.508
+trade 3016814	quantity	1
+trade 3022215	buyer	Jade (18017)
+trade 3022215	seller	Emery (17661)
+trade 3022215	time	2004-07-14T10:34:27.963
+trade 3022215	asset	DEM04
+trade 3022215	price	0.49
+trade 3022215	quantity	8
+trade 3022230	buyer	Jade (18017)
+trade 3022230	seller	Emery (17661)
+trade 3022230	time	2004-07-14T10:36:30.503
+trade 3022230	asset	DEM04
+trade 3022230	price	0.49
+trade 3022230	quantity	9
+trade 3028532	buyer	Anastasia (18334)
+trade 3028532	seller	Beau (18182)
+trade 3028532	time	2004-07-18T02:20:06.743
+trade 3028532	asset	REP04
+trade 3028532	price	0.517
+trade 3028532	quantity	11
+trade 3029624	buyer	Ashton (18285)
+trade 3029624	seller	Mila (1535)
+trade 3029624	time	2004-07-18T19:14:29.680
+trade 3029624	asset	REP04
+trade 3029624	price	0.516
+trade 3029624	quantity	10
+trade 3030513	buyer	Anastasia (18334)
+trade 3030513	seller	Ryleigh (18336)
+trade 3030513	time	2004-07-19T10:34:28.843
+trade 3030513	asset	REP04
+trade 3030513	price	0.511
+trade 3030513	quantity	1
+trade 3030847	buyer	Roman (17474)
+trade 3030847	seller	Itzel (7613)
+trade 3030847	time	2004-07-19T14:16:05.967
+trade 3030847	asset	DEM04
+trade 3030847	price	0.496
+trade 3030847	quantity	50
+trade 3032321	buyer	Alice (17460)
+trade 3032321	seller	Juan (18305)
+trade 3032321	time	2004-07-20T11:46:31.690
+trade 3032321	asset	REP04
+trade 3032321	price	0.51
+trade 3032321	quantity	76
+trade 3041773	buyer	Alondra (4629)
+trade 3041773	seller	Juan (18305)
+trade 3041773	time	2004-07-26T16:18:27.800
+trade 3041773	asset	REP04
+trade 3041773	price	0.498
+trade 3041773	quantity	1
+trade 3042984	buyer	Kehlani (18359)
+trade 3042984	seller	Legend (18259)
+trade 3042984	time	2004-07-27T10:00:24.173
+trade 3042984	asset	REP04
+trade 3042984	price	0.53
+trade 3042984	quantity	10
+trade 3044512	buyer	Anastasia (18334)
+trade 3044512	seller	John (16234)
+trade 3044512	time	2004-07-28T06:23:54.480
+trade 3044512	asset	REP04
+trade 3044512	price	0.498
+trade 3044512	quantity	13
+trade 3046864	buyer	Easton (17412)
+trade 3046864	seller	Cameron (1948)
+trade 3046864	time	2004-07-29T16:54:47.153
+trade 3046864	asset	DEM04
+trade 3046864	price	0.501
+trade 3046864	quantity	25
+trade 3047943	buyer	Camden (18355)
+trade 3047943	seller	Aaliyah (17369)
+trade 3047943	time	2004-07-30T06:49:50.347
+trade 3047943	asset	DEM04
+trade 3047943	price	0.51
+trade 3047943	quantity	2
+trade 3048434	buyer	Waylon (18124)
+trade 3048434	seller	James (1278)
+trade 3048434	time	2004-07-30T12:55:51.523
+trade 3048434	asset	DEM04
+trade 3048434	price	0.509
+trade 3048434	quantity	5
+trade 3049016	buyer	Jonathan (17400)
+trade 3049016	seller	Owen (15547)
+trade 3049016	time	2004-07-30T16:26:01.963
+trade 3049016	asset	DEM04
+trade 3049016	price	0.498
+trade 3049016	quantity	9
+trade 3049162	buyer	Hayden (18377)
+trade 3049162	seller	Owen (15547)
+trade 3049162	time	2004-07-30T16:38:45.120
+trade 3049162	asset	REP04
+trade 3049162	price	0.52
+trade 3049162	quantity	17
+trade 3049228	buyer	Naomi (17208)
+trade 3049228	seller	Mila (1535)
+trade 3049228	time	2004-07-30T16:45:35.640
+trade 3049228	asset	REP04
+trade 3049228	price	0.522
+trade 3049228	quantity	14
+trade 3050525	buyer	Catalina (18381)
+trade 3050525	seller	Mila (1535)
+trade 3050525	time	2004-07-31T07:59:30.210
+trade 3050525	asset	DEM04
+trade 3050525	price	0.483
+trade 3050525	quantity	36
+trade 3051162	buyer	Vivian (18107)
+trade 3051162	seller	Blakely (18356)
+trade 3051162	time	2004-07-31T18:09:21.040
+trade 3051162	asset	DEM04
+trade 3051162	price	0.482
+trade 3051162	quantity	100
+trade 3053963	buyer	Ryan (17264)
+trade 3053963	seller	John (16234)
+trade 3053963	time	2004-08-02T16:56:56.430
+trade 3053963	asset	DEM04
+trade 3053963	price	0.47
+trade 3053963	quantity	7
+trade 3056144	buyer	Nola (6784)
+trade 3056144	seller	Owen (15547)
+trade 3056144	time	2004-08-03T22:25:24.370
+trade 3056144	asset	REP04
+trade 3056144	price	0.52
+trade 3056144	quantity	7
+trade 3056188	buyer	Abel (18386)
+trade 3056188	seller	Owen (15547)
+trade 3056188	time	2004-08-03T22:25:54.450
+trade 3056188	asset	DEM04
+trade 3056188	price	0.49
+trade 3056188	quantity	17
+trade 3056272	buyer	Abel (18386)
+trade 3056272	seller	Owen (15547)
+trade 3056272	time	2004-08-03T22:26:41.533
+trade 3056272	asset	DEM04
+trade 3056272	price	0.49
+trade 3056272	quantity	17
+trade 3060634	buyer	Amara (18299)
+trade 3060634	seller	Juan (18305)
+trade 3060634	time	2004-08-06T09:51:23.817
+trade 3060634	asset	REP04
+trade 3060634	price	0.52
+trade 3060634	quantity	2
+trade 3060743	buyer	Greyson (17547)
+trade 3060743	seller	Kendra (6314)
+trade 3060743	time	2004-08-06T10:35:06.597
+trade 3060743	asset	DEM04
+trade 3060743	price	0.485
+trade 3060743	quantity	4
+trade 3060747	buyer	Brody (18382)
+trade 3060747	seller	Kendra (6314)
+trade 3060747	time	2004-08-06T10:40:36.360
+trade 3060747	asset	REP04
+trade 3060747	price	0.52
+trade 3060747	quantity	5
+trade 3061135	buyer	Ryleigh (18336)
+trade 3061135	seller	Mila (1535)
+trade 3061135	time	2004-08-06T14:34:19.380
+trade 3061135	asset	DEM04
+trade 3061135	price	0.484
+trade 3061135	quantity	10
+trade 3062396	buyer	Juliana (18401)
+trade 3062396	seller	Bennett (18106)
+trade 3062396	time	2004-08-07T09:39:44.123
+trade 3062396	asset	REP04
+trade 3062396	price	0.528
+trade 3062396	quantity	3
+trade 3064967	buyer	Brynlee (18407)
+trade 3064967	seller	Ryland (4634)
+trade 3064967	time	2004-08-09T01:22:59.163
+trade 3064967	asset	DEM04
+trade 3064967	price	0.501
+trade 3064967	quantity	13
+trade 3065485	buyer	King (18364)
+trade 3065485	seller	Mila (1535)
+trade 3065485	time	2004-08-09T09:50:40.220
+trade 3065485	asset	REP04
+trade 3065485	price	0.513
+trade 3065485	quantity	10
+trade 3068578	buyer	Juliana (18401)
+trade 3068578	seller	Owen (15547)
+trade 3068578	time	2004-08-10T20:55:53.883
+trade 3068578	asset	REP04
+trade 3068578	price	0.51
+trade 3068578	quantity	4
+trade 3069779	buyer	Jonathan (17400)
+trade 3069779	seller	Cora (1765)
+trade 3069779	time	2004-08-11T14:06:15.937
+trade 3069779	asset	DEM04
+trade 3069779	price	0.49
+trade 3069779	quantity	2
+trade 3071216	buyer	Jesse (18431)
+trade 3071216	seller	Taylor (18340)
+trade 3071216	time	2004-08-12T10:25:51.407
+trade 3071216	asset	REP04
+trade 3071216	price	0.52
+trade 3071216	quantity	45
+trade 3071272	buyer	Aziel (251)
+trade 3071272	seller	Owen (15547)
+trade 3071272	time	2004-08-12T10:26:50.460
+trade 3071272	asset	DEM04
+trade 3071272	price	0.485
+trade 3071272	quantity	17
+trade 3071472	buyer	Journee (18432)
+trade 3071472	seller	Owen (15547)
+trade 3071472	time	2004-08-12T11:10:32.040
+trade 3071472	asset	DEM04
+trade 3071472	price	0.5
+trade 3071472	quantity	17
+trade 3071484	buyer	Journee (18432)
+trade 3071484	seller	Owen (15547)
+trade 3071484	time	2004-08-12T11:10:40.090
+trade 3071484	asset	DEM04
+trade 3071484	price	0.5
+trade 3071484	quantity	3
+trade 3071543	buyer	Journee (18432)
+trade 3071543	seller	John (16234)
+trade 3071543	time	2004-08-12T11:15:02.940
+trade 3071543	asset	DEM04
+trade 3071543	price	0.5
+trade 3071543	quantity	25
+trade 3071661	buyer	Hope (18434)
+trade 3071661	seller	Lorelai (5366)
+trade 3071661	time	2004-08-12T12:01:53.390
+trade 3071661	asset	DEM04
+trade 3071661	price	0.499
+trade 3071661	quantity	4
+trade 3071714	buyer	Beau (18182)
+trade 3071714	seller	Zayden (18394)
+trade 3071714	time	2004-08-12T12:41:43.263
+trade 3071714	asset	DEM04
+trade 3071714	price	0.503
+trade 3071714	quantity	1
+trade 3071935	buyer	Hope (18434)
+trade 3071935	seller	Owen (15547)
+trade 3071935	time	2004-08-12T15:17:36.070
+trade 3071935	asset	DEM04
+trade 3071935	price	0.499
+trade 3071935	quantity	17
+trade 3071947	buyer	Hope (18434)
+trade 3071947	seller	Owen (15547)
+trade 3071947	time	2004-08-12T15:17:42.213
+trade 3071947	asset	DEM04
+trade 3071947	price	0.499
+trade 3071947	quantity	17
+trade 3073259	buyer	Anthony (16685)
+trade 3073259	seller	Mila (1535)
+trade 3073259	time	2004-08-13T11:25:18.673
+trade 3073259	asset	REP04
+trade 3073259	price	0.502
+trade 3073259	quantity	3
+trade 3073761	buyer	Nathaniel (18250)
+trade 3073761	seller	Blake (18446)
+trade 3073761	time	2004-08-13T19:01:20.840
+trade 3073761	asset	REP04
+trade 3073761	price	0.49
+trade 3073761	quantity	10
+trade 3073801	buyer	Nola (6784)
+trade 3073801	seller	Blake (18446)
+trade 3073801	time	2004-08-13T19:09:44.040
+trade 3073801	asset	REP04
+trade 3073801	price	0.489
+trade 3073801	quantity	10
+trade 3076072	buyer	Samara (1884)
+trade 3076072	seller	John (16234)
+trade 3076072	time	2004-08-15T13:56:22.213
+trade 3076072	asset	REP04
+trade 3076072	price	0.5
+trade 3076072	quantity	5
+trade 3076765	buyer	Leila (18436)
+trade 3076765	seller	Lily (16601)
+trade 3076765	time	2004-08-16T08:39:42.853
+trade 3076765	asset	REP04
+trade 3076765	price	0.507
+trade 3076765	quantity	20
+trade 3077336	buyer	Vanessa (18443)
+trade 3077336	seller	Lorelai (5366)
+trade 3077336	time	2004-08-17T09:12:47.633
+trade 3077336	asset	REP04
+trade 3077336	price	0.503
+trade 3077336	quantity	5
+trade 3078035	buyer	Miguel (18400)
+trade 3078035	seller	Bennett (18106)
+trade 3078035	time	2004-08-18T08:44:01.030
+trade 3078035	asset	REP04
+trade 3078035	price	0.507
+trade 3078035	quantity	1
+trade 3078388	buyer	Ariel (18426)
+trade 3078388	seller	Elle (1891)
+trade 3078388	time	2004-08-18T14:08:55.523
+trade 3078388	asset	REP04
+trade 3078388	price	0.508
+trade 3078388	quantity	10
+trade 3078392	buyer	King (18364)
+trade 3078392	seller	Elle (1891)
+trade 3078392	time	2004-08-18T14:30:49.337
+trade 3078392	asset	REP04
+trade 3078392	price	0.509
+trade 3078392	quantity	1
+trade 3079125	buyer	Vanessa (18443)
+trade 3079125	seller	Owen (15547)
+trade 3079125	time	2004-08-18T23:34:29.463
+trade 3079125	asset	REP04
+trade 3079125	price	0.503
+trade 3079125	quantity	13
+trade 3079227	buyer	Kyrie (18475)
+trade 3079227	seller	Owen (15547)
+trade 3079227	time	2004-08-18T23:41:40.607
+trade 3079227	asset	DEM04
+trade 3079227	price	0.498
+trade 3079227	quantity	17
+trade 3079906	buyer	Finn (18379)
+trade 3079906	seller	Emery (17661)
+trade 3079906	time	2004-08-19T10:42:10.653
+trade 3079906	asset	REP04
+trade 3079906	price	0.502
+trade 3079906	quantity	2
+trade 3080024	buyer	Danna (1945)
+trade 3080024	seller	Amari (18461)
+trade 3080024	time	2004-08-19T11:09:54.683
+trade 3080024	asset	REP04
+trade 3080024	price	0.506
+trade 3080024	quantity	40
+trade 3080946	buyer	Arlo (18468)
+trade 3080946	seller	Owen (15547)
+trade 3080946	time	2004-08-20T09:12:49.857
+trade 3080946	asset	DEM04
+trade 3080946	price	0.494
+trade 3080946	quantity	1
+trade 3081000	buyer	Ada (18393)
+trade 3081000	seller	Gabriel (16617)
+trade 3081000	time	2004-08-20T09:16:03.063
+trade 3081000	asset	REP04
+trade 3081000	price	0.511
+trade 3081000	quantity	20
+trade 3081641	buyer	Arlo (18468)
+trade 3081641	seller	Elle (1891)
+trade 3081641	time	2004-08-20T18:04:49.090
+trade 3081641	asset	DEM04
+trade 3081641	price	0.494
+trade 3081641	quantity	1
+trade 3081649	buyer	Lila (18485)
+trade 3081649	seller	Owen (15547)
+trade 3081649	time	2004-08-20T18:36:49.033
+trade 3081649	asset	DEM04
+trade 3081649	price	0.496
+trade 3081649	quantity	5
+trade 3081876	buyer	Marcus (18486)
+trade 3081876	seller	Mila (1535)
+trade 3081876	time	2004-08-21T07:33:23.500
+trade 3081876	asset	DEM04
+trade 3081876	price	0.497
+trade 3081876	quantity	46
+trade 3082376	buyer	Brantley (18501)
+trade 3082376	seller	Sage (18476)
+trade 3082376	time	2004-08-23T11:27:34.643
+trade 3082376	asset	REP04
+trade 3082376	price	0.504
+trade 3082376	quantity	20
+trade 3082891	buyer	Adelyn (18510)
+trade 3082891	seller	Sage (18476)
+trade 3082891	time	2004-08-24T12:48:53.270
+trade 3082891	asset	REP04
+trade 3082891	price	0.509
+trade 3082891	quantity	13
+trade 3083207	buyer	Dylan (16748)
+trade 3083207	seller	Kayla (18462)
+trade 3083207	time	2004-08-24T22:39:01.577
+trade 3083207	asset	REP04
+trade 3083207	price	0.511
+trade 3083207	quantity	20
+trade 3083276	buyer	Diana (18532)
+trade 3083276	seller	Landon (17389)
+trade 3083276	time	2004-08-24T23:45:27.830
+trade 3083276	asset	REP04
+trade 3083276	price	0.511
+trade 3083276	quantity	13
+trade 3084081	buyer	Jonathan (17400)
+trade 3084081	seller	Sage (18476)
+trade 3084081	time	2004-08-25T17:06:27.273
+trade 3084081	asset	DEM04
+trade 3084081	price	0.46
+trade 3084081	quantity	40
+trade 3084267	buyer	Ellie (16384)
+trade 3084267	seller	John (16234)
+trade 3084267	time	2004-08-26T05:04:10.980
+trade 3084267	asset	REP04
+trade 3084267	price	0.518
+trade 3084267	quantity	10
+trade 3084666	buyer	Atlas (18402)
+trade 3084666	seller	Landon (17389)
+trade 3084666	time	2004-08-26T15:56:43.747
+trade 3084666	asset	DEM04
+trade 3084666	price	0.472
+trade 3084666	quantity	25
+trade 3084942	buyer	Adalyn (18292)
+trade 3084942	seller	Mila (1535)
+trade 3084942	time	2004-08-26T18:44:17.817
+trade 3084942	asset	REP04
+trade 3084942	price	0.534
+trade 3084942	quantity	2
+trade 3085102	buyer	Mark (18507)
+trade 3085102	seller	Aziel (251)
+trade 3085102	time	2004-08-27T08:18:46.840
+trade 3085102	asset	REP04
+trade 3085102	price	0.538
+trade 3085102	quantity	50
+trade 3085164	buyer	River (18397)
+trade 3085164	seller	Landon (17389)
+trade 3085164	time	2004-08-27T12:34:38.630
+trade 3085164	asset	DEM04
+trade 3085164	price	0.47
+trade 3085164	quantity	51
+trade 3085223	buyer	Eric (18421)
+trade 3085223	seller	Ellie (16384)
+trade 3085223	time	2004-08-27T14:01:13.237
+trade 3085223	asset	DEM04
+trade 3085223	price	0.472
+trade 3085223	quantity	10
+trade 3085276	buyer	Eric (18421)
+trade 3085276	seller	Blakely (18356)
+trade 3085276	time	2004-08-27T15:11:47.010
+trade 3085276	asset	DEM04
+trade 3085276	price	0.468
+trade 3085276	quantity	50
+trade 3085669	buyer	Amirah (6262)
+trade 3085669	seller	Landon (17389)
+trade 3085669	time	2004-08-28T09:45:35.590
+trade 3085669	asset	REP04
+trade 3085669	price	0.543
+trade 3085669	quantity	3
+trade 3085751	buyer	Amirah (6262)
+trade 3085751	seller	Landon (17389)
+trade 3085751	time	2004-08-28T09:51:13.837
+trade 3085751	asset	REP04
+trade 3085751	price	0.543
+trade 3085751	quantity	3
+trade 3085885	buyer	Amirah (6262)
+trade 3085885	seller	Landon (17389)
+trade 3085885	time	2004-08-28T09:58:32.480
+trade 3085885	asset	REP04
+trade 3085885	price	0.543
+trade 3085885	quantity	3
+trade 3085902	buyer	Imani (5226)
+trade 3085902	seller	Landon (17389)
+trade 3085902	time	2004-08-28T10:07:44.137
+trade 3085902	asset	DEM04
+trade 3085902	price	0.457
+trade 3085902	quantity	3
+trade 3085946	buyer	Amirah (6262)
+trade 3085946	seller	Ryan (17264)
+trade 3085946	time	2004-08-28T11:01:11.043
+trade 3085946	asset	REP04
+trade 3085946	price	0.547
+trade 3085946	quantity	10
+trade 3085947	buyer	Amirah (6262)
+trade 3085947	seller	Ryan (17264)
+trade 3085947	time	2004-08-28T11:01:33.077
+trade 3085947	asset	REP04
+trade 3085947	price	0.547
+trade 3085947	quantity	10
+trade 3085951	buyer	Amirah (6262)
+trade 3085951	seller	Blake (18467)
+trade 3085951	time	2004-08-28T11:02:43.910
+trade 3085951	asset	REP04
+trade 3085951	price	0.55
+trade 3085951	quantity	10
+trade 3086060	buyer	Amirah (6262)
+trade 3086060	seller	Landon (17389)
+trade 3086060	time	2004-08-28T11:10:06.743
+trade 3086060	asset	REP04
+trade 3086060	price	0.552
+trade 3086060	quantity	3
+trade 3086742	buyer	Ana (18534)
+trade 3086742	seller	Londyn (18343)
+trade 3086742	time	2004-08-29T13:00:28.023
+trade 3086742	asset	REP04
+trade 3086742	price	0.535
+trade 3086742	quantity	50
+trade 3087112	buyer	Christopher (16914)
+trade 3087112	seller	Owen (15547)
+trade 3087112	time	2004-08-30T08:52:34.587
+trade 3087112	asset	DEM04
+trade 3087112	price	0.461
+trade 3087112	quantity	11
+trade 3087136	buyer	Morgan (18411)
+trade 3087136	seller	Ellie (16384)
+trade 3087136	time	2004-08-30T10:10:13.003
+trade 3087136	asset	DEM04
+trade 3087136	price	0.452
+trade 3087136	quantity	6
+trade 3087144	buyer	Miranda (6237)
+trade 3087144	seller	Chandler (7814)
+trade 3087144	time	2004-08-30T10:15:24.593
+trade 3087144	asset	REP04
+trade 3087144	price	0.55
+trade 3087144	quantity	10
+trade 3087460	buyer	Stetson (1934)
+trade 3087460	seller	Mila (1535)
+trade 3087460	time	2004-08-30T15:53:22.520
+trade 3087460	asset	DEM04
+trade 3087460	price	0.452
+trade 3087460	quantity	90
+trade 3087943	buyer	Richard (18442)
+trade 3087943	seller	Ellie (16384)
+trade 3087943	time	2004-08-31T12:24:02.677
+trade 3087943	asset	REP04
+trade 3087943	price	0.543
+trade 3087943	quantity	19
+trade 3088439	buyer	Ellie (16384)
+trade 3088439	seller	Landon (17389)
+trade 3088439	time	2004-08-31T23:55:42.457
+trade 3088439	asset	REP04
+trade 3088439	price	0.515
+trade 3088439	quantity	13
+trade 3088636	buyer	Cameron (17363)
+trade 3088636	seller	Blakely (18356)
+trade 3088636	time	2004-09-01T13:17:22.540
+trade 3088636	asset	DEM04
+trade 3088636	price	0.463
+trade 3088636	quantity	17
+trade 3089493	buyer	Dakota (18568)
+trade 3089493	seller	Sage (18476)
+trade 3089493	time	2004-09-02T08:11:12.603
+trade 3089493	asset	DEM04
+trade 3089493	price	0.47
+trade 3089493	quantity	10
+trade 3089498	buyer	Blakely (18356)
+trade 3089498	seller	London (18416)
+trade 3089498	time	2004-09-02T08:59:46.160
+trade 3089498	asset	REP04
+trade 3089498	price	0.527
+trade 3089498	quantity	7
+trade 3089640	buyer	River (18397)
+trade 3089640	seller	Ellie (16384)
+trade 3089640	time	2004-09-02T11:52:23.313
+trade 3089640	asset	DEM04
+trade 3089640	price	0.472
+trade 3089640	quantity	29
+trade 3089658	buyer	Ellie (16384)
+trade 3089658	seller	Mila (1535)
+trade 3089658	time	2004-09-02T11:59:57.107
+trade 3089658	asset	REP04
+trade 3089658	price	0.531
+trade 3089658	quantity	1
+trade 3089906	buyer	Alivia (18551)
+trade 3089906	seller	Landon (17389)
+trade 3089906	time	2004-09-02T15:57:26.757
+trade 3089906	asset	DEM04
+trade 3089906	price	0.468
+trade 3089906	quantity	3
+trade 3090100	buyer	Ellie (16384)
+trade 3090100	seller	Jane (18579)
+trade 3090100	time	2004-09-02T17:16:28.837
+trade 3090100	asset	DEM04
+trade 3090100	price	0.465
+trade 3090100	quantity	50
+trade 3090366	buyer	John (16234)
+trade 3090366	seller	Landon (17389)
+trade 3090366	time	2004-09-02T22:30:31.200
+trade 3090366	asset	DEM04
+trade 3090366	price	0.47
+trade 3090366	quantity	3
+trade 3090666	buyer	Dawson (18419)
+trade 3090666	seller	Mila (1535)
+trade 3090666	time	2004-09-03T08:51:56.620
+trade 3090666	asset	DEM04
+trade 3090666	price	0.47
+trade 3090666	quantity	20
+trade 3090688	buyer	River (18267)
+trade 3090688	seller	Alyssa (18424)
+trade 3090688	time	2004-09-03T09:52:00.047
+trade 3090688	asset	DEM04
+trade 3090688	price	0.467
+trade 3090688	quantity	4
+trade 3090871	buyer	Paul (18548)
+trade 3090871	seller	Landon (17389)
+trade 3090871	time	2004-09-03T13:02:06.923
+trade 3090871	asset	DEM04
+trade 3090871	price	0.48
+trade 3090871	quantity	6
+trade 3091311	buyer	Ellie (16384)
+trade 3091311	seller	Harmony (18374)
+trade 3091311	time	2004-09-03T23:02:26.477
+trade 3091311	asset	DEM04
+trade 3091311	price	0.455
+trade 3091311	quantity	40
+trade 3091373	buyer	Ellie (16384)
+trade 3091373	seller	Alexander (13574)
+trade 3091373	time	2004-09-04T08:56:06.623
+trade 3091373	asset	DEM04
+trade 3091373	price	0.45
+trade 3091373	quantity	10
+trade 3091581	buyer	Alyssa (18424)
+trade 3091581	seller	Jonathan (17400)
+trade 3091581	time	2004-09-04T15:47:08.573
+trade 3091581	asset	DEM04
+trade 3091581	price	0.44
+trade 3091581	quantity	30
+trade 3091772	buyer	Emberly (6977)
+trade 3091772	seller	Alyssa (18424)
+trade 3091772	time	2004-09-05T00:12:55.143
+trade 3091772	asset	DEM04
+trade 3091772	price	0.447
+trade 3091772	quantity	10
+trade 3091871	buyer	Margot (18506)
+trade 3091871	seller	Landon (17389)
+trade 3091871	time	2004-09-05T11:47:00.747
+trade 3091871	asset	DEM04
+trade 3091871	price	0.447
+trade 3091871	quantity	3
+trade 3091955	buyer	Alivia (18551)
+trade 3091955	seller	Juan (18305)
+trade 3091955	time	2004-09-05T14:30:04.530
+trade 3091955	asset	DEM04
+trade 3091955	price	0.451
+trade 3091955	quantity	4
+trade 3092145	buyer	Blake (18467)
+trade 3092145	seller	Khloe (18338)
+trade 3092145	time	2004-09-05T19:33:18.503
+trade 3092145	asset	DEM04
+trade 3092145	price	0.433
+trade 3092145	quantity	29
+trade 3092255	buyer	Nicolas (18429)
+trade 3092255	seller	Landon (17389)
+trade 3092255	time	2004-09-06T03:27:34.060
+trade 3092255	asset	REP04
+trade 3092255	price	0.546
+trade 3092255	quantity	2
+trade 3092607	buyer	Rosalie (18422)
+trade 3092607	seller	Landon (17389)
+trade 3092607	time	2004-09-06T20:48:08.137
+trade 3092607	asset	REP04
+trade 3092607	price	0.557
+trade 3092607	quantity	122
+trade 3093302	buyer	Mckenzie (18611)
+trade 3093302	seller	Landon (17389)
+trade 3093302	time	2004-09-07T16:23:22.980
+trade 3093302	asset	DEM04
+trade 3093302	price	0.46
+trade 3093302	quantity	3
+trade 3093633	buyer	Emely (5187)
+trade 3093633	seller	Juan (18305)
+trade 3093633	time	2004-09-07T22:23:28.810
+trade 3093633	asset	REP04
+trade 3093633	price	0.552
+trade 3093633	quantity	50
+trade 3093651	buyer	Emely (5187)
+trade 3093651	seller	Landon (17389)
+trade 3093651	time	2004-09-07T22:26:43.390
+trade 3093651	asset	REP04
+trade 3093651	price	0.561
+trade 3093651	quantity	3
+trade 3093847	buyer	Milani (18635)
+trade 3093847	seller	Landon (17389)
+trade 3093847	time	2004-09-08T07:23:33.603
+trade 3093847	asset	REP04
+trade 3093847	price	0.56
+trade 3093847	quantity	46
+trade 3093872	buyer	Zion (18302)
+trade 3093872	seller	Owen (15547)
+trade 3093872	time	2004-09-08T08:06:11.633
+trade 3093872	asset	REP04
+trade 3093872	price	0.552
+trade 3093872	quantity	13
+trade 3094050	buyer	Kash (18554)
+trade 3094050	seller	Landon (17389)
+trade 3094050	time	2004-09-08T10:03:18.063
+trade 3094050	asset	DEM04
+trade 3094050	price	0.46
+trade 3094050	quantity	63
+trade 3094210	buyer	Ronan (18587)
+trade 3094210	seller	Oakley (18617)
+trade 3094210	time	2004-09-08T11:49:25.810
+trade 3094210	asset	REP04
+trade 3094210	price	0.546
+trade 3094210	quantity	50
+trade 3094858	buyer	Oakley (18617)
+trade 3094858	seller	Sophia (1277)
+trade 3094858	time	2004-09-09T09:07:44.340
+trade 3094858	asset	REP04
+trade 3094858	price	0.543
+trade 3094858	quantity	10
+trade 3094887	buyer	Yusuf (787)
+trade 3094887	seller	Sage (18476)
+trade 3094887	time	2004-09-09T10:38:42.027
+trade 3094887	asset	DEM04
+trade 3094887	price	0.458
+trade 3094887	quantity	10
+trade 3095093	buyer	Cash (18578)
+trade 3095093	seller	Oakley (18617)
+trade 3095093	time	2004-09-09T12:32:08.407
+trade 3095093	asset	DEM04
+trade 3095093	price	0.455
+trade 3095093	quantity	86
+trade 3095146	buyer	Angelina (18642)
+trade 3095146	seller	Oakley (18617)
+trade 3095146	time	2004-09-09T13:17:52.133
+trade 3095146	asset	REP04
+trade 3095146	price	0.552
+trade 3095146	quantity	1
+trade 3095162	buyer	Jett (18610)
+trade 3095162	seller	Oakley (18617)
+trade 3095162	time	2004-09-09T13:32:30.393
+trade 3095162	asset	DEM04
+trade 3095162	price	0.45
+trade 3095162	quantity	7
+trade 3095374	buyer	Nevaeh (17560)
+trade 3095374	seller	Juan (18305)
+trade 3095374	time	2004-09-09T18:02:48.750
+trade 3095374	asset	REP04
+trade 3095374	price	0.556
+trade 3095374	quantity	100
+trade 3095387	buyer	Juan (18305)
+trade 3095387	seller	Landon (17389)
+trade 3095387	time	2004-09-09T18:03:29.863
+trade 3095387	asset	DEM04
+trade 3095387	price	0.451
+trade 3095387	quantity	18
+trade 3095578	buyer	Harley (18644)
+trade 3095578	seller	Landon (17389)
+trade 3095578	time	2004-09-10T00:08:32.333
+trade 3095578	asset	DEM04
+trade 3095578	price	0.459
+trade 3095578	quantity	3
+trade 3095627	buyer	Vivienne (18566)
+trade 3095627	seller	Oakley (18617)
+trade 3095627	time	2004-09-10T00:29:52.550
+trade 3095627	asset	REP04
+trade 3095627	price	0.551
+trade 3095627	quantity	40
+trade 3095634	buyer	Vivienne (18566)
+trade 3095634	seller	Oakley (18617)
+trade 3095634	time	2004-09-10T00:31:05.723
+trade 3095634	asset	REP04
+trade 3095634	price	0.552
+trade 3095634	quantity	50
+trade 3095651	buyer	Owen (15547)
+trade 3095651	seller	Oakley (18617)
+trade 3095651	time	2004-09-10T07:40:44.883
+trade 3095651	asset	REP04
+trade 3095651	price	0.552
+trade 3095651	quantity	200
+trade 3096418	buyer	Brayden (18191)
+trade 3096418	seller	Mila (1535)
+trade 3096418	time	2004-09-11T19:02:19.713
+trade 3096418	asset	REP04
+trade 3096418	price	0.552
+trade 3096418	quantity	1
+trade 3096548	buyer	Hayes (18533)
+trade 3096548	seller	Mila (1535)
+trade 3096548	time	2004-09-12T11:43:02.120
+trade 3096548	asset	DEM04
+trade 3096548	price	0.446
+trade 3096548	quantity	18
+trade 3096564	buyer	Scott (7530)
+trade 3096564	seller	Landon (17389)
+trade 3096564	time	2004-09-12T11:48:28.083
+trade 3096564	asset	REP04
+trade 3096564	price	0.554
+trade 3096564	quantity	3
+trade 3096564	buyer	Scott (7530)
+trade 3096564	seller	Landon (17389)
+trade 3096564	time	2004-09-12T11:48:28.083
+trade 3096564	asset	REP04
+trade 3096564	price	0.554
+trade 3096564	quantity	3
+trade 3096779	buyer	Athena (18181)
+trade 3096779	seller	Mila (1535)
+trade 3096779	time	2004-09-12T19:04:48.400
+trade 3096779	asset	REP04
+trade 3096779	price	0.563
+trade 3096779	quantity	50
+trade 3096791	buyer	Scott (7530)
+trade 3096791	seller	Adelaide (18602)
+trade 3096791	time	2004-09-12T19:27:44.083
+trade 3096791	asset	REP04
+trade 3096791	price	0.565
+trade 3096791	quantity	1
+trade 3096811	buyer	Corey (5298)
+trade 3096811	seller	Landon (17389)
+trade 3096811	time	2004-09-12T19:28:16.650
+trade 3096811	asset	DEM04
+trade 3096811	price	0.435
+trade 3096811	quantity	123
+trade 3096894	buyer	Corey (5298)
+trade 3096894	seller	Sage (18476)
+trade 3096894	time	2004-09-12T20:08:35.900
+trade 3096894	asset	DEM04
+trade 3096894	price	0.435
+trade 3096894	quantity	50
+trade 3097032	buyer	Corey (5298)
+trade 3097032	seller	Kendra (6314)
+trade 3097032	time	2004-09-13T05:38:29.010
+trade 3097032	asset	DEM04
+trade 3097032	price	0.435
+trade 3097032	quantity	1
+trade 3097545	buyer	Kai (17767)
+trade 3097545	seller	Oakley (18617)
+trade 3097545	time	2004-09-14T01:15:15.403
+trade 3097545	asset	REP04
+trade 3097545	price	0.567
+trade 3097545	quantity	3
+trade 3097642	buyer	Juan (18305)
+trade 3097642	seller	Sage (18476)
+trade 3097642	time	2004-09-14T08:04:10.507
+trade 3097642	asset	DEM04
+trade 3097642	price	0.431
+trade 3097642	quantity	50
+trade 3098097	buyer	Journey (18666)
+trade 3098097	seller	Sage (18476)
+trade 3098097	time	2004-09-14T13:07:07.113
+trade 3098097	asset	REP04
+trade 3098097	price	0.571
+trade 3098097	quantity	8
+trade 3098140	buyer	Elle (1891)
+trade 3098140	seller	Sage (18476)
+trade 3098140	time	2004-09-14T13:12:15.220
+trade 3098140	asset	REP04
+trade 3098140	price	0.571
+trade 3098140	quantity	19
+trade 3098406	buyer	Zayn (18695)
+trade 3098406	seller	Ellie (16384)
+trade 3098406	time	2004-09-14T15:23:12.860
+trade 3098406	asset	REP04
+trade 3098406	price	0.584
+trade 3098406	quantity	18
+trade 3098597	buyer	Gabriel (16617)
+trade 3098597	seller	Sage (18476)
+trade 3098597	time	2004-09-14T17:49:05.427
+trade 3098597	asset	DEM04
+trade 3098597	price	0.422
+trade 3098597	quantity	10
+trade 3098904	buyer	Oaklyn (7658)
+trade 3098904	seller	Brayden (18191)
+trade 3098904	time	2004-09-14T23:13:27.093
+trade 3098904	asset	DEM04
+trade 3098904	price	0.422
+trade 3098904	quantity	1
+trade 3099122	buyer	Alexis (18694)
+trade 3099122	seller	Quentin (6141)
+trade 3099122	time	2004-09-15T09:04:08.700
+trade 3099122	asset	REP04
+trade 3099122	price	0.573
+trade 3099122	quantity	102
+trade 3099421	buyer	Benjamin (135)
+trade 3099421	seller	Landon (17389)
+trade 3099421	time	2004-09-15T10:33:50.407
+trade 3099421	asset	REP04
+trade 3099421	price	0.599
+trade 3099421	quantity	20
+trade 3099928	buyer	Drew (5549)
+trade 3099928	seller	Ellie (16384)
+trade 3099928	time	2004-09-15T14:13:48.840
+trade 3099928	asset	DEM04
+trade 3099928	price	0.418
+trade 3099928	quantity	7
+trade 3100202	buyer	Alexis (18694)
+trade 3100202	seller	Landon (17389)
+trade 3100202	time	2004-09-15T19:34:42.940
+trade 3100202	asset	REP04
+trade 3100202	price	0.588
+trade 3100202	quantity	20
+trade 3100437	buyer	Oakley (18617)
+trade 3100437	seller	Ryan (17264)
+trade 3100437	time	2004-09-16T08:29:20.483
+trade 3100437	asset	DEM04
+trade 3100437	price	0.412
+trade 3100437	quantity	1
+trade 3100468	buyer	Elle (1891)
+trade 3100468	seller	Landon (17389)
+trade 3100468	time	2004-09-16T09:22:47.177
+trade 3100468	asset	REP04
+trade 3100468	price	0.591
+trade 3100468	quantity	3
+trade 3100580	buyer	Derrick (6422)
+trade 3100580	seller	Landon (17389)
+trade 3100580	time	2004-09-16T10:35:36.910
+trade 3100580	asset	DEM04
+trade 3100580	price	0.408
+trade 3100580	quantity	2
+trade 3100783	buyer	Elliot (18348)
+trade 3100783	seller	Landon (17389)
+trade 3100783	time	2004-09-16T16:15:12.097
+trade 3100783	asset	DEM04
+trade 3100783	price	0.406
+trade 3100783	quantity	3
+trade 3100792	buyer	Zayn (18695)
+trade 3100792	seller	Landon (17389)
+trade 3100792	time	2004-09-16T16:15:13.143
+trade 3100792	asset	REP04
+trade 3100792	price	0.6
+trade 3100792	quantity	14
+trade 3100882	buyer	Winter (18708)
+trade 3100882	seller	Morgan (18411)
+trade 3100882	time	2004-09-16T20:23:28.433
+trade 3100882	asset	DEM04
+trade 3100882	price	0.408
+trade 3100882	quantity	50
+trade 3101141	buyer	Bennett (18106)
+trade 3101141	seller	Landon (17389)
+trade 3101141	time	2004-09-17T00:10:00.970
+trade 3101141	asset	REP04
+trade 3101141	price	0.594
+trade 3101141	quantity	2
+trade 3101378	buyer	Juliet (18688)
+trade 3101378	seller	Landon (17389)
+trade 3101378	time	2004-09-17T13:36:49.040
+trade 3101378	asset	REP04
+trade 3101378	price	0.595
+trade 3101378	quantity	91
+trade 3101637	buyer	Raymond (18699)
+trade 3101637	seller	Ellie (16384)
+trade 3101637	time	2004-09-17T19:28:50.997
+trade 3101637	asset	REP04
+trade 3101637	price	0.606
+trade 3101637	quantity	5
+trade 3101702	buyer	Corey (5298)
+trade 3101702	seller	Landon (17389)
+trade 3101702	time	2004-09-17T19:32:19.780
+trade 3101702	asset	DEM04
+trade 3101702	price	0.401
+trade 3101702	quantity	23
+trade 3101721	buyer	Corey (5298)
+trade 3101721	seller	Landon (17389)
+trade 3101721	time	2004-09-17T19:33:19.850
+trade 3101721	asset	DEM04
+trade 3101721	price	0.401
+trade 3101721	quantity	23
+trade 3101815	buyer	Delaney (18702)
+trade 3101815	seller	Landon (17389)
+trade 3101815	time	2004-09-17T23:53:53.990
+trade 3101815	asset	REP04
+trade 3101815	price	0.619
+trade 3101815	quantity	7
+trade 3102996	buyer	Andre (18616)
+trade 3102996	seller	Blakely (18356)
+trade 3102996	time	2004-09-20T10:01:02.923
+trade 3102996	asset	DEM04
+trade 3102996	price	0.384
+trade 3102996	quantity	48
+trade 3103295	buyer	Delaney (18702)
+trade 3103295	seller	Landon (17389)
+trade 3103295	time	2004-09-20T13:08:20.227
+trade 3103295	asset	REP04
+trade 3103295	price	0.61
+trade 3103295	quantity	5
+trade 3103358	buyer	Ellie (16384)
+trade 3103358	seller	Landon (17389)
+trade 3103358	time	2004-09-20T13:51:14.193
+trade 3103358	asset	DEM04
+trade 3103358	price	0.393
+trade 3103358	quantity	3
+trade 3103747	buyer	Ellie (16384)
+trade 3103747	seller	Landon (17389)
+trade 3103747	time	2004-09-20T22:40:21.350
+trade 3103747	asset	REP04
+trade 3103747	price	0.612
+trade 3103747	quantity	10
+trade 3104271	buyer	Brynn (18798)
+trade 3104271	seller	Elle (1891)
+trade 3104271	time	2004-09-21T13:06:10.097
+trade 3104271	asset	DEM04_G52
+trade 3104271	price	0.06
+trade 3104271	quantity	10
+trade 3104511	buyer	Ismael (18837)
+trade 3104511	seller	Juan (18305)
+trade 3104511	time	2004-09-21T13:40:20.780
+trade 3104511	asset	DEM04_G52
+trade 3104511	price	0.085
+trade 3104511	quantity	400
+trade 3104555	buyer	Charlee (18604)
+trade 3104555	seller	Elle (1891)
+trade 3104555	time	2004-09-21T13:56:16.223
+trade 3104555	asset	REP04_L52
+trade 3104555	price	0.378
+trade 3104555	quantity	4
+trade 3104600	buyer	Corbin (18833)
+trade 3104600	seller	Elle (1891)
+trade 3104600	time	2004-09-21T13:56:56.307
+trade 3104600	asset	REP04_L52
+trade 3104600	price	0.375
+trade 3104600	quantity	5
+trade 3104654	buyer	Makayla (18783)
+trade 3104654	seller	Xander (18398)
+trade 3104654	time	2004-09-21T13:58:24.800
+trade 3104654	asset	DEM04_G52
+trade 3104654	price	0.076
+trade 3104654	quantity	67
+trade 3104867	buyer	Talia (18809)
+trade 3104867	seller	James (1278)
+trade 3104867	time	2004-09-21T14:25:32.223
+trade 3104867	asset	DEM04_L52
+trade 3104867	price	0.329
+trade 3104867	quantity	15
+trade 3104970	buyer	Melissa (18836)
+trade 3104970	seller	Dylan (16748)
+trade 3104970	time	2004-09-21T14:46:23.570
+trade 3104970	asset	REP04_L52
+trade 3104970	price	0.3
+trade 3104970	quantity	16
+trade 3105037	buyer	Anastasia (18334)
+trade 3105037	seller	Dylan (16748)
+trade 3105037	time	2004-09-21T14:48:12.410
+trade 3105037	asset	REP04_G52
+trade 3105037	price	0.385
+trade 3105037	quantity	14
+trade 3105161	buyer	Makayla (18783)
+trade 3105161	seller	Dylan (16748)
+trade 3105161	time	2004-09-21T14:54:49.430
+trade 3105161	asset	REP04_L52
+trade 3105161	price	0.27
+trade 3105161	quantity	20
+trade 3105562	buyer	James (1278)
+trade 3105562	seller	Amari (18803)
+trade 3105562	time	2004-09-21T15:46:35.787
+trade 3105562	asset	REP04_G52
+trade 3105562	price	0.34
+trade 3105562	quantity	2
+trade 3105646	buyer	Finn (18379)
+trade 3105646	seller	Landon (17389)
+trade 3105646	time	2004-09-21T15:58:10.753
+trade 3105646	asset	REP04_G52
+trade 3105646	price	0.424
+trade 3105646	quantity	20
+trade 3105684	buyer	Peyton (18019)
+trade 3105684	seller	Landon (17389)
+trade 3105684	time	2004-09-21T16:03:04.657
+trade 3105684	asset	REP04_L52
+trade 3105684	price	0.277
+trade 3105684	quantity	2
+trade 3105952	buyer	Lilliana (18829)
+trade 3105952	seller	Andre (18616)
+trade 3105952	time	2004-09-21T16:59:20.850
+trade 3105952	asset	REP04_G52
+trade 3105952	price	0.407
+trade 3105952	quantity	53
+trade 3105981	buyer	Lilliana (18829)
+trade 3105981	seller	Juan (18305)
+trade 3105981	time	2004-09-21T17:00:30.400
+trade 3105981	asset	REP04_G52
+trade 3105981	price	0.42
+trade 3105981	quantity	24
+trade 3106008	buyer	Jaxson (17564)
+trade 3106008	seller	Landon (17389)
+trade 3106008	time	2004-09-21T17:02:04.520
+trade 3106008	asset	DEM04_L52
+trade 3106008	price	0.261
+trade 3106008	quantity	3
+trade 3106103	buyer	Titus (18822)
+trade 3106103	seller	Colton (17370)
+trade 3106103	time	2004-09-21T17:32:47.043
+trade 3106103	asset	REP04_L52
+trade 3106103	price	0.261
+trade 3106103	quantity	9
+trade 3106130	buyer	Wade (18814)
+trade 3106130	seller	Cohen (18618)
+trade 3106130	time	2004-09-21T17:49:31.383
+trade 3106130	asset	DEM04_G52
+trade 3106130	price	0.07
+trade 3106130	quantity	20
+trade 3106336	buyer	Peyton (18019)
+trade 3106336	seller	Emmitt (4008)
+trade 3106336	time	2004-09-21T19:40:01.883
+trade 3106336	asset	REP04_L52
+trade 3106336	price	0.254
+trade 3106336	quantity	22
+trade 3107006	buyer	Logan (18712)
+trade 3107006	seller	Rodrigo (9508)
+trade 3107006	time	2004-09-22T00:26:38.943
+trade 3107006	asset	DEM04_L52
+trade 3107006	price	0.274
+trade 3107006	quantity	20
+trade 3107047	buyer	Ian (17558)
+trade 3107047	seller	Titus (18822)
+trade 3107047	time	2004-09-22T01:27:42.410
+trade 3107047	asset	DEM04_L52
+trade 3107047	price	0.276
+trade 3107047	quantity	39
+trade 3107164	buyer	Mila (1535)
+trade 3107164	seller	Landon (17389)
+trade 3107164	time	2004-09-22T10:24:24.070
+trade 3107164	asset	DEM04_L52
+trade 3107164	price	0.267
+trade 3107164	quantity	19
+trade 3107173	buyer	Ellis (18776)
+trade 3107173	seller	Corey (5298)
+trade 3107173	time	2004-09-22T10:32:27.913
+trade 3107173	asset	REP04_L52
+trade 3107173	price	0.272
+trade 3107173	quantity	90
+trade 3107253	buyer	Destiny (18841)
+trade 3107253	seller	Landon (17389)
+trade 3107253	time	2004-09-22T10:47:08.853
+trade 3107253	asset	REP04_L52
+trade 3107253	price	0.272
+trade 3107253	quantity	3
+trade 3107256	buyer	Alyssa (18424)
+trade 3107256	seller	Landon (17389)
+trade 3107256	time	2004-09-22T10:47:09.883
+trade 3107256	asset	DEM04_G52
+trade 3107256	price	0.073
+trade 3107256	quantity	10
+trade 3107530	buyer	Winter (18708)
+trade 3107530	seller	Landon (17389)
+trade 3107530	time	2004-09-22T12:19:54.960
+trade 3107530	asset	REP04_G52
+trade 3107530	price	0.375
+trade 3107530	quantity	25
+trade 3107753	buyer	Sean (18806)
+trade 3107753	seller	Owen (15547)
+trade 3107753	time	2004-09-22T12:56:34.110
+trade 3107753	asset	REP04_G52
+trade 3107753	price	0.365
+trade 3107753	quantity	3
+trade 3107960	buyer	Ellis (18776)
+trade 3107960	seller	Landon (17389)
+trade 3107960	time	2004-09-22T13:31:23.093
+trade 3107960	asset	REP04_L52
+trade 3107960	price	0.299
+trade 3107960	quantity	34
+trade 3108047	buyer	Harper (13576)
+trade 3108047	seller	Landon (17389)
+trade 3108047	time	2004-09-22T14:25:17.727
+trade 3108047	asset	DEM04_L52
+trade 3108047	price	0.292
+trade 3108047	quantity	1
+trade 3108631	buyer	Landon (17389)
+trade 3108631	seller	Jason (18215)
+trade 3108631	time	2004-09-22T15:20:05.180
+trade 3108631	asset	REP04_G52
+trade 3108631	price	0.351
+trade 3108631	quantity	10
+trade 3109051	buyer	Landon (17389)
+trade 3109051	seller	Peyton (18019)
+trade 3109051	time	2004-09-22T15:33:12.780
+trade 3109051	asset	REP04_L52
+trade 3109051	price	0.291
+trade 3109051	quantity	6
+trade 3109485	buyer	Landon (17389)
+trade 3109485	seller	Bruce (2691)
+trade 3109485	time	2004-09-22T16:33:41.713
+trade 3109485	asset	REP04_L52
+trade 3109485	price	0.292
+trade 3109485	quantity	36
+trade 3109754	buyer	Juan (18305)
+trade 3109754	seller	Landon (17389)
+trade 3109754	time	2004-09-22T17:54:15.680
+trade 3109754	asset	DEM04_L52
+trade 3109754	price	0.281
+trade 3109754	quantity	9
+trade 3109935	buyer	Juan (18305)
+trade 3109935	seller	Landon (17389)
+trade 3109935	time	2004-09-22T18:03:15.710
+trade 3109935	asset	DEM04_L52
+trade 3109935	price	0.281
+trade 3109935	quantity	20
+trade 3110096	buyer	Madilyn (18777)
+trade 3110096	seller	Aniyah (18698)
+trade 3110096	time	2004-09-22T19:37:38.123
+trade 3110096	asset	REP04_L52
+trade 3110096	price	0.29
+trade 3110096	quantity	5
+trade 3110251	buyer	Tanner (18799)
+trade 3110251	seller	Juan (18305)
+trade 3110251	time	2004-09-22T20:29:34.623
+trade 3110251	asset	DEM04_G52
+trade 3110251	price	0.085
+trade 3110251	quantity	49
+trade 3110454	buyer	Declan (18112)
+trade 3110454	seller	Andre (18616)
+trade 3110454	time	2004-09-22T21:25:57.800
+trade 3110454	asset	DEM04_L52
+trade 3110454	price	0.275
+trade 3110454	quantity	5
+trade 3111056	buyer	Kaylani (18815)
+trade 3111056	seller	Ellie (16384)
+trade 3111056	time	2004-09-23T00:59:32.037
+trade 3111056	asset	REP04_L52
+trade 3111056	price	0.281
+trade 3111056	quantity	5
+trade 3111621	buyer	Landon (17389)
+trade 3111621	seller	Lydia (17952)
+trade 3111621	time	2004-09-23T09:40:16.287
+trade 3111621	asset	DEM04_L52
+trade 3111621	price	0.291
+trade 3111621	quantity	2
+trade 3111648	buyer	Maximilian (207)
+trade 3111648	seller	Landon (17389)
+trade 3111648	time	2004-09-23T09:43:12.693
+trade 3111648	asset	REP04_L52
+trade 3111648	price	0.273
+trade 3111648	quantity	25
+trade 3111983	buyer	Landon (17389)
+trade 3111983	seller	Owen (15547)
+trade 3111983	time	2004-09-23T10:21:33.180
+trade 3111983	asset	REP04_G52
+trade 3111983	price	0.345
+trade 3111983	quantity	5
+trade 3112781	buyer	Dylan (16748)
+trade 3112781	seller	Andre (18616)
+trade 3112781	time	2004-09-23T12:54:59.163
+trade 3112781	asset	REP04_L52
+trade 3112781	price	0.273
+trade 3112781	quantity	10
+trade 3112839	buyer	Wade (18814)
+trade 3112839	seller	Landon (17389)
+trade 3112839	time	2004-09-23T13:02:36.767
+trade 3112839	asset	REP04_G52
+trade 3112839	price	0.352
+trade 3112839	quantity	7
+trade 3112990	buyer	Remy (18862)
+trade 3112990	seller	Peyton (18019)
+trade 3112990	time	2004-09-23T13:23:00.563
+trade 3112990	asset	DEM04_L52
+trade 3112990	price	0.291
+trade 3112990	quantity	60
+trade 3113023	buyer	Wade (18814)
+trade 3113023	seller	Landon (17389)
+trade 3113023	time	2004-09-23T13:27:57.353
+trade 3113023	asset	DEM04_G52
+trade 3113023	price	0.083
+trade 3113023	quantity	8
+trade 3113093	buyer	Peyton (18019)
+trade 3113093	seller	Wade (18814)
+trade 3113093	time	2004-09-23T13:28:26.000
+trade 3113093	asset	REP04_G52
+trade 3113093	price	0.404
+trade 3113093	quantity	20
+trade 3113099	buyer	Kehlani (18359)
+trade 3113099	seller	Corey (5298)
+trade 3113099	time	2004-09-23T13:29:35.440
+trade 3113099	asset	REP04_G52
+trade 3113099	price	0.42
+trade 3113099	quantity	85
+trade 3113575	buyer	Orion (18782)
+trade 3113575	seller	Landon (17389)
+trade 3113575	time	2004-09-23T16:28:09.150
+trade 3113575	asset	REP04_G52
+trade 3113575	price	0.42
+trade 3113575	quantity	98
+trade 3113602	buyer	Celeste (18853)
+trade 3113602	seller	Elle (1891)
+trade 3113602	time	2004-09-23T16:28:20.887
+trade 3113602	asset	REP04_L52
+trade 3113602	price	0.251
+trade 3113602	quantity	10
+trade 3113776	buyer	Sean (18806)
+trade 3113776	seller	Landon (17389)
+trade 3113776	time	2004-09-23T17:35:28.937
+trade 3113776	asset	DEM04_G52
+trade 3113776	price	0.076
+trade 3113776	quantity	10
+trade 3113918	buyer	Landon (17389)
+trade 3113918	seller	Elle (1891)
+trade 3113918	time	2004-09-23T17:58:56.453
+trade 3113918	asset	REP04_G52
+trade 3113918	price	0.426
+trade 3113918	quantity	20
+trade 3113953	buyer	Bruce (2691)
+trade 3113953	seller	Peyton (18019)
+trade 3113953	time	2004-09-23T18:15:12.477
+trade 3113953	asset	DEM04_G52
+trade 3113953	price	0.079
+trade 3113953	quantity	1
+trade 3114224	buyer	Ashton (18285)
+trade 3114224	seller	Dylan (16748)
+trade 3114224	time	2004-09-23T19:57:42.137
+trade 3114224	asset	REP04_G52
+trade 3114224	price	0.42
+trade 3114224	quantity	1
+trade 3114315	buyer	Richard (18442)
+trade 3114315	seller	Landon (17389)
+trade 3114315	time	2004-09-23T21:34:56.833
+trade 3114315	asset	REP04_G52
+trade 3114315	price	0.423
+trade 3114315	quantity	5
+trade 3114501	buyer	Miguel (18400)
+trade 3114501	seller	Kendra (6314)
+trade 3114501	time	2004-09-23T23:19:18.133
+trade 3114501	asset	REP04_G52
+trade 3114501	price	0.429
+trade 3114501	quantity	10
+trade 3114800	buyer	Kendra (6314)
+trade 3114800	seller	Anastasia (18334)
+trade 3114800	time	2004-09-24T09:33:38.397
+trade 3114800	asset	REP04_G52
+trade 3114800	price	0.417
+trade 3114800	quantity	10
+trade 3114887	buyer	Landon (17389)
+trade 3114887	seller	Miguel (18400)
+trade 3114887	time	2004-09-24T09:43:36.897
+trade 3114887	asset	REP04_L52
+trade 3114887	price	0.225
+trade 3114887	quantity	16
+trade 3115185	buyer	Adelyn (18510)
+trade 3115185	seller	Kendra (6314)
+trade 3115185	time	2004-09-24T11:41:11.927
+trade 3115185	asset	REP04_G52
+trade 3115185	price	0.432
+trade 3115185	quantity	2
+trade 3116744	buyer	Makenzie (18827)
+trade 3116744	seller	Landon (17389)
+trade 3116744	time	2004-09-25T08:50:37.540
+trade 3116744	asset	REP04_L52
+trade 3116744	price	0.233
+trade 3116744	quantity	14
+trade 3117377	buyer	Landon (17389)
+trade 3117377	seller	Peyton (18019)
+trade 3117377	time	2004-09-25T15:37:25.753
+trade 3117377	asset	DEM04_G52
+trade 3117377	price	0.084
+trade 3117377	quantity	62
+trade 3117518	buyer	Ryan (17264)
+trade 3117518	seller	Mckenzie (18611)
+trade 3117518	time	2004-09-25T17:15:31.167
+trade 3117518	asset	DEM04_L52
+trade 3117518	price	0.245
+trade 3117518	quantity	15
+trade 3117524	buyer	Landon (17389)
+trade 3117524	seller	Sophia (1277)
+trade 3117524	time	2004-09-25T17:15:46.057
+trade 3117524	asset	REP04_G52
+trade 3117524	price	0.428
+trade 3117524	quantity	10
+trade 3117535	buyer	Landon (17389)
+trade 3117535	seller	Peyton (18019)
+trade 3117535	time	2004-09-25T17:15:46.713
+trade 3117535	asset	REP04_L52
+trade 3117535	price	0.234
+trade 3117535	quantity	28
+trade 3117956	buyer	Landon (17389)
+trade 3117956	seller	Legend (18259)
+trade 3117956	time	2004-09-25T21:26:22.323
+trade 3117956	asset	DEM04_G52
+trade 3117956	price	0.08
+trade 3117956	quantity	15
+trade 3118589	buyer	Khalil (18605)
+trade 3118589	seller	Landon (17389)
+trade 3118589	time	2004-09-26T15:45:40.313
+trade 3118589	asset	DEM04_L52
+trade 3118589	price	0.242
+trade 3118589	quantity	1
+trade 3119247	buyer	Kaylee (18212)
+trade 3119247	seller	Peyton (18019)
+trade 3119247	time	2004-09-26T20:57:36.510
+trade 3119247	asset	DEM04_L52
+trade 3119247	price	0.245
+trade 3119247	quantity	20
+trade 3119404	buyer	Peyton (18019)
+trade 3119404	seller	Juan (18305)
+trade 3119404	time	2004-09-26T21:28:35.057
+trade 3119404	asset	REP04_G52
+trade 3119404	price	0.472
+trade 3119404	quantity	4
+trade 3119439	buyer	Landon (17389)
+trade 3119439	seller	Kaleb (18499)
+trade 3119439	time	2004-09-26T21:32:01.447
+trade 3119439	asset	DEM04_L52
+trade 3119439	price	0.231
+trade 3119439	quantity	10
+trade 3119856	buyer	Ryan (17264)
+trade 3119856	seller	Adalyn (18292)
+trade 3119856	time	2004-09-27T00:35:02.940
+trade 3119856	asset	DEM04_L52
+trade 3119856	price	0.231
+trade 3119856	quantity	40
+trade 3120004	buyer	Landon (17389)
+trade 3120004	seller	Rodrigo (9508)
+trade 3120004	time	2004-09-27T09:08:54.593
+trade 3120004	asset	DEM04_L52
+trade 3120004	price	0.229
+trade 3120004	quantity	2
+trade 3120160	buyer	Kaleb (18499)
+trade 3120160	seller	Amiyah (18714)
+trade 3120160	time	2004-09-27T11:10:51.953
+trade 3120160	asset	REP04_G52
+trade 3120160	price	0.48
+trade 3120160	quantity	5
+trade 3120233	buyer	Willa (18838)
+trade 3120233	seller	Landon (17389)
+trade 3120233	time	2004-09-27T11:36:32.363
+trade 3120233	asset	REP04_L52
+trade 3120233	price	0.222
+trade 3120233	quantity	2
+trade 3120296	buyer	Alejandra (6251)
+trade 3120296	seller	Landon (17389)
+trade 3120296	time	2004-09-27T11:41:52.310
+trade 3120296	asset	DEM04_L52
+trade 3120296	price	0.217
+trade 3120296	quantity	1
+trade 3120979	buyer	Nasir (18875)
+trade 3120979	seller	Peyton (18019)
+trade 3120979	time	2004-09-27T14:30:26.987
+trade 3120979	asset	REP04_G52
+trade 3120979	price	0.5
+trade 3120979	quantity	54
+trade 3121002	buyer	Nasir (18875)
+trade 3121002	seller	Peyton (18019)
+trade 3121002	time	2004-09-27T14:31:13.583
+trade 3121002	asset	REP04_G52
+trade 3121002	price	0.517
+trade 3121002	quantity	64
+trade 3121840	buyer	Fiona (18661)
+trade 3121840	seller	Landon (17389)
+trade 3121840	time	2004-09-27T17:01:55.850
+trade 3121840	asset	DEM04_G52
+trade 3121840	price	0.069
+trade 3121840	quantity	3
+trade 3122364	buyer	Jonathan (17400)
+trade 3122364	seller	Peyton (18019)
+trade 3122364	time	2004-09-27T22:29:20.813
+trade 3122364	asset	DEM04_G52
+trade 3122364	price	0.067
+trade 3122364	quantity	88
+trade 3122864	buyer	Fiona (18661)
+trade 3122864	seller	Peyton (18019)
+trade 3122864	time	2004-09-28T09:39:10.327
+trade 3122864	asset	DEM04_G52
+trade 3122864	price	0.06
+trade 3122864	quantity	45
+trade 3122932	buyer	Ryland (4634)
+trade 3122932	seller	Juan (18305)
+trade 3122932	time	2004-09-28T09:58:59.240
+trade 3122932	asset	REP04_G52
+trade 3122932	price	0.526
+trade 3122932	quantity	1
+trade 3122935	buyer	Peyton (18019)
+trade 3122935	seller	Ryland (4634)
+trade 3122935	time	2004-09-28T09:59:42.523
+trade 3122935	asset	REP04_L52
+trade 3122935	price	0.202
+trade 3122935	quantity	24
+trade 3123831	buyer	Gabrielle (18876)
+trade 3123831	seller	Delilah (17393)
+trade 3123831	time	2004-09-28T14:11:09.993
+trade 3123831	asset	REP04_G52
+trade 3123831	price	0.51
+trade 3123831	quantity	29
+trade 3123905	buyer	Ariel (7602)
+trade 3123905	seller	Peyton (18019)
+trade 3123905	time	2004-09-28T14:29:43.743
+trade 3123905	asset	DEM04_G52
+trade 3123905	price	0.079
+trade 3123905	quantity	45
+trade 3124095	buyer	Leia (18659)
+trade 3124095	seller	Lexi (18899)
+trade 3124095	time	2004-09-28T15:19:46.430
+trade 3124095	asset	DEM04_L52
+trade 3124095	price	0.211
+trade 3124095	quantity	25
+trade 3124364	buyer	Hallie (18915)
+trade 3124364	seller	Landon (17389)
+trade 3124364	time	2004-09-28T17:26:49.440
+trade 3124364	asset	DEM04_L52
+trade 3124364	price	0.215
+trade 3124364	quantity	1
+trade 3124438	buyer	Parker (17933)
+trade 3124438	seller	Delilah (17393)
+trade 3124438	time	2004-09-28T18:12:52.810
+trade 3124438	asset	REP04_G52
+trade 3124438	price	0.498
+trade 3124438	quantity	100
+trade 3124886	buyer	Leonel (18826)
+trade 3124886	seller	James (1278)
+trade 3124886	time	2004-09-28T20:22:17.643
+trade 3124886	asset	DEM04_G52
+trade 3124886	price	0.089
+trade 3124886	quantity	9
+trade 3125413	buyer	Landon (17389)
+trade 3125413	seller	Juan (18305)
+trade 3125413	time	2004-09-28T21:47:32.930
+trade 3125413	asset	DEM04_G52
+trade 3125413	price	0.088
+trade 3125413	quantity	9
+trade 3125440	buyer	Landon (17389)
+trade 3125440	seller	Delaney (18702)
+trade 3125440	time	2004-09-28T21:47:34.130
+trade 3125440	asset	REP04_G52
+trade 3125440	price	0.46
+trade 3125440	quantity	29
+trade 3126481	buyer	Cooper (17448)
+trade 3126481	seller	Dylan (16748)
+trade 3126481	time	2004-09-29T07:32:45.093
+trade 3126481	asset	REP04_L52
+trade 3126481	price	0.2
+trade 3126481	quantity	7
+trade 3126524	buyer	Landon (17389)
+trade 3126524	seller	Dylan (16748)
+trade 3126524	time	2004-09-29T07:36:19.533
+trade 3126524	asset	REP04_L52
+trade 3126524	price	0.203
+trade 3126524	quantity	9
+trade 3126644	buyer	Ryder (18178)
+trade 3126644	seller	Elle (1891)
+trade 3126644	time	2004-09-29T07:52:44.803
+trade 3126644	asset	REP04_L52
+trade 3126644	price	0.207
+trade 3126644	quantity	4
+trade 3126645	buyer	Peyton (18019)
+trade 3126645	seller	Dylan (16748)
+trade 3126645	time	2004-09-29T07:53:04.977
+trade 3126645	asset	REP04_G52
+trade 3126645	price	0.474
+trade 3126645	quantity	40
+trade 3126678	buyer	Jaxton (18916)
+trade 3126678	seller	James (1278)
+trade 3126678	time	2004-09-29T07:57:56.360
+trade 3126678	asset	REP04_L52
+trade 3126678	price	0.21
+trade 3126678	quantity	10
+trade 3126883	buyer	Gabrielle (18876)
+trade 3126883	seller	Landon (17389)
+trade 3126883	time	2004-09-29T08:24:33.557
+trade 3126883	asset	REP04_G52
+trade 3126883	price	0.499
+trade 3126883	quantity	4
+trade 3126884	buyer	Cooper (17448)
+trade 3126884	seller	Landon (17389)
+trade 3126884	time	2004-09-29T08:24:33.557
+trade 3126884	asset	REP04_L52
+trade 3126884	price	0.2
+trade 3126884	quantity	4
+trade 3126886	buyer	Ryder (18178)
+trade 3126886	seller	Landon (17389)
+trade 3126886	time	2004-09-29T08:24:33.837
+trade 3126886	asset	DEM04_G52
+trade 3126886	price	0.091
+trade 3126886	quantity	8
+trade 3126995	buyer	Fiona (18661)
+trade 3126995	seller	Landon (17389)
+trade 3126995	time	2004-09-29T08:25:55.983
+trade 3126995	asset	DEM04_L52
+trade 3126995	price	0.228
+trade 3126995	quantity	1
+trade 3127041	buyer	Cesar (18909)
+trade 3127041	seller	Landon (17389)
+trade 3127041	time	2004-09-29T08:44:13.280
+trade 3127041	asset	DEM04_G52
+trade 3127041	price	0.084
+trade 3127041	quantity	1
+trade 3127047	buyer	Ryder (18178)
+trade 3127047	seller	Landon (17389)
+trade 3127047	time	2004-09-29T08:44:13.560
+trade 3127047	asset	DEM04_L52
+trade 3127047	price	0.228
+trade 3127047	quantity	3
+trade 3127476	buyer	Kaleb (18499)
+trade 3127476	seller	Corey (5298)
+trade 3127476	time	2004-09-29T10:33:49.340
+trade 3127476	asset	REP04_G52
+trade 3127476	price	0.496
+trade 3127476	quantity	1
+trade 3127532	buyer	Leonel (18826)
+trade 3127532	seller	Landon (17389)
+trade 3127532	time	2004-09-29T10:38:09.833
+trade 3127532	asset	DEM04_G52
+trade 3127532	price	0.095
+trade 3127532	quantity	4
+trade 3128026	buyer	Michelle (18807)
+trade 3128026	seller	Landon (17389)
+trade 3128026	time	2004-09-29T12:53:34.337
+trade 3128026	asset	REP04_G52
+trade 3128026	price	0.501
+trade 3128026	quantity	1
+trade 3128186	buyer	Romeo (18920)
+trade 3128186	seller	Juan (18305)
+trade 3128186	time	2004-09-29T13:08:17.643
+trade 3128186	asset	REP04_G52
+trade 3128186	price	0.525
+trade 3128186	quantity	25
+trade 3128338	buyer	Julius (18802)
+trade 3128338	seller	Landon (17389)
+trade 3128338	time	2004-09-29T13:22:55.123
+trade 3128338	asset	REP04_G52
+trade 3128338	price	0.51
+trade 3128338	quantity	21
+trade 3128734	buyer	Kaleb (18499)
+trade 3128734	seller	Ariel (7602)
+trade 3128734	time	2004-09-29T14:17:49.240
+trade 3128734	asset	REP04_G52
+trade 3128734	price	0.504
+trade 3128734	quantity	9
+trade 3129546	buyer	Brinley (18882)
+trade 3129546	seller	Landon (17389)
+trade 3129546	time	2004-09-29T20:08:29.430
+trade 3129546	asset	DEM04_G52
+trade 3129546	price	0.084
+trade 3129546	quantity	2
+trade 3129956	buyer	Caiden (18930)
+trade 3129956	seller	Landon (17389)
+trade 3129956	time	2004-09-29T21:54:56.710
+trade 3129956	asset	REP04_G52
+trade 3129956	price	0.48
+trade 3129956	quantity	16
+trade 3130297	buyer	Kaleb (18499)
+trade 3130297	seller	Jett (18610)
+trade 3130297	time	2004-09-29T23:06:54.980
+trade 3130297	asset	REP04_G52
+trade 3130297	price	0.455
+trade 3130297	quantity	10
+trade 3130472	buyer	Caiden (18930)
+trade 3130472	seller	Peyton (18019)
+trade 3130472	time	2004-09-29T23:28:08.727
+trade 3130472	asset	REP04_G52
+trade 3130472	price	0.484
+trade 3130472	quantity	18
+trade 3131046	buyer	Tate (18852)
+trade 3131046	seller	Collins (18889)
+trade 3131046	time	2004-09-30T07:15:10.727
+trade 3131046	asset	DEM04_L52
+trade 3131046	price	0.233
+trade 3131046	quantity	92
+trade 3131055	buyer	Tate (18852)
+trade 3131055	seller	James (1278)
+trade 3131055	time	2004-09-30T07:15:35.853
+trade 3131055	asset	DEM04_L52
+trade 3131055	price	0.238
+trade 3131055	quantity	5
+trade 3131095	buyer	Juan (18305)
+trade 3131095	seller	Landon (17389)
+trade 3131095	time	2004-09-30T07:26:38.817
+trade 3131095	asset	REP04_L52
+trade 3131095	price	0.199
+trade 3131095	quantity	23
+trade 3131098	buyer	Nathaniel (18250)
+trade 3131098	seller	Landon (17389)
+trade 3131098	time	2004-09-30T07:26:39.067
+trade 3131098	asset	DEM04_L52
+trade 3131098	price	0.23
+trade 3131098	quantity	27
+trade 3131408	buyer	Michelle (18807)
+trade 3131408	seller	Landon (17389)
+trade 3131408	time	2004-09-30T09:06:59.160
+trade 3131408	asset	REP04_G52
+trade 3131408	price	0.489
+trade 3131408	quantity	5
+trade 3132003	buyer	Kaleb (18499)
+trade 3132003	seller	Landon (17389)
+trade 3132003	time	2004-09-30T11:20:19.873
+trade 3132003	asset	REP04_G52
+trade 3132003	price	0.487
+trade 3132003	quantity	2
+trade 3132422	buyer	Landon (17389)
+trade 3132422	seller	Delilah (17393)
+trade 3132422	time	2004-09-30T11:53:28.117
+trade 3132422	asset	REP04_G52
+trade 3132422	price	0.447
+trade 3132422	quantity	7
+trade 3132544	buyer	Delilah (17393)
+trade 3132544	seller	Parker (17933)
+trade 3132544	time	2004-09-30T12:05:39.757
+trade 3132544	asset	REP04_L52
+trade 3132544	price	0.224
+trade 3132544	quantity	100
+trade 3132850	buyer	Aspen (18480)
+trade 3132850	seller	Ryan (17264)
+trade 3132850	time	2004-09-30T12:39:17.470
+trade 3132850	asset	DEM04_G52
+trade 3132850	price	0.098
+trade 3132850	quantity	11
+trade 3132955	buyer	Landon (17389)
+trade 3132955	seller	Anthony (16685)
+trade 3132955	time	2004-09-30T12:52:04.423
+trade 3132955	asset	DEM04_G52
+trade 3132955	price	0.1
+trade 3132955	quantity	11
+trade 3133325	buyer	Kaleb (18499)
+trade 3133325	seller	Elle (1891)
+trade 3133325	time	2004-09-30T13:49:01.867
+trade 3133325	asset	DEM04_L52
+trade 3133325	price	0.227
+trade 3133325	quantity	12
+trade 3133582	buyer	Jay (18932)
+trade 3133582	seller	Zelda (7422)
+trade 3133582	time	2004-09-30T15:03:22.063
+trade 3133582	asset	DEM04_G52
+trade 3133582	price	0.119
+trade 3133582	quantity	50
+trade 3134032	buyer	Brayden (18191)
+trade 3134032	seller	Landon (17389)
+trade 3134032	time	2004-09-30T17:27:15.360
+trade 3134032	asset	REP04_G52
+trade 3134032	price	0.469
+trade 3134032	quantity	1
+trade 3134049	buyer	Nola (6784)
+trade 3134049	seller	Owen (15547)
+trade 3134049	time	2004-09-30T17:28:40.497
+trade 3134049	asset	REP04_G52
+trade 3134049	price	0.465
+trade 3134049	quantity	4
+trade 3134144	buyer	Johnny (18946)
+trade 3134144	seller	Landon (17389)
+trade 3134144	time	2004-09-30T17:45:05.123
+trade 3134144	asset	REP04_G52
+trade 3134144	price	0.481
+trade 3134144	quantity	2
+trade 3134194	buyer	Juan (18305)
+trade 3134194	seller	Landon (17389)
+trade 3134194	time	2004-09-30T17:49:13.543
+trade 3134194	asset	DEM04_L52
+trade 3134194	price	0.22
+trade 3134194	quantity	5
+trade 3134491	buyer	Dylan (16748)
+trade 3134491	seller	Mila (1535)
+trade 3134491	time	2004-09-30T18:50:58.823
+trade 3134491	asset	DEM04_L52
+trade 3134491	price	0.222
+trade 3134491	quantity	5
+trade 3134529	buyer	Daleyza (18919)
+trade 3134529	seller	Juan (18305)
+trade 3134529	time	2004-09-30T19:10:54.047
+trade 3134529	asset	REP04_G52
+trade 3134529	price	0.5
+trade 3134529	quantity	50
+trade 3134950	buyer	Landon (17389)
+trade 3134950	seller	Aspen (18480)
+trade 3134950	time	2004-09-30T20:17:16.123
+trade 3134950	asset	REP04_L52
+trade 3134950	price	0.199
+trade 3134950	quantity	8
+trade 3135300	buyer	Brayden (18191)
+trade 3135300	seller	Landon (17389)
+trade 3135300	time	2004-09-30T20:57:40.060
+trade 3135300	asset	REP04_G52
+trade 3135300	price	0.495
+trade 3135300	quantity	1
+trade 3135464	buyer	Rosalie (18422)
+trade 3135464	seller	Jonah (18265)
+trade 3135464	time	2004-09-30T21:28:39.920
+trade 3135464	asset	REP04_G52
+trade 3135464	price	0.493
+trade 3135464	quantity	1
+trade 3135664	buyer	Enzo (18369)
+trade 3135664	seller	Tucker (18408)
+trade 3135664	time	2004-09-30T22:00:22.360
+trade 3135664	asset	REP04_G52
+trade 3135664	price	0.488
+trade 3135664	quantity	5
+trade 3135878	buyer	Landon (17389)
+trade 3135878	seller	Lexi (18899)
+trade 3135878	time	2004-09-30T22:19:34.440
+trade 3135878	asset	REP04_L52
+trade 3135878	price	0.194
+trade 3135878	quantity	12
+trade 3135959	buyer	Anastasia (18334)
+trade 3135959	seller	Peyton (18019)
+trade 3135959	time	2004-09-30T22:35:36.393
+trade 3135959	asset	DEM04_L52
+trade 3135959	price	0.234
+trade 3135959	quantity	40
+trade 3136490	buyer	Axel (17409)
+trade 3136490	seller	Landon (17389)
+trade 3136490	time	2004-10-01T00:21:36.563
+trade 3136490	asset	DEM04_L52
+trade 3136490	price	0.236
+trade 3136490	quantity	1
+trade 3136504	buyer	Khalil (18605)
+trade 3136504	seller	Michelle (18807)
+trade 3136504	time	2004-10-01T00:24:41.923
+trade 3136504	asset	DEM04_L52
+trade 3136504	price	0.24
+trade 3136504	quantity	4
+trade 3136834	buyer	Jayce (18318)
+trade 3136834	seller	Landon (17389)
+trade 3136834	time	2004-10-01T03:29:56.880
+trade 3136834	asset	DEM04_L52
+trade 3136834	price	0.251
+trade 3136834	quantity	1
+trade 3137576	buyer	Landon (17389)
+trade 3137576	seller	Lydia (17952)
+trade 3137576	time	2004-10-01T08:54:23.897
+trade 3137576	asset	DEM04_G52
+trade 3137576	price	0.112
+trade 3137576	quantity	4
+trade 3137776	buyer	Kieran (4286)
+trade 3137776	seller	Gabrielle (18876)
+trade 3137776	time	2004-10-01T10:07:48.060
+trade 3137776	asset	REP04_L52
+trade 3137776	price	0.207
+trade 3137776	quantity	293
+trade 3138220	buyer	Jayson (5491)
+trade 3138220	seller	Landon (17389)
+trade 3138220	time	2004-10-01T12:03:57.903
+trade 3138220	asset	DEM04_G52
+trade 3138220	price	0.114
+trade 3138220	quantity	1
+trade 3138458	buyer	King (18364)
+trade 3138458	seller	Jayson (5491)
+trade 3138458	time	2004-10-01T13:05:27.400
+trade 3138458	asset	REP04_G52
+trade 3138458	price	0.427
+trade 3138458	quantity	1
+trade 3138769	buyer	Alejandra (6251)
+trade 3138769	seller	Owen (15547)
+trade 3138769	time	2004-10-01T14:39:16.263
+trade 3138769	asset	REP04_L52
+trade 3138769	price	0.199
+trade 3138769	quantity	10
+trade 3139181	buyer	Peyton (18019)
+trade 3139181	seller	Landon (17389)
+trade 3139181	time	2004-10-01T18:35:33.057
+trade 3139181	asset	DEM04_G52
+trade 3139181	price	0.119
+trade 3139181	quantity	1
+trade 3139500	buyer	Landon (17389)
+trade 3139500	seller	Danna (1945)
+trade 3139500	time	2004-10-01T20:09:59.633
+trade 3139500	asset	REP04_L52
+trade 3139500	price	0.19
+trade 3139500	quantity	1
+trade 3139652	buyer	Bennett (18106)
+trade 3139652	seller	Gabriel (16617)
+trade 3139652	time	2004-10-01T21:54:23.560
+trade 3139652	asset	REP04_L52
+trade 3139652	price	0.189
+trade 3139652	quantity	1
+trade 3139692	buyer	Heidi (18931)
+trade 3139692	seller	Landon (17389)
+trade 3139692	time	2004-10-01T22:02:18.273
+trade 3139692	asset	REP04_G52
+trade 3139692	price	0.428
+trade 3139692	quantity	5
+trade 3139841	buyer	Gabriel (16617)
+trade 3139841	seller	Landon (17389)
+trade 3139841	time	2004-10-01T23:41:40.930
+trade 3139841	asset	REP04_G52
+trade 3139841	price	0.428
+trade 3139841	quantity	5
+trade 3141896	buyer	Dylan (268)
+trade 3141896	seller	Peyton (18019)
+trade 3141896	time	2004-10-02T18:30:22.617
+trade 3141896	asset	REP04_L52
+trade 3141896	price	0.193
+trade 3141896	quantity	85
+trade 3141980	buyer	Kendra (6314)
+trade 3141980	seller	Jayden (16611)
+trade 3141980	time	2004-10-02T18:52:07.903
+trade 3141980	asset	REP04_G52
+trade 3141980	price	0.404
+trade 3141980	quantity	5
+trade 3142067	buyer	Landon (17389)
+trade 3142067	seller	Wade (18814)
+trade 3142067	time	2004-10-02T19:06:52.843
+trade 3142067	asset	REP04_G52
+trade 3142067	price	0.405
+trade 3142067	quantity	4
+trade 3142245	buyer	Landon (17389)
+trade 3142245	seller	Olivia (10138)
+trade 3142245	time	2004-10-02T20:09:19.740
+trade 3142245	asset	REP04_G52
+trade 3142245	price	0.403
+trade 3142245	quantity	3
+trade 3142425	buyer	Peyton (18019)
+trade 3142425	seller	Olivia (10138)
+trade 3142425	time	2004-10-02T20:59:42.497
+trade 3142425	asset	REP04_G52
+trade 3142425	price	0.397
+trade 3142425	quantity	20
+trade 3142821	buyer	Winter (18708)
+trade 3142821	seller	Peyton (18019)
+trade 3142821	time	2004-10-02T22:04:22.127
+trade 3142821	asset	REP04_L52
+trade 3142821	price	0.205
+trade 3142821	quantity	85
+trade 3143192	buyer	Peyton (18019)
+trade 3143192	seller	Delilah (17393)
+trade 3143192	time	2004-10-02T23:04:03.960
+trade 3143192	asset	REP04_G52
+trade 3143192	price	0.392
+trade 3143192	quantity	40
+trade 3143285	buyer	Delilah (17393)
+trade 3143285	seller	Landon (17389)
+trade 3143285	time	2004-10-02T23:18:06.757
+trade 3143285	asset	DEM04_G52
+trade 3143285	price	0.149
+trade 3143285	quantity	3
+trade 3143738	buyer	Delilah (17393)
+trade 3143738	seller	Elle (1891)
+trade 3143738	time	2004-10-03T00:06:35.860
+trade 3143738	asset	DEM04_G52
+trade 3143738	price	0.176
+trade 3143738	quantity	10
+trade 3143747	buyer	Peyton (18019)
+trade 3143747	seller	Elle (1891)
+trade 3143747	time	2004-10-03T00:08:15.417
+trade 3143747	asset	REP04_G52
+trade 3143747	price	0.373
+trade 3143747	quantity	4
+trade 3143750	buyer	Sebastian (14385)
+trade 3143750	seller	Peyton (18019)
+trade 3143750	time	2004-10-03T00:10:47.273
+trade 3143750	asset	REP04_L52
+trade 3143750	price	0.2
+trade 3143750	quantity	75
+trade 3143950	buyer	Olivia (10138)
+trade 3143950	seller	Elle (1891)
+trade 3143950	time	2004-10-03T00:28:29.633
+trade 3143950	asset	REP04_L52
+trade 3143950	price	0.201
+trade 3143950	quantity	4
+trade 3144679	buyer	Delilah (17393)
+trade 3144679	seller	Xander (18398)
+trade 3144679	time	2004-10-03T07:47:27.103
+trade 3144679	asset	DEM04_G52
+trade 3144679	price	0.159
+trade 3144679	quantity	10
+trade 3145046	buyer	Alani (18472)
+trade 3145046	seller	Landon (17389)
+trade 3145046	time	2004-10-03T10:34:16.407
+trade 3145046	asset	DEM04_L52
+trade 3145046	price	0.28
+trade 3145046	quantity	4
+trade 3145105	buyer	Dorothy (5985)
+trade 3145105	seller	Landon (17389)
+trade 3145105	time	2004-10-03T10:44:16.023
+trade 3145105	asset	DEM04_L52
+trade 3145105	price	0.27
+trade 3145105	quantity	4
+trade 3145670	buyer	Michelle (18807)
+trade 3145670	seller	Juan (18305)
+trade 3145670	time	2004-10-03T12:07:57.190
+trade 3145670	asset	REP04_G52
+trade 3145670	price	0.369
+trade 3145670	quantity	10
+trade 3145694	buyer	Kaleb (18499)
+trade 3145694	seller	Landon (17389)
+trade 3145694	time	2004-10-03T12:13:24.080
+trade 3145694	asset	REP04_L52
+trade 3145694	price	0.199
+trade 3145694	quantity	20
+trade 3145821	buyer	Mario (18790)
+trade 3145821	seller	Peyton (18019)
+trade 3145821	time	2004-10-03T13:02:45.673
+trade 3145821	asset	REP04_L52
+trade 3145821	price	0.2
+trade 3145821	quantity	39
+trade 3145990	buyer	Kaleb (18499)
+trade 3145990	seller	Landon (17389)
+trade 3145990	time	2004-10-03T13:42:28.967
+trade 3145990	asset	REP04_G52
+trade 3145990	price	0.37
+trade 3145990	quantity	1
+trade 3146060	buyer	Kaleb (18499)
+trade 3146060	seller	Landon (17389)
+trade 3146060	time	2004-10-03T13:54:57.563
+trade 3146060	asset	DEM04_G52
+trade 3146060	price	0.166
+trade 3146060	quantity	7
+trade 3146095	buyer	Landon (17389)
+trade 3146095	seller	Elle (1891)
+trade 3146095	time	2004-10-03T13:59:39.447
+trade 3146095	asset	DEM04_L52
+trade 3146095	price	0.265
+trade 3146095	quantity	3
+trade 3146097	buyer	Landon (17389)
+trade 3146097	seller	Elle (1891)
+trade 3146097	time	2004-10-03T13:59:39.447
+trade 3146097	asset	REP04_L52
+trade 3146097	price	0.199
+trade 3146097	quantity	3
+trade 3146367	buyer	Jordyn (18413)
+trade 3146367	seller	Eden (18271)
+trade 3146367	time	2004-10-03T14:52:31.503
+trade 3146367	asset	DEM04_G52
+trade 3146367	price	0.18
+trade 3146367	quantity	206
+trade 3146797	buyer	Charlee (18604)
+trade 3146797	seller	Peyton (18019)
+trade 3146797	time	2004-10-03T17:17:05.187
+trade 3146797	asset	REP04_G52
+trade 3146797	price	0.364
+trade 3146797	quantity	1
+trade 3147431	buyer	Melody (18166)
+trade 3147431	seller	Landon (17389)
+trade 3147431	time	2004-10-03T19:43:38.803
+trade 3147431	asset	DEM04_L52
+trade 3147431	price	0.246
+trade 3147431	quantity	3
+trade 3148458	buyer	Cataleya (18935)
+trade 3148458	seller	Kaliyah (7595)
+trade 3148458	time	2004-10-04T00:22:26.380
+trade 3148458	asset	DEM04_G52
+trade 3148458	price	0.191
+trade 3148458	quantity	100
+trade 3149618	buyer	Oliver (1104)
+trade 3149618	seller	Peyton (18019)
+trade 3149618	time	2004-10-04T08:17:17.433
+trade 3149618	asset	REP04_L52
+trade 3149618	price	0.214
+trade 3149618	quantity	38
+trade 3149807	buyer	Landon (17389)
+trade 3149807	seller	Jayson (5491)
+trade 3149807	time	2004-10-04T09:13:40.783
+trade 3149807	asset	DEM04_G52
+trade 3149807	price	0.184
+trade 3149807	quantity	1
+trade 3149929	buyer	Nicholas (17599)
+trade 3149929	seller	Landon (17389)
+trade 3149929	time	2004-10-04T09:31:20.643
+trade 3149929	asset	REP04_L52
+trade 3149929	price	0.205
+trade 3149929	quantity	1
+trade 3150395	buyer	Peyton (18019)
+trade 3150395	seller	Kaleb (18499)
+trade 3150395	time	2004-10-04T10:22:41.843
+trade 3150395	asset	REP04_L52
+trade 3150395	price	0.201
+trade 3150395	quantity	1
+trade 3150419	buyer	Kaleb (18499)
+trade 3150419	seller	Landon (17389)
+trade 3150419	time	2004-10-04T10:31:00.543
+trade 3150419	asset	DEM04_G52
+trade 3150419	price	0.178
+trade 3150419	quantity	1
+trade 3150604	buyer	Juan (18305)
+trade 3150604	seller	Peyton (18019)
+trade 3150604	time	2004-10-04T11:13:31.630
+trade 3150604	asset	REP04_G52
+trade 3150604	price	0.366
+trade 3150604	quantity	10
+trade 3150632	buyer	Ainsley (18857)
+trade 3150632	seller	Landon (17389)
+trade 3150632	time	2004-10-04T11:17:33.620
+trade 3150632	asset	REP04_L52
+trade 3150632	price	0.207
+trade 3150632	quantity	6
+trade 3150844	buyer	Kaleb (18499)
+trade 3150844	seller	Landon (17389)
+trade 3150844	time	2004-10-04T11:44:58.003
+trade 3150844	asset	DEM04_L52
+trade 3150844	price	0.26
+trade 3150844	quantity	1
+trade 3151204	buyer	Landon (17389)
+trade 3151204	seller	Lexi (18899)
+trade 3151204	time	2004-10-04T13:01:23.400
+trade 3151204	asset	DEM04_L52
+trade 3151204	price	0.257
+trade 3151204	quantity	4
+trade 3151649	buyer	Wade (18814)
+trade 3151649	seller	Adelyn (18510)
+trade 3151649	time	2004-10-04T15:21:26.620
+trade 3151649	asset	REP04_L52
+trade 3151649	price	0.205
+trade 3151649	quantity	10
+trade 3151849	buyer	Owen (15547)
+trade 3151849	seller	Nicholas (17599)
+trade 3151849	time	2004-10-04T16:42:39.857
+trade 3151849	asset	DEM04_L52
+trade 3151849	price	0.251
+trade 3151849	quantity	1
+trade 3151879	buyer	Landon (17389)
+trade 3151879	seller	Emely (5187)
+trade 3151879	time	2004-10-04T16:43:23.847
+trade 3151879	asset	REP04_G52
+trade 3151879	price	0.38
+trade 3151879	quantity	8
+trade 3151956	buyer	Xander (18398)
+trade 3151956	seller	Emely (5187)
+trade 3151956	time	2004-10-04T16:48:32.937
+trade 3151956	asset	REP04_G52
+trade 3151956	price	0.38
+trade 3151956	quantity	20
+trade 3154204	buyer	Madeleine (18969)
+trade 3154204	seller	Kaleb (18499)
+trade 3154204	time	2004-10-05T11:44:59.130
+trade 3154204	asset	DEM04_G52
+trade 3154204	price	0.16
+trade 3154204	quantity	1
+trade 3154396	buyer	Jaxton (18916)
+trade 3154396	seller	Gabriel (16617)
+trade 3154396	time	2004-10-05T12:37:00.150
+trade 3154396	asset	DEM04_L52
+trade 3154396	price	0.255
+trade 3154396	quantity	1
+trade 3154709	buyer	Peyton (18019)
+trade 3154709	seller	Paisley (17123)
+trade 3154709	time	2004-10-05T13:55:05.243
+trade 3154709	asset	REP04_G52
+trade 3154709	price	0.353
+trade 3154709	quantity	55
+trade 3155934	buyer	Alessandra (18904)
+trade 3155934	seller	Xander (18398)
+trade 3155934	time	2004-10-05T18:09:14.483
+trade 3155934	asset	DEM04_G52
+trade 3155934	price	0.181
+trade 3155934	quantity	4
+trade 3155937	buyer	Leilani (17760)
+trade 3155937	seller	Xander (18398)
+trade 3155937	time	2004-10-05T18:09:14.500
+trade 3155937	asset	REP04_L52
+trade 3155937	price	0.218
+trade 3155937	quantity	4
+trade 3156345	buyer	Landon (17389)
+trade 3156345	seller	Xander (18398)
+trade 3156345	time	2004-10-05T19:59:33.747
+trade 3156345	asset	DEM04_L52
+trade 3156345	price	0.236
+trade 3156345	quantity	3
+trade 3156454	buyer	Amber (4124)
+trade 3156454	seller	Landon (17389)
+trade 3156454	time	2004-10-05T20:17:07.750
+trade 3156454	asset	REP04_L52
+trade 3156454	price	0.219
+trade 3156454	quantity	5
+trade 3156535	buyer	Jayceon (18980)
+trade 3156535	seller	Landon (17389)
+trade 3156535	time	2004-10-05T20:29:31.497
+trade 3156535	asset	REP04_L52
+trade 3156535	price	0.216
+trade 3156535	quantity	12
+trade 3156804	buyer	Ainsley (18857)
+trade 3156804	seller	Landon (17389)
+trade 3156804	time	2004-10-05T21:37:32.080
+trade 3156804	asset	REP04_G52
+trade 3156804	price	0.375
+trade 3156804	quantity	22
+trade 3156805	buyer	Peyton (18019)
+trade 3156805	seller	Landon (17389)
+trade 3156805	time	2004-10-05T21:37:32.080
+trade 3156805	asset	REP04_L52
+trade 3156805	price	0.213
+trade 3156805	quantity	22
+trade 3157146	buyer	Corey (5298)
+trade 3157146	seller	Landon (17389)
+trade 3157146	time	2004-10-05T22:26:51.767
+trade 3157146	asset	DEM04_L52
+trade 3157146	price	0.231
+trade 3157146	quantity	1
+trade 3157241	buyer	Keanu (4115)
+trade 3157241	seller	Landon (17389)
+trade 3157241	time	2004-10-05T22:30:51.710
+trade 3157241	asset	REP04_L52
+trade 3157241	price	0.212
+trade 3157241	quantity	10
+trade 3157424	buyer	Zelda (7422)
+trade 3157424	seller	Ellie (16384)
+trade 3157424	time	2004-10-05T22:40:48.467
+trade 3157424	asset	DEM04_L52
+trade 3157424	price	0.229
+trade 3157424	quantity	5
+trade 3157667	buyer	Esmeralda (18972)
+trade 3157667	seller	Ellie (16384)
+trade 3157667	time	2004-10-05T23:36:38.547
+trade 3157667	asset	DEM04_G52
+trade 3157667	price	0.18
+trade 3157667	quantity	3
+trade 3157722	buyer	Gabriel (16617)
+trade 3157722	seller	Landon (17389)
+trade 3157722	time	2004-10-05T23:45:02.717
+trade 3157722	asset	REP04_L52
+trade 3157722	price	0.217
+trade 3157722	quantity	6
+trade 3157730	buyer	Kira (18937)
+trade 3157730	seller	Gabriel (16617)
+trade 3157730	time	2004-10-05T23:46:22.240
+trade 3157730	asset	DEM04_L52
+trade 3157730	price	0.229
+trade 3157730	quantity	1
+trade 3157742	buyer	Kira (18937)
+trade 3157742	seller	Owen (15547)
+trade 3157742	time	2004-10-05T23:48:16.127
+trade 3157742	asset	DEM04_L52
+trade 3157742	price	0.231
+trade 3157742	quantity	2
+trade 3157946	buyer	Landon (17389)
+trade 3157946	seller	Delilah (17393)
+trade 3157946	time	2004-10-06T01:18:28.360
+trade 3157946	asset	REP04_L52
+trade 3157946	price	0.216
+trade 3157946	quantity	12
+trade 3158349	buyer	Jared (18903)
+trade 3158349	seller	Landon (17389)
+trade 3158349	time	2004-10-06T06:38:55.743
+trade 3158349	asset	REP04_L52
+trade 3158349	price	0.215
+trade 3158349	quantity	6
+trade 3158373	buyer	Peyton (18019)
+trade 3158373	seller	Landon (17389)
+trade 3158373	time	2004-10-06T06:38:57.150
+trade 3158373	asset	REP04_G52
+trade 3158373	price	0.356
+trade 3158373	quantity	4
+trade 3158575	buyer	Kaleb (18499)
+trade 3158575	seller	Landon (17389)
+trade 3158575	time	2004-10-06T08:10:00.277
+trade 3158575	asset	REP04_G52
+trade 3158575	price	0.369
+trade 3158575	quantity	1
+trade 3159033	buyer	Solomon (18995)
+trade 3159033	seller	Parker (17933)
+trade 3159033	time	2004-10-06T11:21:32.927
+trade 3159033	asset	DEM04_G52
+trade 3159033	price	0.198
+trade 3159033	quantity	10
+trade 3159042	buyer	Juan (18305)
+trade 3159042	seller	Parker (17933)
+trade 3159042	time	2004-10-06T11:21:37.973
+trade 3159042	asset	REP04_G52
+trade 3159042	price	0.362
+trade 3159042	quantity	11
+trade 3159416	buyer	Camryn (18994)
+trade 3159416	seller	Landon (17389)
+trade 3159416	time	2004-10-06T12:31:51.120
+trade 3159416	asset	REP04_G52
+trade 3159416	price	0.355
+trade 3159416	quantity	1
+trade 3159502	buyer	Solomon (18995)
+trade 3159502	seller	Owen (15547)
+trade 3159502	time	2004-10-06T12:37:52.997
+trade 3159502	asset	DEM04_G52
+trade 3159502	price	0.19
+trade 3159502	quantity	4
+trade 3159921	buyer	Makenna (18988)
+trade 3159921	seller	Landon (17389)
+trade 3159921	time	2004-10-06T14:08:50.740
+trade 3159921	asset	REP04_G52
+trade 3159921	price	0.36
+trade 3159921	quantity	50
+trade 3160205	buyer	Maxwell (18307)
+trade 3160205	seller	Olivia (10138)
+trade 3160205	time	2004-10-06T14:44:52.433
+trade 3160205	asset	REP04_L52
+trade 3160205	price	0.219
+trade 3160205	quantity	7
+trade 3160366	buyer	Jordyn (18413)
+trade 3160366	seller	Landon (17389)
+trade 3160366	time	2004-10-06T14:57:14.753
+trade 3160366	asset	DEM04_G52
+trade 3160366	price	0.2
+trade 3160366	quantity	15
+trade 3160544	buyer	Sophia (1277)
+trade 3160544	seller	Landon (17389)
+trade 3160544	time	2004-10-06T15:03:34.573
+trade 3160544	asset	DEM04_L52
+trade 3160544	price	0.227
+trade 3160544	quantity	3
+trade 3161052	buyer	Elian (18859)
+trade 3161052	seller	Gabriel (16617)
+trade 3161052	time	2004-10-06T18:18:50.010
+trade 3161052	asset	DEM04_G52
+trade 3161052	price	0.194
+trade 3161052	quantity	1
+trade 3161111	buyer	Anna (17390)
+trade 3161111	seller	Elle (1891)
+trade 3161111	time	2004-10-06T18:28:28.283
+trade 3161111	asset	REP04_L52
+trade 3161111	price	0.214
+trade 3161111	quantity	5
+trade 3161823	buyer	Stevie (19005)
+trade 3161823	seller	Dylan (16748)
+trade 3161823	time	2004-10-06T21:33:59.217
+trade 3161823	asset	DEM04_G52
+trade 3161823	price	0.2
+trade 3161823	quantity	10
+trade 3162714	buyer	Antonio (18384)
+trade 3162714	seller	Landon (17389)
+trade 3162714	time	2004-10-07T00:30:16.567
+trade 3162714	asset	REP04_L52
+trade 3162714	price	0.218
+trade 3162714	quantity	1
+trade 3162744	buyer	Heidi (18931)
+trade 3162744	seller	Landon (17389)
+trade 3162744	time	2004-10-07T00:34:37.120
+trade 3162744	asset	REP04_G52
+trade 3162744	price	0.343
+trade 3162744	quantity	18
+trade 3162950	buyer	Bowen (18965)
+trade 3162950	seller	Corey (5298)
+trade 3162950	time	2004-10-07T02:07:11.523
+trade 3162950	asset	REP04_G52
+trade 3162950	price	0.341
+trade 3162950	quantity	10
+trade 3163278	buyer	Gabriel (16617)
+trade 3163278	seller	Oakley (18617)
+trade 3163278	time	2004-10-07T07:54:18.013
+trade 3163278	asset	DEM04_G52
+trade 3163278	price	0.201
+trade 3163278	quantity	10
+trade 3163285	buyer	Landon (17389)
+trade 3163285	seller	Gabriel (16617)
+trade 3163285	time	2004-10-07T07:55:32.240
+trade 3163285	asset	REP04_L52
+trade 3163285	price	0.218
+trade 3163285	quantity	1
+trade 3163298	buyer	Gabriel (16617)
+trade 3163298	seller	Landon (17389)
+trade 3163298	time	2004-10-07T07:56:37.900
+trade 3163298	asset	REP04_L52
+trade 3163298	price	0.219
+trade 3163298	quantity	1
+trade 3163412	buyer	Landon (17389)
+trade 3163412	seller	Jax (18535)
+trade 3163412	time	2004-10-07T08:39:28.540
+trade 3163412	asset	REP04_L52
+trade 3163412	price	0.218
+trade 3163412	quantity	1
+trade 3163494	buyer	Oakley (18617)
+trade 3163494	seller	Bruce (2691)
+trade 3163494	time	2004-10-07T08:54:12.680
+trade 3163494	asset	DEM04_G52
+trade 3163494	price	0.199
+trade 3163494	quantity	136
+trade 3164057	buyer	Richard (18442)
+trade 3164057	seller	Landon (17389)
+trade 3164057	time	2004-10-07T12:31:39.037
+trade 3164057	asset	REP04_G52
+trade 3164057	price	0.343
+trade 3164057	quantity	9
+trade 3164741	buyer	Helen (19040)
+trade 3164741	seller	Landon (17389)
+trade 3164741	time	2004-10-07T14:42:37.537
+trade 3164741	asset	DEM04_G52
+trade 3164741	price	0.203
+trade 3164741	quantity	1
+trade 3164929	buyer	Amalia (7886)
+trade 3164929	seller	Landon (17389)
+trade 3164929	time	2004-10-07T15:08:40.350
+trade 3164929	asset	DEM04_G52
+trade 3164929	price	0.208
+trade 3164929	quantity	1
+trade 3164930	buyer	Amalia (7886)
+trade 3164930	seller	Landon (17389)
+trade 3164930	time	2004-10-07T15:08:40.350
+trade 3164930	asset	DEM04_L52
+trade 3164930	price	0.247
+trade 3164930	quantity	1
+trade 3165158	buyer	Gabriel (16617)
+trade 3165158	seller	Oakley (18617)
+trade 3165158	time	2004-10-07T16:40:24.360
+trade 3165158	asset	DEM04_G52
+trade 3165158	price	0.201
+trade 3165158	quantity	1
+trade 3165800	buyer	Sabrina (18947)
+trade 3165800	seller	Landon (17389)
+trade 3165800	time	2004-10-07T21:33:40.097
+trade 3165800	asset	DEM04_G52
+trade 3165800	price	0.188
+trade 3165800	quantity	2
+trade 3165993	buyer	Jayceon (18980)
+trade 3165993	seller	Elle (1891)
+trade 3165993	time	2004-10-07T22:21:32.340
+trade 3165993	asset	REP04_G52
+trade 3165993	price	0.342
+trade 3165993	quantity	1
+trade 3166133	buyer	Khalil (18605)
+trade 3166133	seller	Julian (16571)
+trade 3166133	time	2004-10-07T23:23:34.770
+trade 3166133	asset	DEM04_G52
+trade 3166133	price	0.197
+trade 3166133	quantity	2
+trade 3166798	buyer	Landon (17389)
+trade 3166798	seller	Armani (1888)
+trade 3166798	time	2004-10-08T07:35:42.453
+trade 3166798	asset	REP04_L52
+trade 3166798	price	0.219
+trade 3166798	quantity	12
+trade 3166799	buyer	Armani (1888)
+trade 3166799	seller	Corey (5298)
+trade 3166799	time	2004-10-08T07:36:01.250
+trade 3166799	asset	REP04_L52
+trade 3166799	price	0.223
+trade 3166799	quantity	58
+trade 3166835	buyer	Bowen (18965)
+trade 3166835	seller	Kailani (18620)
+trade 3166835	time	2004-10-08T07:39:53.770
+trade 3166835	asset	REP04_G52
+trade 3166835	price	0.337
+trade 3166835	quantity	56
+trade 3166880	buyer	Titus (18822)
+trade 3166880	seller	Landon (17389)
+trade 3166880	time	2004-10-08T08:22:28.687
+trade 3166880	asset	REP04_L52
+trade 3166880	price	0.222
+trade 3166880	quantity	12
+trade 3167126	buyer	Royce (18993)
+trade 3167126	seller	Landon (17389)
+trade 3167126	time	2004-10-08T09:51:03.540
+trade 3167126	asset	DEM04_G52
+trade 3167126	price	0.195
+trade 3167126	quantity	3
+trade 3167249	buyer	Edgar (1896)
+trade 3167249	seller	Sophia (1277)
+trade 3167249	time	2004-10-08T10:20:17.523
+trade 3167249	asset	REP04_L52
+trade 3167249	price	0.249
+trade 3167249	quantity	10
+trade 3167646	buyer	Samara (1884)
+trade 3167646	seller	Dylan (16748)
+trade 3167646	time	2004-10-08T11:33:25.963
+trade 3167646	asset	REP04_L52
+trade 3167646	price	0.257
+trade 3167646	quantity	18
+trade 3168254	buyer	Kaleb (18499)
+trade 3168254	seller	Madilyn (18777)
+trade 3168254	time	2004-10-08T13:38:32.230
+trade 3168254	asset	REP04_G52
+trade 3168254	price	0.303
+trade 3168254	quantity	1
+trade 3168676	buyer	Gabriel (16617)
+trade 3168676	seller	Delilah (17393)
+trade 3168676	time	2004-10-08T15:35:26.627
+trade 3168676	asset	REP04_L52
+trade 3168676	price	0.234
+trade 3168676	quantity	3
+trade 3168741	buyer	Averie (19044)
+trade 3168741	seller	Gabriel (16617)
+trade 3168741	time	2004-10-08T15:48:24.790
+trade 3168741	asset	REP04_G52
+trade 3168741	price	0.3
+trade 3168741	quantity	1
+trade 3168882	buyer	Kendra (6314)
+trade 3168882	seller	Xander (18398)
+trade 3168882	time	2004-10-08T17:25:15.380
+trade 3168882	asset	DEM04_L52
+trade 3168882	price	0.252
+trade 3168882	quantity	1
+trade 3168899	buyer	Landon (17389)
+trade 3168899	seller	Xander (18398)
+trade 3168899	time	2004-10-08T17:26:12.243
+trade 3168899	asset	DEM04_L52
+trade 3168899	price	0.252
+trade 3168899	quantity	6
+trade 3168929	buyer	Dylan (16748)
+trade 3168929	seller	Xander (18398)
+trade 3168929	time	2004-10-08T17:26:41.230
+trade 3168929	asset	DEM04_L52
+trade 3168929	price	0.25
+trade 3168929	quantity	3
+trade 3169031	buyer	Daniella (19014)
+trade 3169031	seller	Landon (17389)
+trade 3169031	time	2004-10-08T17:38:16.823
+trade 3169031	asset	DEM04_G52
+trade 3169031	price	0.208
+trade 3169031	quantity	5
+trade 3169266	buyer	Brooklynn (18570)
+trade 3169266	seller	Landon (17389)
+trade 3169266	time	2004-10-08T18:18:25.743
+trade 3169266	asset	DEM04_G52
+trade 3169266	price	0.21
+trade 3169266	quantity	1
+trade 3169556	buyer	Noel (19017)
+trade 3169556	seller	Olivia (10138)
+trade 3169556	time	2004-10-08T19:35:34.503
+trade 3169556	asset	DEM04_L52
+trade 3169556	price	0.27
+trade 3169556	quantity	50
+trade 3169581	buyer	Killian (18840)
+trade 3169581	seller	Tyson (18910)
+trade 3169581	time	2004-10-08T19:41:19.173
+trade 3169581	asset	DEM04_L52
+trade 3169581	price	0.272
+trade 3169581	quantity	100
+trade 3169881	buyer	Landon (17389)
+trade 3169881	seller	Juan (18305)
+trade 3169881	time	2004-10-08T20:13:06.237
+trade 3169881	asset	DEM04_L52
+trade 3169881	price	0.284
+trade 3169881	quantity	10
+trade 3170027	buyer	Elle (1891)
+trade 3170027	seller	Lexi (18899)
+trade 3170027	time	2004-10-08T20:32:57.997
+trade 3170027	asset	DEM04_G52
+trade 3170027	price	0.21
+trade 3170027	quantity	20
+trade 3170211	buyer	Cohen (18618)
+trade 3170211	seller	Jonathan (17400)
+trade 3170211	time	2004-10-08T21:16:14.713
+trade 3170211	asset	DEM04_G52
+trade 3170211	price	0.21
+trade 3170211	quantity	50
+trade 3170214	buyer	Cohen (18618)
+trade 3170214	seller	Jonathan (17400)
+trade 3170214	time	2004-10-08T21:17:22.313
+trade 3170214	asset	DEM04_G52
+trade 3170214	price	0.21
+trade 3170214	quantity	50
+trade 3170452	buyer	Cohen (18618)
+trade 3170452	seller	Landon (17389)
+trade 3170452	time	2004-10-08T22:00:26.750
+trade 3170452	asset	DEM04_G52
+trade 3170452	price	0.201
+trade 3170452	quantity	4
+trade 3170609	buyer	Bella (17365)
+trade 3170609	seller	Landon (17389)
+trade 3170609	time	2004-10-08T22:26:17.623
+trade 3170609	asset	DEM04_L52
+trade 3170609	price	0.259
+trade 3170609	quantity	23
+trade 3170812	buyer	Landon (17389)
+trade 3170812	seller	Elle (1891)
+trade 3170812	time	2004-10-08T23:13:16.577
+trade 3170812	asset	DEM04_G52
+trade 3170812	price	0.201
+trade 3170812	quantity	6
+trade 3171086	buyer	Parker (17933)
+trade 3171086	seller	Kason (18898)
+trade 3171086	time	2004-10-09T02:48:20.797
+trade 3171086	asset	REP04_L52
+trade 3171086	price	0.24
+trade 3171086	quantity	3
+trade 3171596	buyer	Kaleb (18499)
+trade 3171596	seller	Landon (17389)
+trade 3171596	time	2004-10-09T09:50:16.423
+trade 3171596	asset	DEM04_G52
+trade 3171596	price	0.204
+trade 3171596	quantity	2
+trade 3171783	buyer	Elle (1891)
+trade 3171783	seller	Imani (5226)
+trade 3171783	time	2004-10-09T11:06:25.803
+trade 3171783	asset	REP04_G52
+trade 3171783	price	0.308
+trade 3171783	quantity	2
+trade 3171810	buyer	Kaleb (18499)
+trade 3171810	seller	Parker (17933)
+trade 3171810	time	2004-10-09T11:21:08.973
+trade 3171810	asset	REP04_G52
+trade 3171810	price	0.315
+trade 3171810	quantity	1
+trade 3171878	buyer	Kaleb (18499)
+trade 3171878	seller	Delilah (17393)
+trade 3171878	time	2004-10-09T11:57:52.703
+trade 3171878	asset	DEM04_G52
+trade 3171878	price	0.2
+trade 3171878	quantity	1
+trade 3172004	buyer	Kaleb (18499)
+trade 3172004	seller	Landon (17389)
+trade 3172004	time	2004-10-09T12:30:09.033
+trade 3172004	asset	REP04_L52
+trade 3172004	price	0.256
+trade 3172004	quantity	1
+trade 3172006	buyer	Derrick (6422)
+trade 3172006	seller	Makai (6295)
+trade 3172006	time	2004-10-09T12:31:44.103
+trade 3172006	asset	REP04_L52
+trade 3172006	price	0.253
+trade 3172006	quantity	10
+trade 3172038	buyer	Derrick (6422)
+trade 3172038	seller	Landon (17389)
+trade 3172038	time	2004-10-09T12:35:50.203
+trade 3172038	asset	REP04_L52
+trade 3172038	price	0.253
+trade 3172038	quantity	4
+trade 3172050	buyer	Kaleb (18499)
+trade 3172050	seller	Landon (17389)
+trade 3172050	time	2004-10-09T12:38:06.653
+trade 3172050	asset	REP04_G52
+trade 3172050	price	0.304
+trade 3172050	quantity	3
+trade 3172151	buyer	Kaleb (18499)
+trade 3172151	seller	Lexi (18899)
+trade 3172151	time	2004-10-09T13:09:46.217
+trade 3172151	asset	REP04_G52
+trade 3172151	price	0.302
+trade 3172151	quantity	1
+trade 3172153	buyer	Landon (17389)
+trade 3172153	seller	Kendra (6314)
+trade 3172153	time	2004-10-09T13:10:10.640
+trade 3172153	asset	REP04_L52
+trade 3172153	price	0.244
+trade 3172153	quantity	1
+trade 3173656	buyer	Elian (18859)
+trade 3173656	seller	Landon (17389)
+trade 3173656	time	2004-10-10T00:30:19.303
+trade 3173656	asset	DEM04_G52
+trade 3173656	price	0.204
+trade 3173656	quantity	2
+trade 3173818	buyer	Landon (17389)
+trade 3173818	seller	Madilyn (18777)
+trade 3173818	time	2004-10-10T02:51:53.860
+trade 3173818	asset	DEM04_G52
+trade 3173818	price	0.2
+trade 3173818	quantity	1
+trade 3173824	buyer	Khalil (18605)
+trade 3173824	seller	Madilyn (18777)
+trade 3173824	time	2004-10-10T02:54:27.953
+trade 3173824	asset	DEM04_G52
+trade 3173824	price	0.198
+trade 3173824	quantity	1
+trade 3174454	buyer	Khalil (18605)
+trade 3174454	seller	Sean (18806)
+trade 3174454	time	2004-10-10T10:33:16.623
+trade 3174454	asset	REP04_G52
+trade 3174454	price	0.285
+trade 3174454	quantity	49
+trade 3174471	buyer	Landon (17389)
+trade 3174471	seller	Sean (18806)
+trade 3174471	time	2004-10-10T10:34:31.263
+trade 3174471	asset	REP04_G52
+trade 3174471	price	0.283
+trade 3174471	quantity	1
+trade 3174576	buyer	Jessica (18981)
+trade 3174576	seller	Ryder (18178)
+trade 3174576	time	2004-10-10T10:55:52.497
+trade 3174576	asset	DEM04_G52
+trade 3174576	price	0.2
+trade 3174576	quantity	100
+trade 3174650	buyer	Daniella (19014)
+trade 3174650	seller	Wesley (18018)
+trade 3174650	time	2004-10-10T11:15:51.560
+trade 3174650	asset	DEM04_G52
+trade 3174650	price	0.205
+trade 3174650	quantity	1
+trade 3175147	buyer	Allie (19051)
+trade 3175147	seller	Eden (18271)
+trade 3175147	time	2004-10-10T15:22:56.937
+trade 3175147	asset	DEM04_G52
+trade 3175147	price	0.195
+trade 3175147	quantity	10
+trade 3175483	buyer	Josie (18280)
+trade 3175483	seller	Sean (18806)
+trade 3175483	time	2004-10-10T18:57:57.267
+trade 3175483	asset	REP04_G52
+trade 3175483	price	0.268
+trade 3175483	quantity	10
+trade 3175893	buyer	Arlo (18468)
+trade 3175893	seller	Landon (17389)
+trade 3175893	time	2004-10-10T21:26:26.120
+trade 3175893	asset	REP04_L52
+trade 3175893	price	0.273
+trade 3175893	quantity	1
+trade 3176384	buyer	Macie (5757)
+trade 3176384	seller	Landon (17389)
+trade 3176384	time	2004-10-10T22:35:06.700
+trade 3176384	asset	REP04_G52
+trade 3176384	price	0.275
+trade 3176384	quantity	10
+trade 3176833	buyer	Parker (17933)
+trade 3176833	seller	Maia (279)
+trade 3176833	time	2004-10-11T01:16:21.170
+trade 3176833	asset	REP04_G52
+trade 3176833	price	0.262
+trade 3176833	quantity	5
+trade 3177352	buyer	Emmy (4284)
+trade 3177352	seller	Landon (17389)
+trade 3177352	time	2004-10-11T08:37:50.060
+trade 3177352	asset	REP04_L52
+trade 3177352	price	0.265
+trade 3177352	quantity	10
+trade 3177435	buyer	David (16326)
+trade 3177435	seller	Landon (17389)
+trade 3177435	time	2004-10-11T09:29:36.640
+trade 3177435	asset	REP04_G52
+trade 3177435	price	0.286
+trade 3177435	quantity	34
+trade 3177703	buyer	Kaleb (18499)
+trade 3177703	seller	Lorelai (5366)
+trade 3177703	time	2004-10-11T11:02:59.100
+trade 3177703	asset	REP04_G52
+trade 3177703	price	0.289
+trade 3177703	quantity	1
+trade 3177841	buyer	Kaleb (18499)
+trade 3177841	seller	Landon (17389)
+trade 3177841	time	2004-10-11T11:29:48.393
+trade 3177841	asset	REP04_L52
+trade 3177841	price	0.264
+trade 3177841	quantity	1
+trade 3178183	buyer	Gabriel (16617)
+trade 3178183	seller	Xander (18398)
+trade 3178183	time	2004-10-11T12:28:49.313
+trade 3178183	asset	REP04_L52
+trade 3178183	price	0.258
+trade 3178183	quantity	3
+trade 3178545	buyer	Landon (17389)
+trade 3178545	seller	Kaleb (18499)
+trade 3178545	time	2004-10-11T14:13:32.183
+trade 3178545	asset	REP04_L52
+trade 3178545	price	0.26
+trade 3178545	quantity	1
+trade 3178770	buyer	Kinley (19058)
+trade 3178770	seller	Bennett (18106)
+trade 3178770	time	2004-10-11T14:52:44.447
+trade 3178770	asset	DEM04_L52
+trade 3178770	price	0.255
+trade 3178770	quantity	4
+trade 3178831	buyer	Kinley (19058)
+trade 3178831	seller	Landon (17389)
+trade 3178831	time	2004-10-11T14:55:28.613
+trade 3178831	asset	DEM04_G52
+trade 3178831	price	0.195
+trade 3178831	quantity	2
+trade 3178862	buyer	Gabriel (16617)
+trade 3178862	seller	Landon (17389)
+trade 3178862	time	2004-10-11T14:59:10.473
+trade 3178862	asset	DEM04_G52
+trade 3178862	price	0.195
+trade 3178862	quantity	1
+trade 3178879	buyer	Cassidy (18996)
+trade 3178879	seller	Elle (1891)
+trade 3178879	time	2004-10-11T14:59:19.443
+trade 3178879	asset	DEM04_L52
+trade 3178879	price	0.258
+trade 3178879	quantity	1
+trade 3178881	buyer	Cassidy (18996)
+trade 3178881	seller	Elle (1891)
+trade 3178881	time	2004-10-11T14:59:19.460
+trade 3178881	asset	REP04_L52
+trade 3178881	price	0.259
+trade 3178881	quantity	1
+trade 3179404	buyer	Samuel (16116)
+trade 3179404	seller	Adelyn (18510)
+trade 3179404	time	2004-10-11T16:17:50.300
+trade 3179404	asset	REP04_G52
+trade 3179404	price	0.284
+trade 3179404	quantity	3
+trade 3179425	buyer	Kaleb (18499)
+trade 3179425	seller	Landon (17389)
+trade 3179425	time	2004-10-11T16:22:21.423
+trade 3179425	asset	REP04_G52
+trade 3179425	price	0.285
+trade 3179425	quantity	3
+trade 3179943	buyer	Kaleb (18499)
+trade 3179943	seller	Landon (17389)
+trade 3179943	time	2004-10-11T17:06:30.423
+trade 3179943	asset	DEM04_G52
+trade 3179943	price	0.201
+trade 3179943	quantity	2
+trade 3180166	buyer	Juan (18305)
+trade 3180166	seller	Adelyn (18510)
+trade 3180166	time	2004-10-11T18:02:03.683
+trade 3180166	asset	REP04_G52
+trade 3180166	price	0.277
+trade 3180166	quantity	20
+trade 3180430	buyer	Landon (17389)
+trade 3180430	seller	Hallie (18915)
+trade 3180430	time	2004-10-11T20:20:07.810
+trade 3180430	asset	DEM04_L52
+trade 3180430	price	0.256
+trade 3180430	quantity	8
+trade 3180575	buyer	Landon (17389)
+trade 3180575	seller	Delilah (17393)
+trade 3180575	time	2004-10-11T21:34:22.390
+trade 3180575	asset	REP04_L52
+trade 3180575	price	0.265
+trade 3180575	quantity	4
+trade 3182298	buyer	Kaleb (18499)
+trade 3182298	seller	Landon (17389)
+trade 3182298	time	2004-10-12T10:48:35.170
+trade 3182298	asset	DEM04_G52
+trade 3182298	price	0.202
+trade 3182298	quantity	1
+trade 3182419	buyer	Kaleb (18499)
+trade 3182419	seller	Declan (18112)
+trade 3182419	time	2004-10-12T11:04:44.020
+trade 3182419	asset	REP04_G52
+trade 3182419	price	0.287
+trade 3182419	quantity	4
+trade 3182636	buyer	Seth (19064)
+trade 3182636	seller	Juan (18305)
+trade 3182636	time	2004-10-12T11:39:47.397
+trade 3182636	asset	REP04_L52
+trade 3182636	price	0.263
+trade 3182636	quantity	3
+trade 3182759	buyer	Clayton (18636)
+trade 3182759	seller	Landon (17389)
+trade 3182759	time	2004-10-12T11:49:55.560
+trade 3182759	asset	REP04_L52
+trade 3182759	price	0.258
+trade 3182759	quantity	1
+trade 3182922	buyer	Allie (19051)
+trade 3182922	seller	Owen (15547)
+trade 3182922	time	2004-10-12T12:01:43.407
+trade 3182922	asset	DEM04_G52
+trade 3182922	price	0.2
+trade 3182922	quantity	1
+trade 3183542	buyer	Kinley (19058)
+trade 3183542	seller	Landon (17389)
+trade 3183542	time	2004-10-12T14:51:57.553
+trade 3183542	asset	DEM04_L52
+trade 3183542	price	0.255
+trade 3183542	quantity	11
+trade 3183812	buyer	Astrid (19107)
+trade 3183812	seller	Adelyn (18510)
+trade 3183812	time	2004-10-12T15:59:30.403
+trade 3183812	asset	REP04_G52
+trade 3183812	price	0.287
+trade 3183812	quantity	1
+trade 3184693	buyer	Sterling (18982)
+trade 3184693	seller	Gracie (18445)
+trade 3184693	time	2004-10-12T18:56:12.773
+trade 3184693	asset	DEM04_L52
+trade 3184693	price	0.262
+trade 3184693	quantity	19
+trade 3184781	buyer	Landon (17389)
+trade 3184781	seller	Xander (18398)
+trade 3184781	time	2004-10-12T19:09:21.057
+trade 3184781	asset	DEM04_G52
+trade 3184781	price	0.201
+trade 3184781	quantity	2
+trade 3185240	buyer	Renata (4116)
+trade 3185240	seller	Bruce (2691)
+trade 3185240	time	2004-10-12T20:57:32.437
+trade 3185240	asset	DEM04_G52
+trade 3185240	price	0.2
+trade 3185240	quantity	52
+trade 3185829	buyer	Rowen (6188)
+trade 3185829	seller	Landon (17389)
+trade 3185829	time	2004-10-12T22:39:58.783
+trade 3185829	asset	DEM04_G52
+trade 3185829	price	0.199
+trade 3185829	quantity	7
+trade 3186048	buyer	Kaleb (18499)
+trade 3186048	seller	Landon (17389)
+trade 3186048	time	2004-10-12T23:10:18.510
+trade 3186048	asset	DEM04_G52
+trade 3186048	price	0.197
+trade 3186048	quantity	1
+trade 3186531	buyer	Angel (19078)
+trade 3186531	seller	Damien (18608)
+trade 3186531	time	2004-10-13T04:28:07.873
+trade 3186531	asset	DEM04_G52
+trade 3186531	price	0.199
+trade 3186531	quantity	35
+trade 3186569	buyer	Parker (17933)
+trade 3186569	seller	Landon (17389)
+trade 3186569	time	2004-10-13T05:13:59.527
+trade 3186569	asset	REP04_L52
+trade 3186569	price	0.261
+trade 3186569	quantity	8
+trade 3187311	buyer	Tyson (18910)
+trade 3187311	seller	Elle (1891)
+trade 3187311	time	2004-10-13T09:30:54.607
+trade 3187311	asset	DEM04_L52
+trade 3187311	price	0.262
+trade 3187311	quantity	1
+trade 3188363	buyer	Emory (19087)
+trade 3188363	seller	Rodrigo (9508)
+trade 3188363	time	2004-10-13T14:27:59.517
+trade 3188363	asset	DEM04_L52
+trade 3188363	price	0.268
+trade 3188363	quantity	4
+trade 3188474	buyer	Emory (19087)
+trade 3188474	seller	Adriana (18684)
+trade 3188474	time	2004-10-13T14:43:39.917
+trade 3188474	asset	DEM04_L52
+trade 3188474	price	0.263
+trade 3188474	quantity	1
+trade 3189570	buyer	Briggs (19068)
+trade 3189570	seller	Owen (15547)
+trade 3189570	time	2004-10-13T19:13:37.800
+trade 3189570	asset	DEM04_G52
+trade 3189570	price	0.205
+trade 3189570	quantity	17
+trade 3189835	buyer	Oakley (18617)
+trade 3189835	seller	Landon (17389)
+trade 3189835	time	2004-10-13T20:18:43.567
+trade 3189835	asset	DEM04_L52
+trade 3189835	price	0.263
+trade 3189835	quantity	20
+trade 3189885	buyer	Lexi (18899)
+trade 3189885	seller	Landon (17389)
+trade 3189885	time	2004-10-13T20:20:23.293
+trade 3189885	asset	DEM04_G52
+trade 3189885	price	0.205
+trade 3189885	quantity	10
+trade 3189936	buyer	Alison (19070)
+trade 3189936	seller	Elle (1891)
+trade 3189936	time	2004-10-13T20:21:51.540
+trade 3189936	asset	DEM04_G52
+trade 3189936	price	0.202
+trade 3189936	quantity	1
+trade 3190029	buyer	Landon (17389)
+trade 3190029	seller	Elle (1891)
+trade 3190029	time	2004-10-13T20:31:53.393
+trade 3190029	asset	DEM04_G52
+trade 3190029	price	0.202
+trade 3190029	quantity	3
+trade 3190254	buyer	Cameron (1948)
+trade 3190254	seller	Landon (17389)
+trade 3190254	time	2004-10-13T20:45:52.247
+trade 3190254	asset	REP04_L52
+trade 3190254	price	0.259
+trade 3190254	quantity	4
+trade 3190260	buyer	Tyson (18910)
+trade 3190260	seller	Cameron (1948)
+trade 3190260	time	2004-10-13T20:46:53.393
+trade 3190260	asset	DEM04_L52
+trade 3190260	price	0.26
+trade 3190260	quantity	10
+trade 3190481	buyer	Sean (18806)
+trade 3190481	seller	Landon (17389)
+trade 3190481	time	2004-10-13T20:55:44.287
+trade 3190481	asset	REP04_G52
+trade 3190481	price	0.272
+trade 3190481	quantity	4
+trade 3190559	buyer	Parker (17933)
+trade 3190559	seller	Owen (15547)
+trade 3190559	time	2004-10-13T20:58:32.293
+trade 3190559	asset	REP04_G52
+trade 3190559	price	0.27
+trade 3190559	quantity	4
+trade 3190576	buyer	Landon (17389)
+trade 3190576	seller	Sean (18806)
+trade 3190576	time	2004-10-13T20:59:39.580
+trade 3190576	asset	REP04_G52
+trade 3190576	price	0.266
+trade 3190576	quantity	8
+trade 3190819	buyer	Juan (18305)
+trade 3190819	seller	Landon (17389)
+trade 3190819	time	2004-10-13T21:42:44.037
+trade 3190819	asset	DEM04_G52
+trade 3190819	price	0.202
+trade 3190819	quantity	20
+trade 3191382	buyer	Oakley (18617)
+trade 3191382	seller	Elle (1891)
+trade 3191382	time	2004-10-13T22:20:11.763
+trade 3191382	asset	DEM04_L52
+trade 3191382	price	0.255
+trade 3191382	quantity	10
+trade 3191542	buyer	Landon (17389)
+trade 3191542	seller	Khalil (18605)
+trade 3191542	time	2004-10-13T22:59:47.410
+trade 3191542	asset	REP04_G52
+trade 3191542	price	0.279
+trade 3191542	quantity	5
+trade 3191543	buyer	Landon (17389)
+trade 3191543	seller	Khalil (18605)
+trade 3191543	time	2004-10-13T23:00:44.870
+trade 3191543	asset	REP04_L52
+trade 3191543	price	0.264
+trade 3191543	quantity	5
+trade 3191966	buyer	Parker (17933)
+trade 3191966	seller	Xander (18398)
+trade 3191966	time	2004-10-14T01:06:22.630
+trade 3191966	asset	REP04_L52
+trade 3191966	price	0.264
+trade 3191966	quantity	21
+trade 3191982	buyer	Landon (17389)
+trade 3191982	seller	Xander (18398)
+trade 3191982	time	2004-10-14T01:07:58.860
+trade 3191982	asset	REP04_G52
+trade 3191982	price	0.275
+trade 3191982	quantity	3
+trade 3192584	buyer	Scarlet (19093)
+trade 3192584	seller	Landon (17389)
+trade 3192584	time	2004-10-14T08:18:46.250
+trade 3192584	asset	REP04_L52
+trade 3192584	price	0.27
+trade 3192584	quantity	78
+trade 3192685	buyer	Ryder (18178)
+trade 3192685	seller	Elle (1891)
+trade 3192685	time	2004-10-14T08:30:55.927
+trade 3192685	asset	DEM04_G52
+trade 3192685	price	0.201
+trade 3192685	quantity	19
+trade 3192990	buyer	Parker (17933)
+trade 3192990	seller	Daniella (19014)
+trade 3192990	time	2004-10-14T09:51:23.450
+trade 3192990	asset	REP04_L52
+trade 3192990	price	0.26
+trade 3192990	quantity	28
+trade 3193035	buyer	Oakley (18617)
+trade 3193035	seller	Elle (1891)
+trade 3193035	time	2004-10-14T09:54:43.627
+trade 3193035	asset	REP04_L52
+trade 3193035	price	0.263
+trade 3193035	quantity	20
+trade 3193650	buyer	Angel (19078)
+trade 3193650	seller	Landon (17389)
+trade 3193650	time	2004-10-14T12:00:09.563
+trade 3193650	asset	DEM04_L52
+trade 3193650	price	0.262
+trade 3193650	quantity	10
+trade 3193818	buyer	Olivia (10138)
+trade 3193818	seller	Owen (15547)
+trade 3193818	time	2004-10-14T12:31:46.000
+trade 3193818	asset	REP04_G52
+trade 3193818	price	0.278
+trade 3193818	quantity	10
+trade 3194129	buyer	Landon (17389)
+trade 3194129	seller	Xander (18398)
+trade 3194129	time	2004-10-14T13:18:02.327
+trade 3194129	asset	DEM04_L52
+trade 3194129	price	0.262
+trade 3194129	quantity	5
+trade 3194222	buyer	Quinn (19077)
+trade 3194222	seller	Juan (18305)
+trade 3194222	time	2004-10-14T13:45:13.093
+trade 3194222	asset	DEM04_L52
+trade 3194222	price	0.273
+trade 3194222	quantity	4
+trade 3194291	buyer	Landon (17389)
+trade 3194291	seller	Elle (1891)
+trade 3194291	time	2004-10-14T13:58:47.290
+trade 3194291	asset	DEM04_L52
+trade 3194291	price	0.263
+trade 3194291	quantity	5
+trade 3194494	buyer	Aaron (17358)
+trade 3194494	seller	Landon (17389)
+trade 3194494	time	2004-10-14T15:07:22.050
+trade 3194494	asset	DEM04_G52
+trade 3194494	price	0.195
+trade 3194494	quantity	1
+trade 3194847	buyer	Kaleb (18499)
+trade 3194847	seller	Melissa (18836)
+trade 3194847	time	2004-10-14T17:21:07.270
+trade 3194847	asset	DEM04_G52
+trade 3194847	price	0.192
+trade 3194847	quantity	10
+trade 3195529	buyer	Kamila (18455)
+trade 3195529	seller	Landon (17389)
+trade 3195529	time	2004-10-14T20:42:09.083
+trade 3195529	asset	DEM04_G52
+trade 3195529	price	0.186
+trade 3195529	quantity	9
+trade 3195612	buyer	Landon (17389)
+trade 3195612	seller	Elle (1891)
+trade 3195612	time	2004-10-14T20:52:15.110
+trade 3195612	asset	REP04_G52
+trade 3195612	price	0.285
+trade 3195612	quantity	4
+trade 3195971	buyer	Shawn (19108)
+trade 3195971	seller	Oakley (18617)
+trade 3195971	time	2004-10-14T22:30:32.510
+trade 3195971	asset	DEM04_L52
+trade 3195971	price	0.27
+trade 3195971	quantity	413
+trade 3196739	buyer	Juan (18305)
+trade 3196739	seller	Oakley (18617)
+trade 3196739	time	2004-10-15T07:39:16.970
+trade 3196739	asset	REP04_L52
+trade 3196739	price	0.262
+trade 3196739	quantity	20
+trade 3196925	buyer	Allie (19051)
+trade 3196925	seller	Jonathan (17400)
+trade 3196925	time	2004-10-15T08:50:35.493
+trade 3196925	asset	DEM04_G52
+trade 3196925	price	0.18
+trade 3196925	quantity	10
+trade 3197033	buyer	Delilah (17393)
+trade 3197033	seller	Bennett (18106)
+trade 3197033	time	2004-10-15T09:07:54.073
+trade 3197033	asset	REP04_L52
+trade 3197033	price	0.267
+trade 3197033	quantity	5
+trade 3197163	buyer	Olivia (10138)
+trade 3197163	seller	Juan (18305)
+trade 3197163	time	2004-10-15T09:44:14.440
+trade 3197163	asset	REP04_G52
+trade 3197163	price	0.323
+trade 3197163	quantity	20
+trade 3197185	buyer	Jayson (5491)
+trade 3197185	seller	Bruce (2691)
+trade 3197185	time	2004-10-15T09:46:00.933
+trade 3197185	asset	REP04_L52
+trade 3197185	price	0.261
+trade 3197185	quantity	1
+trade 3197335	buyer	Seth (19064)
+trade 3197335	seller	Juan (18305)
+trade 3197335	time	2004-10-15T10:26:25.807
+trade 3197335	asset	REP04_G52
+trade 3197335	price	0.32
+trade 3197335	quantity	2
+trade 3197637	buyer	Dominick (19092)
+trade 3197637	seller	Arlo (18468)
+trade 3197637	time	2004-10-15T11:21:39.150
+trade 3197637	asset	DEM04_L52
+trade 3197637	price	0.245
+trade 3197637	quantity	100
+trade 3197669	buyer	Maxwell (18307)
+trade 3197669	seller	Seth (19064)
+trade 3197669	time	2004-10-15T11:25:38.017
+trade 3197669	asset	REP04_G52
+trade 3197669	price	0.315
+trade 3197669	quantity	5
+trade 3197716	buyer	Cassidy (18996)
+trade 3197716	seller	Sean (18806)
+trade 3197716	time	2004-10-15T11:36:13.120
+trade 3197716	asset	REP04_L52
+trade 3197716	price	0.264
+trade 3197716	quantity	7
+trade 3197910	buyer	Sean (18806)
+trade 3197910	seller	David (16326)
+trade 3197910	time	2004-10-15T12:21:43.333
+trade 3197910	asset	REP04_G52
+trade 3197910	price	0.31
+trade 3197910	quantity	7
+trade 3197933	buyer	Gabriela (18770)
+trade 3197933	seller	Christopher (16914)
+trade 3197933	time	2004-10-15T12:25:26.870
+trade 3197933	asset	DEM04_L52
+trade 3197933	price	0.244
+trade 3197933	quantity	83
+trade 3198099	buyer	Amanda (19095)
+trade 3198099	seller	Jayceon (18980)
+trade 3198099	time	2004-10-15T13:10:44.033
+trade 3198099	asset	REP04_G52
+trade 3198099	price	0.322
+trade 3198099	quantity	32
+trade 3198195	buyer	Jayson (5491)
+trade 3198195	seller	Xander (18398)
+trade 3198195	time	2004-10-15T13:38:56.027
+trade 3198195	asset	DEM04_G52
+trade 3198195	price	0.166
+trade 3198195	quantity	1
+trade 3198354	buyer	Sophia (1277)
+trade 3198354	seller	Braelynn (19084)
+trade 3198354	time	2004-10-15T14:04:08.557
+trade 3198354	asset	REP04_G52
+trade 3198354	price	0.325
+trade 3198354	quantity	1
+trade 3198924	buyer	Eden (18271)
+trade 3198924	seller	Landon (17389)
+trade 3198924	time	2004-10-15T16:34:44.637
+trade 3198924	asset	DEM04_G52
+trade 3198924	price	0.168
+trade 3198924	quantity	14
+trade 3199799	buyer	Landon (17389)
+trade 3199799	seller	Bruce (2691)
+trade 3199799	time	2004-10-15T22:16:48.480
+trade 3199799	asset	REP04_G52
+trade 3199799	price	0.313
+trade 3199799	quantity	5
+trade 3200328	buyer	Khalil (18605)
+trade 3200328	seller	Landon (17389)
+trade 3200328	time	2004-10-16T01:10:05.093
+trade 3200328	asset	DEM04_L52
+trade 3200328	price	0.258
+trade 3200328	quantity	10
+trade 3200900	buyer	Landon (17389)
+trade 3200900	seller	Bruce (2691)
+trade 3200900	time	2004-10-16T09:40:27.710
+trade 3200900	asset	REP04_G52
+trade 3200900	price	0.306
+trade 3200900	quantity	10
+trade 3200946	buyer	Landon (17389)
+trade 3200946	seller	Tristan (18390)
+trade 3200946	time	2004-10-16T09:49:53.643
+trade 3200946	asset	DEM04_L52
+trade 3200946	price	0.251
+trade 3200946	quantity	3
+trade 3201118	buyer	Leonidas (19113)
+trade 3201118	seller	Andre (18616)
+trade 3201118	time	2004-10-16T10:25:09.033
+trade 3201118	asset	REP04_G52
+trade 3201118	price	0.324
+trade 3201118	quantity	2
+trade 3202423	buyer	Malia (18564)
+trade 3202423	seller	Armani (244)
+trade 3202423	time	2004-10-16T20:02:18.827
+trade 3202423	asset	DEM04_G52
+trade 3202423	price	0.183
+trade 3202423	quantity	20
+trade 3202767	buyer	Wilder (19057)
+trade 3202767	seller	Landon (17389)
+trade 3202767	time	2004-10-16T22:35:41.390
+trade 3202767	asset	DEM04_G52
+trade 3202767	price	0.165
+trade 3202767	quantity	14
+trade 3203595	buyer	Jonathan (17400)
+trade 3203595	seller	Elle (1891)
+trade 3203595	time	2004-10-17T07:00:42.223
+trade 3203595	asset	DEM04_G52
+trade 3203595	price	0.172
+trade 3203595	quantity	4
+trade 3203998	buyer	Adelyn (18510)
+trade 3203998	seller	Landon (17389)
+trade 3203998	time	2004-10-17T11:01:05.160
+trade 3203998	asset	REP04_G52
+trade 3203998	price	0.323
+trade 3203998	quantity	10
+trade 3204595	buyer	Jonathan (17400)
+trade 3204595	seller	Adriana (18684)
+trade 3204595	time	2004-10-17T13:33:10.183
+trade 3204595	asset	DEM04_L52
+trade 3204595	price	0.245
+trade 3204595	quantity	14
+trade 3205038	buyer	Bella (17365)
+trade 3205038	seller	Landon (17389)
+trade 3205038	time	2004-10-17T16:15:53.780
+trade 3205038	asset	REP04_L52
+trade 3205038	price	0.261
+trade 3205038	quantity	2
+trade 3205068	buyer	Landon (17389)
+trade 3205068	seller	Khalil (18605)
+trade 3205068	time	2004-10-17T16:29:00.747
+trade 3205068	asset	REP04_G52
+trade 3205068	price	0.327
+trade 3205068	quantity	5
+trade 3205213	buyer	Landon (17389)
+trade 3205213	seller	Khalil (18605)
+trade 3205213	time	2004-10-17T16:52:45.017
+trade 3205213	asset	REP04_G52
+trade 3205213	price	0.324
+trade 3205213	quantity	1
+trade 3205280	buyer	Parker (17933)
+trade 3205280	seller	Khalil (18605)
+trade 3205280	time	2004-10-17T17:14:30.667
+trade 3205280	asset	REP04_G52
+trade 3205280	price	0.321
+trade 3205280	quantity	5
+trade 3205559	buyer	Kaleb (18499)
+trade 3205559	seller	Juan (18305)
+trade 3205559	time	2004-10-17T18:42:42.800
+trade 3205559	asset	REP04_L52
+trade 3205559	price	0.262
+trade 3205559	quantity	1
+trade 3205772	buyer	Jaiden (18971)
+trade 3205772	seller	Xander (18398)
+trade 3205772	time	2004-10-17T19:17:14.100
+trade 3205772	asset	REP04_L52
+trade 3205772	price	0.27
+trade 3205772	quantity	29
+trade 3205803	buyer	Peyton (18019)
+trade 3205803	seller	Adriana (18684)
+trade 3205803	time	2004-10-17T19:19:04.377
+trade 3205803	asset	REP04_G52
+trade 3205803	price	0.323
+trade 3205803	quantity	20
+trade 3205913	buyer	Kaleb (18499)
+trade 3205913	seller	Adriana (18684)
+trade 3205913	time	2004-10-17T19:25:49.590
+trade 3205913	asset	DEM04_G52
+trade 3205913	price	0.161
+trade 3205913	quantity	10
+trade 3206104	buyer	Makenna (18988)
+trade 3206104	seller	Peyton (18019)
+trade 3206104	time	2004-10-17T20:32:28.017
+trade 3206104	asset	REP04_G52
+trade 3206104	price	0.339
+trade 3206104	quantity	7
+trade 3206130	buyer	Adriana (18684)
+trade 3206130	seller	Olivia (10138)
+trade 3206130	time	2004-10-17T20:36:57.230
+trade 3206130	asset	REP04_G52
+trade 3206130	price	0.343
+trade 3206130	quantity	10
+trade 3206212	buyer	Ariel (7602)
+trade 3206212	seller	Annie (18637)
+trade 3206212	time	2004-10-17T20:55:57.737
+trade 3206212	asset	REP04_L52
+trade 3206212	price	0.27
+trade 3206212	quantity	1
+trade 3206323	buyer	Landon (17389)
+trade 3206323	seller	Ismael (18837)
+trade 3206323	time	2004-10-17T21:36:18.843
+trade 3206323	asset	DEM04_L52
+trade 3206323	price	0.25
+trade 3206323	quantity	7
+trade 3206535	buyer	Landon (17389)
+trade 3206535	seller	Kendrick (19045)
+trade 3206535	time	2004-10-17T22:04:03.250
+trade 3206535	asset	DEM04_L52
+trade 3206535	price	0.247
+trade 3206535	quantity	2
+trade 3206583	buyer	Kaleb (18499)
+trade 3206583	seller	Landon (17389)
+trade 3206583	time	2004-10-17T22:08:47.403
+trade 3206583	asset	REP04_L52
+trade 3206583	price	0.274
+trade 3206583	quantity	3
+trade 3206614	buyer	Reed (19102)
+trade 3206614	seller	Landon (17389)
+trade 3206614	time	2004-10-17T22:09:28.143
+trade 3206614	asset	REP04_G52
+trade 3206614	price	0.342
+trade 3206614	quantity	10
+trade 3206744	buyer	Landon (17389)
+trade 3206744	seller	Elle (1891)
+trade 3206744	time	2004-10-17T22:38:02.050
+trade 3206744	asset	DEM04_G52
+trade 3206744	price	0.149
+trade 3206744	quantity	2
+trade 3207586	buyer	Odin (18797)
+trade 3207586	seller	Amber (4124)
+trade 3207586	time	2004-10-18T07:44:41.090
+trade 3207586	asset	DEM04_L52
+trade 3207586	price	0.241
+trade 3207586	quantity	152
+trade 3207611	buyer	Peyton (18019)
+trade 3207611	seller	Carter (4136)
+trade 3207611	time	2004-10-18T08:03:54.187
+trade 3207611	asset	REP04_G52
+trade 3207611	price	0.33
+trade 3207611	quantity	10
+trade 3207812	buyer	Giselle (18796)
+trade 3207812	seller	Landon (17389)
+trade 3207812	time	2004-10-18T08:17:32.020
+trade 3207812	asset	DEM04_G52
+trade 3207812	price	0.2
+trade 3207812	quantity	8
+trade 3207814	buyer	Juan (18305)
+trade 3207814	seller	Landon (17389)
+trade 3207814	time	2004-10-18T08:17:32.037
+trade 3207814	asset	REP04_G52
+trade 3207814	price	0.325
+trade 3207814	quantity	8
+trade 3207834	buyer	Carter (4136)
+trade 3207834	seller	Landon (17389)
+trade 3207834	time	2004-10-18T08:17:32.940
+trade 3207834	asset	REP04_G52
+trade 3207834	price	0.32
+trade 3207834	quantity	5
+trade 3208120	buyer	Kaleb (18499)
+trade 3208120	seller	Juan (18305)
+trade 3208120	time	2004-10-18T09:49:40.463
+trade 3208120	asset	REP04_L52
+trade 3208120	price	0.266
+trade 3208120	quantity	5
+trade 3208161	buyer	Kaleb (18499)
+trade 3208161	seller	Natalie (17183)
+trade 3208161	time	2004-10-18T10:11:10.070
+trade 3208161	asset	REP04_G52
+trade 3208161	price	0.325
+trade 3208161	quantity	4
+trade 3208294	buyer	Camden (18355)
+trade 3208294	seller	Anderson (18689)
+trade 3208294	time	2004-10-18T11:01:50.653
+trade 3208294	asset	REP04_L52
+trade 3208294	price	0.275
+trade 3208294	quantity	21
+trade 3208296	buyer	Camden (18355)
+trade 3208296	seller	Juan (18305)
+trade 3208296	time	2004-10-18T11:04:11.727
+trade 3208296	asset	REP04_L52
+trade 3208296	price	0.275
+trade 3208296	quantity	20
+trade 3208471	buyer	Sophia (1277)
+trade 3208471	seller	Raelynn (18141)
+trade 3208471	time	2004-10-18T12:04:06.510
+trade 3208471	asset	DEM04_G52
+trade 3208471	price	0.144
+trade 3208471	quantity	10
+trade 3208515	buyer	Landon (17389)
+trade 3208515	seller	Xander (18398)
+trade 3208515	time	2004-10-18T12:11:50.707
+trade 3208515	asset	DEM04_G52
+trade 3208515	price	0.14
+trade 3208515	quantity	9
+trade 3208633	buyer	Landon (17389)
+trade 3208633	seller	Jayson (5491)
+trade 3208633	time	2004-10-18T12:41:15.930
+trade 3208633	asset	REP04_G52
+trade 3208633	price	0.322
+trade 3208633	quantity	7
+trade 3208691	buyer	Kaleb (18499)
+trade 3208691	seller	Landon (17389)
+trade 3208691	time	2004-10-18T12:48:11.073
+trade 3208691	asset	DEM04_L52
+trade 3208691	price	0.24
+trade 3208691	quantity	1
+trade 3208831	buyer	Makenna (18988)
+trade 3208831	seller	Landon (17389)
+trade 3208831	time	2004-10-18T13:12:51.320
+trade 3208831	asset	REP04_G52
+trade 3208831	price	0.33
+trade 3208831	quantity	5
+trade 3209230	buyer	Landon (17389)
+trade 3209230	seller	Sergio (18927)
+trade 3209230	time	2004-10-18T14:45:19.627
+trade 3209230	asset	DEM04_G52
+trade 3209230	price	0.153
+trade 3209230	quantity	2
+trade 3209756	buyer	Kira (18937)
+trade 3209756	seller	Winter (18708)
+trade 3209756	time	2004-10-18T19:35:05.917
+trade 3209756	asset	DEM04_L52
+trade 3209756	price	0.227
+trade 3209756	quantity	50
+trade 3210199	buyer	Jordan (19067)
+trade 3210199	seller	Landon (17389)
+trade 3210199	time	2004-10-18T22:43:24.093
+trade 3210199	asset	DEM04_G52
+trade 3210199	price	0.153
+trade 3210199	quantity	3
+trade 3210313	buyer	Kendra (6314)
+trade 3210313	seller	Khalil (18605)
+trade 3210313	time	2004-10-18T23:05:41.423
+trade 3210313	asset	REP04_G52
+trade 3210313	price	0.335
+trade 3210313	quantity	1
+trade 3210517	buyer	Adriana (18684)
+trade 3210517	seller	Lexi (18899)
+trade 3210517	time	2004-10-19T00:07:33.433
+trade 3210517	asset	DEM04_L52
+trade 3210517	price	0.236
+trade 3210517	quantity	12
+trade 3210715	buyer	Adriana (18684)
+trade 3210715	seller	Autumn (17557)
+trade 3210715	time	2004-10-19T01:17:15.890
+trade 3210715	asset	DEM04_G52
+trade 3210715	price	0.161
+trade 3210715	quantity	1
+trade 3211210	buyer	Landon (17389)
+trade 3211210	seller	Violet (16612)
+trade 3211210	time	2004-10-19T08:27:34.327
+trade 3211210	asset	DEM04_G52
+trade 3211210	price	0.162
+trade 3211210	quantity	8
+trade 3211853	buyer	Jennifer (19065)
+trade 3211853	seller	Landon (17389)
+trade 3211853	time	2004-10-19T11:18:01.723
+trade 3211853	asset	REP04_G52
+trade 3211853	price	0.322
+trade 3211853	quantity	2
+trade 3212696	buyer	Forrest (19152)
+trade 3212696	seller	Adriana (18684)
+trade 3212696	time	2004-10-19T13:57:09.647
+trade 3212696	asset	DEM04_L52
+trade 3212696	price	0.253
+trade 3212696	quantity	29
+trade 3212787	buyer	Lucca (19118)
+trade 3212787	seller	Landon (17389)
+trade 3212787	time	2004-10-19T14:01:38.043
+trade 3212787	asset	DEM04_G52
+trade 3212787	price	0.167
+trade 3212787	quantity	2
+trade 3212809	buyer	Adriana (18684)
+trade 3212809	seller	Carter (4136)
+trade 3212809	time	2004-10-19T14:02:14.623
+trade 3212809	asset	DEM04_L52
+trade 3212809	price	0.245
+trade 3212809	quantity	4
+trade 3212818	buyer	Lucca (19118)
+trade 3212818	seller	Adriana (18684)
+trade 3212818	time	2004-10-19T14:02:20.983
+trade 3212818	asset	DEM04_G52
+trade 3212818	price	0.167
+trade 3212818	quantity	20
+trade 3213028	buyer	Francesca (19116)
+trade 3213028	seller	Xander (18398)
+trade 3213028	time	2004-10-19T14:26:50.903
+trade 3213028	asset	DEM04_G52
+trade 3213028	price	0.172
+trade 3213028	quantity	5
+trade 3213175	buyer	Emiliano (18373)
+trade 3213175	seller	Anderson (18689)
+trade 3213175	time	2004-10-19T15:00:51.790
+trade 3213175	asset	DEM04_L52
+trade 3213175	price	0.247
+trade 3213175	quantity	5
+trade 3213404	buyer	Kendrick (19045)
+trade 3213404	seller	Adriana (18684)
+trade 3213404	time	2004-10-19T15:35:33.277
+trade 3213404	asset	DEM04_L52
+trade 3213404	price	0.244
+trade 3213404	quantity	3
+trade 3213723	buyer	Alana (18438)
+trade 3213723	seller	Landon (17389)
+trade 3213723	time	2004-10-19T17:05:20.670
+trade 3213723	asset	DEM04_L52
+trade 3213723	price	0.246
+trade 3213723	quantity	8
+trade 3214127	buyer	Allen (19134)
+trade 3214127	seller	Elle (1891)
+trade 3214127	time	2004-10-19T18:01:04.950
+trade 3214127	asset	DEM04_L52
+trade 3214127	price	0.247
+trade 3214127	quantity	13
+trade 3214431	buyer	Liana (19130)
+trade 3214431	seller	Adriana (18684)
+trade 3214431	time	2004-10-19T18:22:52.560
+trade 3214431	asset	DEM04_G52
+trade 3214431	price	0.163
+trade 3214431	quantity	20
+trade 3214441	buyer	Allie (19051)
+trade 3214441	seller	Delilah (17393)
+trade 3214441	time	2004-10-19T18:24:06.360
+trade 3214441	asset	DEM04_G52
+trade 3214441	price	0.162
+trade 3214441	quantity	5
+trade 3214461	buyer	Allen (19134)
+trade 3214461	seller	Landon (17389)
+trade 3214461	time	2004-10-19T18:25:01.820
+trade 3214461	asset	DEM04_G52
+trade 3214461	price	0.168
+trade 3214461	quantity	8
+trade 3214480	buyer	Allen (19134)
+trade 3214480	seller	Olivia (10138)
+trade 3214480	time	2004-10-19T18:25:25.837
+trade 3214480	asset	DEM04_L52
+trade 3214480	price	0.257
+trade 3214480	quantity	184
+trade 3214507	buyer	Landon (17389)
+trade 3214507	seller	Lena (18591)
+trade 3214507	time	2004-10-19T18:26:19.373
+trade 3214507	asset	DEM04_G52
+trade 3214507	price	0.158
+trade 3214507	quantity	2
+trade 3214781	buyer	Allie (19051)
+trade 3214781	seller	Kira (18937)
+trade 3214781	time	2004-10-19T19:43:18.820
+trade 3214781	asset	DEM04_G52
+trade 3214781	price	0.154
+trade 3214781	quantity	10
+trade 3215364	buyer	Parker (17933)
+trade 3215364	seller	Elle (1891)
+trade 3215364	time	2004-10-19T21:13:41.640
+trade 3215364	asset	REP04_L52
+trade 3215364	price	0.276
+trade 3215364	quantity	1
+trade 3215717	buyer	Peyton (18019)
+trade 3215717	seller	Landon (17389)
+trade 3215717	time	2004-10-19T21:35:59.567
+trade 3215717	asset	REP04_L52
+trade 3215717	price	0.273
+trade 3215717	quantity	10
+trade 3215913	buyer	Arlo (18468)
+trade 3215913	seller	Adriana (18684)
+trade 3215913	time	2004-10-19T21:46:34.603
+trade 3215913	asset	REP04_L52
+trade 3215913	price	0.277
+trade 3215913	quantity	14
+trade 3216973	buyer	Parker (17933)
+trade 3216973	seller	Elle (1891)
+trade 3216973	time	2004-10-20T07:06:37.957
+trade 3216973	asset	REP04_G52
+trade 3216973	price	0.327
+trade 3216973	quantity	10
+trade 3217207	buyer	Allie (19051)
+trade 3217207	seller	Scarlett (15464)
+trade 3217207	time	2004-10-20T09:08:14.390
+trade 3217207	asset	DEM04_G52
+trade 3217207	price	0.152
+trade 3217207	quantity	2
+trade 3217303	buyer	Landon (17389)
+trade 3217303	seller	Adriana (18684)
+trade 3217303	time	2004-10-20T10:07:29.360
+trade 3217303	asset	DEM04_G52
+trade 3217303	price	0.152
+trade 3217303	quantity	10
+trade 3217997	buyer	Kaleb (18499)
+trade 3217997	seller	Adriana (18684)
+trade 3217997	time	2004-10-20T12:17:55.337
+trade 3217997	asset	REP04_L52
+trade 3217997	price	0.267
+trade 3217997	quantity	1
+trade 3218553	buyer	Gianni (18856)
+trade 3218553	seller	Cesar (18909)
+trade 3218553	time	2004-10-20T15:43:06.830
+trade 3218553	asset	REP04_L52
+trade 3218553	price	0.27
+trade 3218553	quantity	50
+trade 3218782	buyer	Landon (17389)
+trade 3218782	seller	Owen (15547)
+trade 3218782	time	2004-10-20T18:01:45.900
+trade 3218782	asset	DEM04_G52
+trade 3218782	price	0.164
+trade 3218782	quantity	1
+trade 3219828	buyer	Kaleb (18499)
+trade 3219828	seller	Landon (17389)
+trade 3219828	time	2004-10-20T23:02:47.590
+trade 3219828	asset	REP04_L52
+trade 3219828	price	0.271
+trade 3219828	quantity	1
+trade 3220299	buyer	Kyson (19129)
+trade 3220299	seller	Landon (17389)
+trade 3220299	time	2004-10-21T00:35:04.080
+trade 3220299	asset	DEM04_L52
+trade 3220299	price	0.25
+trade 3220299	quantity	17
+trade 3220499	buyer	Archer (18337)
+trade 3220499	seller	Xander (18398)
+trade 3220499	time	2004-10-21T01:35:55.377
+trade 3220499	asset	DEM04_G52
+trade 3220499	price	0.17
+trade 3220499	quantity	37
+trade 3221273	buyer	Francesca (19116)
+trade 3221273	seller	Ismael (18837)
+trade 3221273	time	2004-10-21T09:53:01.887
+trade 3221273	asset	DEM04_L52
+trade 3221273	price	0.254
+trade 3221273	quantity	5
+trade 3221975	buyer	Francesca (19116)
+trade 3221975	seller	Adriana (18684)
+trade 3221975	time	2004-10-21T12:55:06.187
+trade 3221975	asset	DEM04_G52
+trade 3221975	price	0.167
+trade 3221975	quantity	10
+trade 3222110	buyer	Landon (17389)
+trade 3222110	seller	Adriana (18684)
+trade 3222110	time	2004-10-21T13:04:24.373
+trade 3222110	asset	DEM04_G52
+trade 3222110	price	0.166
+trade 3222110	quantity	11
+trade 3222111	buyer	Landon (17389)
+trade 3222111	seller	Adriana (18684)
+trade 3222111	time	2004-10-21T13:04:25.060
+trade 3222111	asset	DEM04_L52
+trade 3222111	price	0.249
+trade 3222111	quantity	7
+trade 3222159	buyer	Francesca (19116)
+trade 3222159	seller	Landon (17389)
+trade 3222159	time	2004-10-21T13:06:47.603
+trade 3222159	asset	DEM04_G52
+trade 3222159	price	0.167
+trade 3222159	quantity	8
+trade 3222270	buyer	David (16326)
+trade 3222270	seller	Anderson (18689)
+trade 3222270	time	2004-10-21T13:20:52.673
+trade 3222270	asset	REP04_L52
+trade 3222270	price	0.274
+trade 3222270	quantity	16
+trade 3223158	buyer	Leland (19161)
+trade 3223158	seller	Landon (17389)
+trade 3223158	time	2004-10-21T15:22:50.797
+trade 3223158	asset	REP04_L52
+trade 3223158	price	0.278
+trade 3223158	quantity	205
+trade 3223248	buyer	Leland (19161)
+trade 3223248	seller	Adriana (18684)
+trade 3223248	time	2004-10-21T15:31:58.233
+trade 3223248	asset	REP04_L52
+trade 3223248	price	0.278
+trade 3223248	quantity	100
+trade 3224111	buyer	Gael (18198)
+trade 3224111	seller	Adriana (18684)
+trade 3224111	time	2004-10-21T17:49:24.780
+trade 3224111	asset	REP04_G52
+trade 3224111	price	0.306
+trade 3224111	quantity	9
+trade 3224253	buyer	Landon (17389)
+trade 3224253	seller	Colt (18470)
+trade 3224253	time	2004-10-21T18:13:59.433
+trade 3224253	asset	REP04_G52
+trade 3224253	price	0.301
+trade 3224253	quantity	20
+trade 3224568	buyer	Tripp (19191)
+trade 3224568	seller	Adriana (18684)
+trade 3224568	time	2004-10-21T19:31:05.037
+trade 3224568	asset	DEM04_G52
+trade 3224568	price	0.17
+trade 3224568	quantity	20
+trade 3224603	buyer	Jamison (19182)
+trade 3224603	seller	Anderson (18689)
+trade 3224603	time	2004-10-21T19:34:37.710
+trade 3224603	asset	REP04_L52
+trade 3224603	price	0.279
+trade 3224603	quantity	40
+trade 3224670	buyer	Tripp (19191)
+trade 3224670	seller	Elle (1891)
+trade 3224670	time	2004-10-21T19:37:06.520
+trade 3224670	asset	DEM04_G52
+trade 3224670	price	0.17
+trade 3224670	quantity	50
+trade 3224763	buyer	Kaleb (18499)
+trade 3224763	seller	Elle (1891)
+trade 3224763	time	2004-10-21T19:40:33.053
+trade 3224763	asset	DEM04_L52
+trade 3224763	price	0.248
+trade 3224763	quantity	1
+trade 3224804	buyer	Kaleb (18499)
+trade 3224804	seller	Elle (1891)
+trade 3224804	time	2004-10-21T19:43:14.037
+trade 3224804	asset	DEM04_G52
+trade 3224804	price	0.171
+trade 3224804	quantity	1
+trade 3224952	buyer	Matilda (19178)
+trade 3224952	seller	Bennett (18106)
+trade 3224952	time	2004-10-21T19:59:36.320
+trade 3224952	asset	REP04_L52
+trade 3224952	price	0.278
+trade 3224952	quantity	10
+trade 3225017	buyer	Noa (19143)
+trade 3225017	seller	Adriana (18684)
+trade 3225017	time	2004-10-21T20:15:18.977
+trade 3225017	asset	DEM04_L52
+trade 3225017	price	0.246
+trade 3225017	quantity	4
+trade 3225270	buyer	Tripp (19191)
+trade 3225270	seller	Landon (17389)
+trade 3225270	time	2004-10-21T21:01:31.990
+trade 3225270	asset	DEM04_L52
+trade 3225270	price	0.249
+trade 3225270	quantity	7
+trade 3225339	buyer	Francesca (19116)
+trade 3225339	seller	Bella (17365)
+trade 3225339	time	2004-10-21T21:27:09.053
+trade 3225339	asset	DEM04_L52
+trade 3225339	price	0.25
+trade 3225339	quantity	5
+trade 3225556	buyer	Landon (17389)
+trade 3225556	seller	Adriana (18684)
+trade 3225556	time	2004-10-21T21:58:27.320
+trade 3225556	asset	REP04_G52
+trade 3225556	price	0.305
+trade 3225556	quantity	4
+trade 3225581	buyer	Francesca (19116)
+trade 3225581	seller	Adriana (18684)
+trade 3225581	time	2004-10-21T21:59:06.590
+trade 3225581	asset	DEM04_L52
+trade 3225581	price	0.24
+trade 3225581	quantity	20
+trade 3226238	buyer	Gage (19175)
+trade 3226238	seller	Kendrick (19045)
+trade 3226238	time	2004-10-21T23:21:56.360
+trade 3226238	asset	DEM04_G52
+trade 3226238	price	0.18
+trade 3226238	quantity	78
+trade 3226789	buyer	Parker (17933)
+trade 3226789	seller	Xander (18398)
+trade 3226789	time	2004-10-22T07:09:17.760
+trade 3226789	asset	REP04_L52
+trade 3226789	price	0.284
+trade 3226789	quantity	40
+trade 3226953	buyer	Landon (17389)
+trade 3226953	seller	Adriana (18684)
+trade 3226953	time	2004-10-22T08:06:11.497
+trade 3226953	asset	DEM04_L52
+trade 3226953	price	0.239
+trade 3226953	quantity	5
+trade 3226977	buyer	Katie (19193)
+trade 3226977	seller	Adriana (18684)
+trade 3226977	time	2004-10-22T08:11:25.507
+trade 3226977	asset	REP04_G52
+trade 3226977	price	0.295
+trade 3226977	quantity	19
+trade 3227069	buyer	Katie (19193)
+trade 3227069	seller	Adriana (18684)
+trade 3227069	time	2004-10-22T08:22:04.340
+trade 3227069	asset	REP04_G52
+trade 3227069	price	0.295
+trade 3227069	quantity	4
+trade 3227438	buyer	Kaleb (18499)
+trade 3227438	seller	Adriana (18684)
+trade 3227438	time	2004-10-22T09:50:49.927
+trade 3227438	asset	DEM04_L52
+trade 3227438	price	0.245
+trade 3227438	quantity	8
+trade 3227876	buyer	Landon (17389)
+trade 3227876	seller	Adriana (18684)
+trade 3227876	time	2004-10-22T11:36:44.020
+trade 3227876	asset	REP04_L52
+trade 3227876	price	0.279
+trade 3227876	quantity	6
+trade 3227922	buyer	Kaleb (18499)
+trade 3227922	seller	Helen (19040)
+trade 3227922	time	2004-10-22T11:44:13.620
+trade 3227922	asset	REP04_L52
+trade 3227922	price	0.28
+trade 3227922	quantity	1
+trade 3228252	buyer	Katie (19193)
+trade 3228252	seller	Winston (19000)
+trade 3228252	time	2004-10-22T13:44:04.840
+trade 3228252	asset	REP04_G52
+trade 3228252	price	0.295
+trade 3228252	quantity	427
+trade 3228397	buyer	Winston (19000)
+trade 3228397	seller	Landon (17389)
+trade 3228397	time	2004-10-22T14:27:33.247
+trade 3228397	asset	REP04_L52
+trade 3228397	price	0.288
+trade 3228397	quantity	4
+trade 3228623	buyer	Jacqueline (19082)
+trade 3228623	seller	Regina (19060)
+trade 3228623	time	2004-10-22T15:31:46.847
+trade 3228623	asset	REP04_G52
+trade 3228623	price	0.296
+trade 3228623	quantity	23
+trade 3229117	buyer	Bruce (2691)
+trade 3229117	seller	Jonah (18265)
+trade 3229117	time	2004-10-22T18:01:29.860
+trade 3229117	asset	REP04_G52
+trade 3229117	price	0.305
+trade 3229117	quantity	3
+trade 3229566	buyer	Landon (17389)
+trade 3229566	seller	Adriana (18684)
+trade 3229566	time	2004-10-22T19:40:27.947
+trade 3229566	asset	REP04_G52
+trade 3229566	price	0.307
+trade 3229566	quantity	13
+trade 3229629	buyer	Gabriel (16617)
+trade 3229629	seller	Addilyn (19151)
+trade 3229629	time	2004-10-22T19:51:34.423
+trade 3229629	asset	REP04_L52
+trade 3229629	price	0.272
+trade 3229629	quantity	1
+trade 3229687	buyer	Landon (17389)
+trade 3229687	seller	Adriana (18684)
+trade 3229687	time	2004-10-22T20:01:34.880
+trade 3229687	asset	DEM04_L52
+trade 3229687	price	0.253
+trade 3229687	quantity	5
+trade 3230067	buyer	Anna (17390)
+trade 3230067	seller	Landon (17389)
+trade 3230067	time	2004-10-22T21:23:41.930
+trade 3230067	asset	REP04_L52
+trade 3230067	price	0.281
+trade 3230067	quantity	2
+trade 3230406	buyer	Landon (17389)
+trade 3230406	seller	Nadia (19148)
+trade 3230406	time	2004-10-23T01:01:41.957
+trade 3230406	asset	DEM04_G52
+trade 3230406	price	0.17
+trade 3230406	quantity	13
+trade 3231382	buyer	Kaleb (18499)
+trade 3231382	seller	Landon (17389)
+trade 3231382	time	2004-10-23T11:44:37.740
+trade 3231382	asset	DEM04_L52
+trade 3231382	price	0.236
+trade 3231382	quantity	10
+trade 3231806	buyer	Landon (17389)
+trade 3231806	seller	Carter (4136)
+trade 3231806	time	2004-10-23T14:10:17.343
+trade 3231806	asset	DEM04_G52
+trade 3231806	price	0.165
+trade 3231806	quantity	1
+trade 3231993	buyer	Jayceon (18980)
+trade 3231993	seller	Carter (4136)
+trade 3231993	time	2004-10-23T14:33:51.620
+trade 3231993	asset	REP04_L52
+trade 3231993	price	0.276
+trade 3231993	quantity	18
+trade 3231997	buyer	Cairo (18831)
+trade 3231997	seller	Carter (4136)
+trade 3231997	time	2004-10-23T14:33:51.870
+trade 3231997	asset	REP04_G52
+trade 3231997	price	0.305
+trade 3231997	quantity	8
+trade 3233028	buyer	Nicholas (17599)
+trade 3233028	seller	Landon (17389)
+trade 3233028	time	2004-10-24T00:17:09.317
+trade 3233028	asset	REP04_G52
+trade 3233028	price	0.31
+trade 3233028	quantity	14
+trade 3233775	buyer	Ariel (7602)
+trade 3233775	seller	Antonio (18384)
+trade 3233775	time	2004-10-24T12:53:49.207
+trade 3233775	asset	REP04_G52
+trade 3233775	price	0.327
+trade 3233775	quantity	40
+trade 3233886	buyer	Tripp (19191)
+trade 3233886	seller	Braelynn (19084)
+trade 3233886	time	2004-10-24T13:40:49.503
+trade 3233886	asset	DEM04_G52
+trade 3233886	price	0.169
+trade 3233886	quantity	1
+trade 3234232	buyer	Jacqueline (19082)
+trade 3234232	seller	Elle (1891)
+trade 3234232	time	2004-10-24T16:33:38.053
+trade 3234232	asset	REP04_G52
+trade 3234232	price	0.324
+trade 3234232	quantity	20
+trade 3234254	buyer	Dalton (19144)
+trade 3234254	seller	Zelda (7422)
+trade 3234254	time	2004-10-24T16:37:25.340
+trade 3234254	asset	REP04_L52
+trade 3234254	price	0.285
+trade 3234254	quantity	30
+trade 3234256	buyer	Gabriel (16617)
+trade 3234256	seller	Adriana (18684)
+trade 3234256	time	2004-10-24T16:38:02.280
+trade 3234256	asset	REP04_G52
+trade 3234256	price	0.323
+trade 3234256	quantity	1
+trade 3234295	buyer	Jonathan (17400)
+trade 3234295	seller	Adriana (18684)
+trade 3234295	time	2004-10-24T16:42:16.520
+trade 3234295	asset	DEM04_L52
+trade 3234295	price	0.233
+trade 3234295	quantity	20
+trade 3234934	buyer	Allie (19051)
+trade 3234934	seller	Elle (1891)
+trade 3234934	time	2004-10-24T20:55:25.440
+trade 3234934	asset	REP04_L52
+trade 3234934	price	0.28
+trade 3234934	quantity	10
+trade 3235136	buyer	Olivia (10138)
+trade 3235136	seller	Nicholas (17599)
+trade 3235136	time	2004-10-24T22:56:27.527
+trade 3235136	asset	DEM04_L52
+trade 3235136	price	0.234
+trade 3235136	quantity	20
+trade 3235219	buyer	Eduardo (18786)
+trade 3235219	seller	Juan (18305)
+trade 3235219	time	2004-10-24T23:36:56.027
+trade 3235219	asset	REP04_L52
+trade 3235219	price	0.286
+trade 3235219	quantity	11
+trade 3235713	buyer	Skyler (19139)
+trade 3235713	seller	Bennett (18106)
+trade 3235713	time	2004-10-25T07:00:25.490
+trade 3235713	asset	REP04_L52
+trade 3235713	price	0.28
+trade 3235713	quantity	3
+trade 3235868	buyer	Mario (18790)
+trade 3235868	seller	Adriana (18684)
+trade 3235868	time	2004-10-25T08:40:30.723
+trade 3235868	asset	DEM04_L52
+trade 3235868	price	0.24
+trade 3235868	quantity	20
+trade 3236055	buyer	Izaiah (1946)
+trade 3236055	seller	Landon (17389)
+trade 3236055	time	2004-10-25T10:18:29.200
+trade 3236055	asset	DEM04_G52
+trade 3236055	price	0.155
+trade 3236055	quantity	1
+trade 3236143	buyer	Sterling (18982)
+trade 3236143	seller	David (16326)
+trade 3236143	time	2004-10-25T10:50:15.183
+trade 3236143	asset	REP04_G52
+trade 3236143	price	0.317
+trade 3236143	quantity	22
+trade 3236902	buyer	Landon (17389)
+trade 3236902	seller	Elle (1891)
+trade 3236902	time	2004-10-25T12:54:44.620
+trade 3236902	asset	DEM04_L52
+trade 3236902	price	0.242
+trade 3236902	quantity	10
+trade 3237228	buyer	Aylin (18943)
+trade 3237228	seller	Juan (18305)
+trade 3237228	time	2004-10-25T14:01:17.250
+trade 3237228	asset	REP04_L52
+trade 3237228	price	0.345
+trade 3237228	quantity	96
+trade 3237354	buyer	Frederick (19196)
+trade 3237354	seller	Olivia (10138)
+trade 3237354	time	2004-10-25T14:07:18.607
+trade 3237354	asset	REP04_G52
+trade 3237354	price	0.315
+trade 3237354	quantity	100
+trade 3237549	buyer	Landon (17389)
+trade 3237549	seller	Bennett (18106)
+trade 3237549	time	2004-10-25T14:34:18.600
+trade 3237549	asset	REP04_G52
+trade 3237549	price	0.314
+trade 3237549	quantity	2
+trade 3237923	buyer	Jase (19163)
+trade 3237923	seller	Landon (17389)
+trade 3237923	time	2004-10-25T15:12:43.370
+trade 3237923	asset	DEM04_G52
+trade 3237923	price	0.15
+trade 3237923	quantity	19
+trade 3237980	buyer	Jase (19163)
+trade 3237980	seller	Adriana (18684)
+trade 3237980	time	2004-10-25T15:14:20.987
+trade 3237980	asset	DEM04_L52
+trade 3237980	price	0.245
+trade 3237980	quantity	11
+trade 3238008	buyer	Jase (19163)
+trade 3238008	seller	Ariel (7602)
+trade 3238008	time	2004-10-25T15:15:44.713
+trade 3238008	asset	DEM04_G52
+trade 3238008	price	0.15
+trade 3238008	quantity	31
+trade 3238015	buyer	Ariel (7602)
+trade 3238015	seller	Landon (17389)
+trade 3238015	time	2004-10-25T15:16:12.747
+trade 3238015	asset	REP04_L52
+trade 3238015	price	0.307
+trade 3238015	quantity	20
+trade 3238063	buyer	Ariel (7602)
+trade 3238063	seller	Landon (17389)
+trade 3238063	time	2004-10-25T15:21:31.053
+trade 3238063	asset	REP04_L52
+trade 3238063	price	0.319
+trade 3238063	quantity	3
+trade 3238294	buyer	Nicholas (17599)
+trade 3238294	seller	Ryan (17264)
+trade 3238294	time	2004-10-25T15:51:35.953
+trade 3238294	asset	REP04_L52
+trade 3238294	price	0.297
+trade 3238294	quantity	7
+trade 3238315	buyer	Nicholas (17599)
+trade 3238315	seller	Savannah (17386)
+trade 3238315	time	2004-10-25T15:53:32.777
+trade 3238315	asset	REP04_L52
+trade 3238315	price	0.297
+trade 3238315	quantity	8
+trade 3238497	buyer	Zaire (5180)
+trade 3238497	seller	Landon (17389)
+trade 3238497	time	2004-10-25T16:49:51.933
+trade 3238497	asset	REP04_L52
+trade 3238497	price	0.297
+trade 3238497	quantity	5
+trade 3238951	buyer	Ford (19121)
+trade 3238951	seller	Olivia (10138)
+trade 3238951	time	2004-10-25T18:51:49.683
+trade 3238951	asset	DEM04_G52
+trade 3238951	price	0.159
+trade 3238951	quantity	100
+trade 3239222	buyer	Helena (4021)
+trade 3239222	seller	Adriana (18684)
+trade 3239222	time	2004-10-25T19:37:37.210
+trade 3239222	asset	REP04_G52
+trade 3239222	price	0.31
+trade 3239222	quantity	12
+trade 3239380	buyer	Olivia (10138)
+trade 3239380	seller	Myra (7263)
+trade 3239380	time	2004-10-25T20:31:22.370
+trade 3239380	asset	REP04_L52
+trade 3239380	price	0.285
+trade 3239380	quantity	233
+trade 3239536	buyer	Landon (17389)
+trade 3239536	seller	Elle (1891)
+trade 3239536	time	2004-10-25T20:55:17.597
+trade 3239536	asset	DEM04_G52
+trade 3239536	price	0.151
+trade 3239536	quantity	10
+trade 3239597	buyer	Kaleb (18499)
+trade 3239597	seller	Landon (17389)
+trade 3239597	time	2004-10-25T21:38:44.063
+trade 3239597	asset	REP04_L52
+trade 3239597	price	0.285
+trade 3239597	quantity	11
+trade 3239713	buyer	Landon (17389)
+trade 3239713	seller	Emely (5187)
+trade 3239713	time	2004-10-25T21:45:40.007
+trade 3239713	asset	REP04_L52
+trade 3239713	price	0.282
+trade 3239713	quantity	9
+trade 3240000	buyer	Landon (17389)
+trade 3240000	seller	Maliyah (19135)
+trade 3240000	time	2004-10-25T22:59:38.420
+trade 3240000	asset	DEM04_G52
+trade 3240000	price	0.146
+trade 3240000	quantity	2
+trade 3240155	buyer	Emory (19087)
+trade 3240155	seller	Corey (5298)
+trade 3240155	time	2004-10-26T00:14:16.607
+trade 3240155	asset	DEM04_L52
+trade 3240155	price	0.256
+trade 3240155	quantity	10
+trade 3240562	buyer	Wade (18814)
+trade 3240562	seller	Audrey (17337)
+trade 3240562	time	2004-10-26T03:22:46.733
+trade 3240562	asset	DEM04_G52
+trade 3240562	price	0.149
+trade 3240562	quantity	1
+trade 3241153	buyer	Helen (19040)
+trade 3241153	seller	Landon (17389)
+trade 3241153	time	2004-10-26T08:35:15.760
+trade 3241153	asset	DEM04_G52
+trade 3241153	price	0.159
+trade 3241153	quantity	13
+trade 3241412	buyer	Felicity (18941)
+trade 3241412	seller	Ismael (18837)
+trade 3241412	time	2004-10-26T10:11:03.187
+trade 3241412	asset	DEM04_G52
+trade 3241412	price	0.158
+trade 3241412	quantity	5
+trade 3241421	buyer	Kaleb (18499)
+trade 3241421	seller	Landon (17389)
+trade 3241421	time	2004-10-26T10:14:59.700
+trade 3241421	asset	REP04_L52
+trade 3241421	price	0.286
+trade 3241421	quantity	1
+trade 3241568	buyer	Landon (17389)
+trade 3241568	seller	Adriana (18684)
+trade 3241568	time	2004-10-26T10:39:14.560
+trade 3241568	asset	DEM04_G52
+trade 3241568	price	0.155
+trade 3241568	quantity	1
+trade 3241642	buyer	Nola (6784)
+trade 3241642	seller	Landon (17389)
+trade 3241642	time	2004-10-26T10:46:26.513
+trade 3241642	asset	REP04_L52
+trade 3241642	price	0.285
+trade 3241642	quantity	1
+trade 3241675	buyer	Landon (17389)
+trade 3241675	seller	Xander (18398)
+trade 3241675	time	2004-10-26T10:54:05.590
+trade 3241675	asset	DEM04_L52
+trade 3241675	price	0.265
+trade 3241675	quantity	10
+trade 3241751	buyer	Noa (19143)
+trade 3241751	seller	Adriana (18684)
+trade 3241751	time	2004-10-26T10:58:25.543
+trade 3241751	asset	DEM04_L52
+trade 3241751	price	0.261
+trade 3241751	quantity	12
+trade 3242039	buyer	Landon (17389)
+trade 3242039	seller	Anderson (18689)
+trade 3242039	time	2004-10-26T11:55:27.037
+trade 3242039	asset	REP04_L52
+trade 3242039	price	0.286
+trade 3242039	quantity	1
+trade 3242237	buyer	Landon (17389)
+trade 3242237	seller	Ophelia (18950)
+trade 3242237	time	2004-10-26T12:31:27.543
+trade 3242237	asset	DEM04_G52
+trade 3242237	price	0.16
+trade 3242237	quantity	3
+trade 3242460	buyer	Carter (4136)
+trade 3242460	seller	Landon (17389)
+trade 3242460	time	2004-10-26T13:01:34.010
+trade 3242460	asset	DEM04_G52
+trade 3242460	price	0.152
+trade 3242460	quantity	5
+trade 3242605	buyer	Remington (18494)
+trade 3242605	seller	Cruz (18679)
+trade 3242605	time	2004-10-26T13:28:27.297
+trade 3242605	asset	DEM04_G52
+trade 3242605	price	0.16
+trade 3242605	quantity	1
+trade 3242699	buyer	Kaleb (18499)
+trade 3242699	seller	Willa (18838)
+trade 3242699	time	2004-10-26T13:45:12.490
+trade 3242699	asset	REP04_G52
+trade 3242699	price	0.287
+trade 3242699	quantity	1
+trade 3242863	buyer	Willa (18838)
+trade 3242863	seller	Anderson (18689)
+trade 3242863	time	2004-10-26T14:19:49.803
+trade 3242863	asset	DEM04_L52
+trade 3242863	price	0.269
+trade 3242863	quantity	13
+trade 3243488	buyer	Delilah (17393)
+trade 3243488	seller	Allie (19051)
+trade 3243488	time	2004-10-26T17:39:41.037
+trade 3243488	asset	DEM04_L52
+trade 3243488	price	0.274
+trade 3243488	quantity	10
+trade 3244140	buyer	Kaleb (18499)
+trade 3244140	seller	Landon (17389)
+trade 3244140	time	2004-10-26T19:29:09.083
+trade 3244140	asset	DEM04_G52
+trade 3244140	price	0.16
+trade 3244140	quantity	5
+trade 3244346	buyer	Kaleb (18499)
+trade 3244346	seller	Addilyn (19151)
+trade 3244346	time	2004-10-26T19:57:32.490
+trade 3244346	asset	REP04_L52
+trade 3244346	price	0.297
+trade 3244346	quantity	1
+trade 3244356	buyer	Addilyn (19151)
+trade 3244356	seller	Mohamed (7219)
+trade 3244356	time	2004-10-26T19:59:33.237
+trade 3244356	asset	DEM04_L52
+trade 3244356	price	0.31
+trade 3244356	quantity	5
+trade 3244718	buyer	Wade (18814)
+trade 3244718	seller	Elle (1891)
+trade 3244718	time	2004-10-26T20:30:16.357
+trade 3244718	asset	DEM04_G52
+trade 3244718	price	0.146
+trade 3244718	quantity	3
+trade 3244834	buyer	Leighton (18983)
+trade 3244834	seller	Landon (17389)
+trade 3244834	time	2004-10-26T20:43:08.720
+trade 3244834	asset	REP04_L52
+trade 3244834	price	0.31
+trade 3244834	quantity	5
+trade 3244915	buyer	Arlo (18468)
+trade 3244915	seller	Landon (17389)
+trade 3244915	time	2004-10-26T20:48:08.730
+trade 3244915	asset	REP04_L52
+trade 3244915	price	0.311
+trade 3244915	quantity	5
+trade 3245019	buyer	Wade (18814)
+trade 3245019	seller	Elle (1891)
+trade 3245019	time	2004-10-26T21:02:44.363
+trade 3245019	asset	DEM04_G52
+trade 3245019	price	0.152
+trade 3245019	quantity	2
+trade 3245652	buyer	Gabriel (16617)
+trade 3245652	seller	Lorelai (5366)
+trade 3245652	time	2004-10-26T22:43:48.947
+trade 3245652	asset	REP04_L52
+trade 3245652	price	0.312
+trade 3245652	quantity	4
+trade 3245767	buyer	Jayden (16611)
+trade 3245767	seller	Raven (19025)
+trade 3245767	time	2004-10-26T22:56:01.460
+trade 3245767	asset	DEM04_L52
+trade 3245767	price	0.303
+trade 3245767	quantity	2
+trade 3246394	buyer	Kaleb (18499)
+trade 3246394	seller	Bruce (2691)
+trade 3246394	time	2004-10-26T23:49:05.570
+trade 3246394	asset	DEM04_L52
+trade 3246394	price	0.3
+trade 3246394	quantity	3
+trade 3246502	buyer	Antonio (18384)
+trade 3246502	seller	Landon (17389)
+trade 3246502	time	2004-10-26T23:59:50.637
+trade 3246502	asset	REP04_L52
+trade 3246502	price	0.313
+trade 3246502	quantity	8
+trade 3247242	buyer	Annie (18637)
+trade 3247242	seller	Lana (18949)
+trade 3247242	time	2004-10-27T07:50:53.100
+trade 3247242	asset	REP04_G52
+trade 3247242	price	0.215
+trade 3247242	quantity	4
+trade 3247278	buyer	Landon (17389)
+trade 3247278	seller	Brooks (17689)
+trade 3247278	time	2004-10-27T07:50:56.443
+trade 3247278	asset	REP04_L52
+trade 3247278	price	0.318
+trade 3247278	quantity	20
+trade 3247581	buyer	Serenity (17402)
+trade 3247581	seller	Elle (1891)
+trade 3247581	time	2004-10-27T08:47:11.613
+trade 3247581	asset	DEM04_L52
+trade 3247581	price	0.317
+trade 3247581	quantity	5
+trade 3247794	buyer	Lexi (18899)
+trade 3247794	seller	Carter (4136)
+trade 3247794	time	2004-10-27T09:05:11.843
+trade 3247794	asset	DEM04_G52
+trade 3247794	price	0.164
+trade 3247794	quantity	15
+trade 3247823	buyer	Makai (6295)
+trade 3247823	seller	Jeffrey (18938)
+trade 3247823	time	2004-10-27T09:06:17.630
+trade 3247823	asset	REP04_G52
+trade 3247823	price	0.196
+trade 3247823	quantity	2
+trade 3248509	buyer	Annie (18637)
+trade 3248509	seller	Declan (18112)
+trade 3248509	time	2004-10-27T11:08:25.443
+trade 3248509	asset	DEM04_G52
+trade 3248509	price	0.175
+trade 3248509	quantity	1
+trade 3248657	buyer	Zelda (7422)
+trade 3248657	seller	Landon (17389)
+trade 3248657	time	2004-10-27T11:48:53.410
+trade 3248657	asset	REP04_G52
+trade 3248657	price	0.21
+trade 3248657	quantity	2
+trade 3248818	buyer	Jayceon (18980)
+trade 3248818	seller	Maliyah (19135)
+trade 3248818	time	2004-10-27T12:01:25.037
+trade 3248818	asset	REP04_G52
+trade 3248818	price	0.207
+trade 3248818	quantity	1
+trade 3249191	buyer	Adelyn (18510)
+trade 3249191	seller	Delaney (18702)
+trade 3249191	time	2004-10-27T12:50:31.890
+trade 3249191	asset	REP04_L52
+trade 3249191	price	0.33
+trade 3249191	quantity	22
+trade 3249224	buyer	Luka (18344)
+trade 3249224	seller	Maddison (19172)
+trade 3249224	time	2004-10-27T12:52:34.697
+trade 3249224	asset	DEM04_L52
+trade 3249224	price	0.302
+trade 3249224	quantity	1
+trade 3249349	buyer	Kaleb (18499)
+trade 3249349	seller	Landon (17389)
+trade 3249349	time	2004-10-27T12:58:53.933
+trade 3249349	asset	DEM04_L52
+trade 3249349	price	0.307
+trade 3249349	quantity	2
+trade 3249449	buyer	Kaleb (18499)
+trade 3249449	seller	Landon (17389)
+trade 3249449	time	2004-10-27T13:03:13.563
+trade 3249449	asset	DEM04_G52
+trade 3249449	price	0.166
+trade 3249449	quantity	8
+trade 3249474	buyer	Remington (18494)
+trade 3249474	seller	Landon (17389)
+trade 3249474	time	2004-10-27T13:03:33.143
+trade 3249474	asset	DEM04_G52
+trade 3249474	price	0.165
+trade 3249474	quantity	3
+trade 3249611	buyer	Remington (18494)
+trade 3249611	seller	Landon (17389)
+trade 3249611	time	2004-10-27T13:12:33.483
+trade 3249611	asset	DEM04_G52
+trade 3249611	price	0.165
+trade 3249611	quantity	9
+trade 3250092	buyer	Maddox (18362)
+trade 3250092	seller	Landon (17389)
+trade 3250092	time	2004-10-27T13:32:19.990
+trade 3250092	asset	REP04_L52
+trade 3250092	price	0.318
+trade 3250092	quantity	1
+trade 3250124	buyer	Mira (19197)
+trade 3250124	seller	Addilyn (19151)
+trade 3250124	time	2004-10-27T13:36:23.307
+trade 3250124	asset	DEM04_L52
+trade 3250124	price	0.325
+trade 3250124	quantity	50
+trade 3250312	buyer	Kaleb (18499)
+trade 3250312	seller	Carter (4136)
+trade 3250312	time	2004-10-27T13:43:37.420
+trade 3250312	asset	DEM04_G52
+trade 3250312	price	0.163
+trade 3250312	quantity	8
+trade 3251281	buyer	Ford (19121)
+trade 3251281	seller	Remington (18494)
+trade 3251281	time	2004-10-27T15:58:30.877
+trade 3251281	asset	DEM04_G52
+trade 3251281	price	0.17
+trade 3251281	quantity	100
+trade 3251443	buyer	Ryan (17264)
+trade 3251443	seller	Adriana (18684)
+trade 3251443	time	2004-10-27T16:30:44.647
+trade 3251443	asset	REP04_L52
+trade 3251443	price	0.326
+trade 3251443	quantity	15
+trade 3251806	buyer	Kaleb (18499)
+trade 3251806	seller	Delaney (18702)
+trade 3251806	time	2004-10-27T18:04:13.550
+trade 3251806	asset	REP04_L52
+trade 3251806	price	0.33
+trade 3251806	quantity	3
+trade 3252279	buyer	Jaime (7480)
+trade 3252279	seller	Ella (14120)
+trade 3252279	time	2004-10-27T19:59:03.950
+trade 3252279	asset	DEM04_L52
+trade 3252279	price	0.303
+trade 3252279	quantity	4
+trade 3252283	buyer	Cohen (18618)
+trade 3252283	seller	Dominick (19092)
+trade 3252283	time	2004-10-27T20:03:06.487
+trade 3252283	asset	DEM04_G52
+trade 3252283	price	0.162
+trade 3252283	quantity	50
+trade 3252548	buyer	Kaleb (18499)
+trade 3252548	seller	Dylan (16748)
+trade 3252548	time	2004-10-27T21:01:00.510
+trade 3252548	asset	DEM04_G52
+trade 3252548	price	0.161
+trade 3252548	quantity	1
+trade 3252594	buyer	Kaleb (18499)
+trade 3252594	seller	Josie (18280)
+trade 3252594	time	2004-10-27T21:17:21.187
+trade 3252594	asset	REP04_L52
+trade 3252594	price	0.32
+trade 3252594	quantity	1
+trade 3252820	buyer	Parker (17933)
+trade 3252820	seller	Elle (1891)
+trade 3252820	time	2004-10-27T23:30:51.400
+trade 3252820	asset	REP04_G52
+trade 3252820	price	0.218
+trade 3252820	quantity	1
+trade 3253335	buyer	Elle (1891)
+trade 3253335	seller	Adriana (18684)
+trade 3253335	time	2004-10-28T06:20:58.723
+trade 3253335	asset	DEM04_L52
+trade 3253335	price	0.3
+trade 3253335	quantity	3
+trade 3253434	buyer	Jack (15431)
+trade 3253434	seller	Delaney (18702)
+trade 3253434	time	2004-10-28T07:45:38.583
+trade 3253434	asset	REP04_L52
+trade 3253434	price	0.33
+trade 3253434	quantity	1
+trade 3253783	buyer	Addilyn (19151)
+trade 3253783	seller	Cesar (18909)
+trade 3253783	time	2004-10-28T10:04:17.980
+trade 3253783	asset	DEM04_L52
+trade 3253783	price	0.314
+trade 3253783	quantity	25
+trade 3253789	buyer	Addilyn (19151)
+trade 3253789	seller	Cesar (18909)
+trade 3253789	time	2004-10-28T10:05:40.423
+trade 3253789	asset	DEM04_L52
+trade 3253789	price	0.314
+trade 3253789	quantity	12
+trade 3253851	buyer	Lana (18949)
+trade 3253851	seller	Adriana (18684)
+trade 3253851	time	2004-10-28T10:24:32.047
+trade 3253851	asset	REP04_L52
+trade 3253851	price	0.331
+trade 3253851	quantity	20
+trade 3253991	buyer	Kaleb (18499)
+trade 3253991	seller	Adriana (18684)
+trade 3253991	time	2004-10-28T10:53:52.710
+trade 3253991	asset	DEM04_L52
+trade 3253991	price	0.307
+trade 3253991	quantity	1
+trade 3254024	buyer	Kaleb (18499)
+trade 3254024	seller	Carter (4136)
+trade 3254024	time	2004-10-28T10:57:10.773
+trade 3254024	asset	REP04_L52
+trade 3254024	price	0.34
+trade 3254024	quantity	1
+trade 3254054	buyer	Kaleb (18499)
+trade 3254054	seller	Juan (18305)
+trade 3254054	time	2004-10-28T11:07:29.293
+trade 3254054	asset	DEM04_G52
+trade 3254054	price	0.156
+trade 3254054	quantity	1
+trade 3254162	buyer	Lana (18949)
+trade 3254162	seller	Adriana (18684)
+trade 3254162	time	2004-10-28T11:24:58.180
+trade 3254162	asset	REP04_L52
+trade 3254162	price	0.331
+trade 3254162	quantity	12
+trade 3254430	buyer	Kaleb (18499)
+trade 3254430	seller	Adriana (18684)
+trade 3254430	time	2004-10-28T12:19:07.150
+trade 3254430	asset	DEM04_G52
+trade 3254430	price	0.156
+trade 3254430	quantity	1
+trade 3254504	buyer	Bella (17365)
+trade 3254504	seller	Nicolas (18429)
+trade 3254504	time	2004-10-28T12:44:17.120
+trade 3254504	asset	REP04_L52
+trade 3254504	price	0.333
+trade 3254504	quantity	65
+trade 3254570	buyer	Ruben (19138)
+trade 3254570	seller	Adriana (18684)
+trade 3254570	time	2004-10-28T12:47:59.047
+trade 3254570	asset	REP04_G52
+trade 3254570	price	0.198
+trade 3254570	quantity	9
+trade 3254639	buyer	Lana (18949)
+trade 3254639	seller	Addilyn (19151)
+trade 3254639	time	2004-10-28T12:51:06.390
+trade 3254639	asset	REP04_L52
+trade 3254639	price	0.331
+trade 3254639	quantity	10
+trade 3255094	buyer	Clayton (18636)
+trade 3255094	seller	Elle (1891)
+trade 3255094	time	2004-10-28T14:10:50.007
+trade 3255094	asset	REP04_L52
+trade 3255094	price	0.331
+trade 3255094	quantity	3
+trade 3255121	buyer	Declan (18112)
+trade 3255121	seller	Jordan (17555)
+trade 3255121	time	2004-10-28T14:15:26.950
+trade 3255121	asset	REP04_L52
+trade 3255121	price	0.33
+trade 3255121	quantity	1
+trade 3255246	buyer	Addilyn (19151)
+trade 3255246	seller	Juliet (18688)
+trade 3255246	time	2004-10-28T15:02:48.890
+trade 3255246	asset	REP04_G52
+trade 3255246	price	0.199
+trade 3255246	quantity	10
+trade 3255358	buyer	Ruben (19138)
+trade 3255358	seller	Adelyn (18510)
+trade 3255358	time	2004-10-28T15:23:43.463
+trade 3255358	asset	REP04_G52
+trade 3255358	price	0.198
+trade 3255358	quantity	20
+trade 3255524	buyer	Addilyn (19151)
+trade 3255524	seller	Allie (19051)
+trade 3255524	time	2004-10-28T15:54:28.133
+trade 3255524	asset	DEM04_L52
+trade 3255524	price	0.33
+trade 3255524	quantity	5
+trade 3255630	buyer	Adriana (18684)
+trade 3255630	seller	Landon (17389)
+trade 3255630	time	2004-10-28T16:08:29.640
+trade 3255630	asset	DEM04_G52
+trade 3255630	price	0.152
+trade 3255630	quantity	1
+trade 3256662	buyer	Elle (1891)
+trade 3256662	seller	Landon (17389)
+trade 3256662	time	2004-10-28T19:39:46.023
+trade 3256662	asset	REP04_L52
+trade 3256662	price	0.315
+trade 3256662	quantity	2
+trade 3256695	buyer	Ford (19121)
+trade 3256695	seller	Leighton (18983)
+trade 3256695	time	2004-10-28T19:44:47.860
+trade 3256695	asset	DEM04_G52
+trade 3256695	price	0.16
+trade 3256695	quantity	46
+trade 3256759	buyer	Kendra (6314)
+trade 3256759	seller	Landon (17389)
+trade 3256759	time	2004-10-28T19:47:22.047
+trade 3256759	asset	DEM04_L52
+trade 3256759	price	0.314
+trade 3256759	quantity	1
+trade 3257023	buyer	Maliyah (19135)
+trade 3257023	seller	Landon (17389)
+trade 3257023	time	2004-10-28T20:54:30.680
+trade 3257023	asset	DEM04_L52
+trade 3257023	price	0.314
+trade 3257023	quantity	1
+trade 3257393	buyer	Landon (17389)
+trade 3257393	seller	Elle (1891)
+trade 3257393	time	2004-10-28T22:10:54.660
+trade 3257393	asset	REP04_L52
+trade 3257393	price	0.313
+trade 3257393	quantity	2
+trade 3257626	buyer	Noa (19143)
+trade 3257626	seller	Olivia (10138)
+trade 3257626	time	2004-10-28T22:43:19.810
+trade 3257626	asset	REP04_L52
+trade 3257626	price	0.311
+trade 3257626	quantity	20
+trade 3257656	buyer	Luciano (19009)
+trade 3257656	seller	Elle (1891)
+trade 3257656	time	2004-10-28T22:48:18.067
+trade 3257656	asset	REP04_G52
+trade 3257656	price	0.22
+trade 3257656	quantity	5
+trade 3257662	buyer	Kaleb (18499)
+trade 3257662	seller	Alivia (18551)
+trade 3257662	time	2004-10-28T22:48:32.367
+trade 3257662	asset	DEM04_L52
+trade 3257662	price	0.315
+trade 3257662	quantity	1
+trade 3257758	buyer	Juan (18305)
+trade 3257758	seller	Alivia (18551)
+trade 3257758	time	2004-10-28T22:57:39.960
+trade 3257758	asset	REP04_G52
+trade 3257758	price	0.203
+trade 3257758	quantity	3
+trade 3258064	buyer	Noa (19143)
+trade 3258064	seller	Mallory (7808)
+trade 3258064	time	2004-10-29T00:22:09.240
+trade 3258064	asset	REP04_L52
+trade 3258064	price	0.309
+trade 3258064	quantity	49
+trade 3259251	buyer	Ezequiel (18881)
+trade 3259251	seller	Parker (17933)
+trade 3259251	time	2004-10-29T09:34:34.977
+trade 3259251	asset	REP04_L52
+trade 3259251	price	0.312
+trade 3259251	quantity	3
+trade 3259692	buyer	Eliza (18208)
+trade 3259692	seller	Landon (17389)
+trade 3259692	time	2004-10-29T10:58:28.620
+trade 3259692	asset	REP04_G52
+trade 3259692	price	0.217
+trade 3259692	quantity	16
+trade 3259699	buyer	David (16326)
+trade 3259699	seller	Elle (1891)
+trade 3259699	time	2004-10-29T10:59:09.930
+trade 3259699	asset	REP04_L52
+trade 3259699	price	0.329
+trade 3259699	quantity	10
+trade 3259873	buyer	Francis (19185)
+trade 3259873	seller	Adriana (18684)
+trade 3259873	time	2004-10-29T11:11:41.307
+trade 3259873	asset	DEM04_L52
+trade 3259873	price	0.316
+trade 3259873	quantity	5
+trade 3260279	buyer	Ainsley (18857)
+trade 3260279	seller	Landon (17389)
+trade 3260279	time	2004-10-29T13:51:30.790
+trade 3260279	asset	DEM04_L52
+trade 3260279	price	0.317
+trade 3260279	quantity	4
+trade 3260311	buyer	Remington (18494)
+trade 3260311	seller	Landon (17389)
+trade 3260311	time	2004-10-29T13:53:46.120
+trade 3260311	asset	DEM04_G52
+trade 3260311	price	0.15
+trade 3260311	quantity	4
+trade 3260394	buyer	Kaleb (18499)
+trade 3260394	seller	Landon (17389)
+trade 3260394	time	2004-10-29T13:56:46.213
+trade 3260394	asset	REP04_G52
+trade 3260394	price	0.21
+trade 3260394	quantity	1
+trade 3260524	buyer	Kaleb (18499)
+trade 3260524	seller	Adriana (18684)
+trade 3260524	time	2004-10-29T14:04:04.963
+trade 3260524	asset	DEM04_L52
+trade 3260524	price	0.317
+trade 3260524	quantity	1
+trade 3260613	buyer	Gabriel (16617)
+trade 3260613	seller	Elle (1891)
+trade 3260613	time	2004-10-29T14:17:36.823
+trade 3260613	asset	REP04_L52
+trade 3260613	price	0.323
+trade 3260613	quantity	1
+trade 3260770	buyer	Tristan (18390)
+trade 3260770	seller	Corey (5298)
+trade 3260770	time	2004-10-29T14:30:30.823
+trade 3260770	asset	DEM04_L52
+trade 3260770	price	0.323
+trade 3260770	quantity	1
+trade 3261033	buyer	Dylan (16748)
+trade 3261033	seller	Juan (18305)
+trade 3261033	time	2004-10-29T15:23:35.277
+trade 3261033	asset	DEM04_G52
+trade 3261033	price	0.148
+trade 3261033	quantity	20
+trade 3261517	buyer	Kamden (19177)
+trade 3261517	seller	Adriana (18684)
+trade 3261517	time	2004-10-29T16:15:05.893
+trade 3261517	asset	DEM04_L52
+trade 3261517	price	0.314
+trade 3261517	quantity	20
+trade 3261589	buyer	Jase (19163)
+trade 3261589	seller	Owen (15547)
+trade 3261589	time	2004-10-29T16:20:26.077
+trade 3261589	asset	DEM04_G52
+trade 3261589	price	0.15
+trade 3261589	quantity	16
+trade 3261629	buyer	Jase (19163)
+trade 3261629	seller	Adriana (18684)
+trade 3261629	time	2004-10-29T16:22:38.650
+trade 3261629	asset	DEM04_G52
+trade 3261629	price	0.15
+trade 3261629	quantity	20
+trade 3261645	buyer	Cohen (18618)
+trade 3261645	seller	Owen (15547)
+trade 3261645	time	2004-10-29T16:23:39.687
+trade 3261645	asset	REP04_L52
+trade 3261645	price	0.325
+trade 3261645	quantity	3
+trade 3261797	buyer	Matilda (19178)
+trade 3261797	seller	Juan (18305)
+trade 3261797	time	2004-10-29T16:38:17.493
+trade 3261797	asset	REP04_G52
+trade 3261797	price	0.234
+trade 3261797	quantity	1
+trade 3261980	buyer	Kaleb (18499)
+trade 3261980	seller	Damien (18608)
+trade 3261980	time	2004-10-29T17:09:59.933
+trade 3261980	asset	DEM04_L52
+trade 3261980	price	0.31
+trade 3261980	quantity	1
+trade 3262419	buyer	Kamden (19177)
+trade 3262419	seller	Owen (15547)
+trade 3262419	time	2004-10-29T19:55:47.777
+trade 3262419	asset	DEM04_L52
+trade 3262419	price	0.302
+trade 3262419	quantity	1
+trade 3262597	buyer	Noa (19143)
+trade 3262597	seller	Adriana (18684)
+trade 3262597	time	2004-10-29T20:40:33.313
+trade 3262597	asset	REP04_L52
+trade 3262597	price	0.325
+trade 3262597	quantity	2
+trade 3262640	buyer	Juan (18305)
+trade 3262640	seller	Maia (279)
+trade 3262640	time	2004-10-29T20:48:12.070
+trade 3262640	asset	REP04_L52
+trade 3262640	price	0.322
+trade 3262640	quantity	20
+trade 3262952	buyer	Melody (18166)
+trade 3262952	seller	Elle (1891)
+trade 3262952	time	2004-10-29T22:33:11.513
+trade 3262952	asset	DEM04_L52
+trade 3262952	price	0.301
+trade 3262952	quantity	4
+trade 3263229	buyer	Adan (19149)
+trade 3263229	seller	Sean (18806)
+trade 3263229	time	2004-10-29T23:38:44.530
+trade 3263229	asset	REP04_G52
+trade 3263229	price	0.223
+trade 3263229	quantity	20
+trade 3263523	buyer	Mabel (19046)
+trade 3263523	seller	Adriana (18684)
+trade 3263523	time	2004-10-30T01:07:26.660
+trade 3263523	asset	REP04_L52
+trade 3263523	price	0.333
+trade 3263523	quantity	9
+trade 3263667	buyer	Mabel (19046)
+trade 3263667	seller	Ryan (17264)
+trade 3263667	time	2004-10-30T03:01:11.313
+trade 3263667	asset	REP04_L52
+trade 3263667	price	0.333
+trade 3263667	quantity	15
+trade 3264212	buyer	Melody (18166)
+trade 3264212	seller	Owen (15547)
+trade 3264212	time	2004-10-30T09:14:11.097
+trade 3264212	asset	DEM04_L52
+trade 3264212	price	0.301
+trade 3264212	quantity	1
+trade 3264467	buyer	Melody (18166)
+trade 3264467	seller	Owen (15547)
+trade 3264467	time	2004-10-30T09:48:50.520
+trade 3264467	asset	DEM04_L52
+trade 3264467	price	0.301
+trade 3264467	quantity	1
+trade 3264864	buyer	Kaleb (18499)
+trade 3264864	seller	Landon (17389)
+trade 3264864	time	2004-10-30T12:00:50.897
+trade 3264864	asset	DEM04_G52
+trade 3264864	price	0.149
+trade 3264864	quantity	1
+trade 3265030	buyer	Landon (17389)
+trade 3265030	seller	Tristan (18390)
+trade 3265030	time	2004-10-30T12:16:07.473
+trade 3265030	asset	DEM04_L52
+trade 3265030	price	0.291
+trade 3265030	quantity	11
+trade 3265180	buyer	Addilyn (19151)
+trade 3265180	seller	Landon (17389)
+trade 3265180	time	2004-10-30T12:59:11.220
+trade 3265180	asset	DEM04_G52
+trade 3265180	price	0.154
+trade 3265180	quantity	2
+trade 3265343	buyer	Piper (17690)
+trade 3265343	seller	Jayce (18318)
+trade 3265343	time	2004-10-30T13:15:28.770
+trade 3265343	asset	DEM04_L52
+trade 3265343	price	0.3
+trade 3265343	quantity	4
+trade 3265464	buyer	Oakley (18617)
+trade 3265464	seller	Corey (5298)
+trade 3265464	time	2004-10-30T13:27:09.313
+trade 3265464	asset	DEM04_L52
+trade 3265464	price	0.308
+trade 3265464	quantity	102
+trade 3265473	buyer	Piper (17690)
+trade 3265473	seller	Oakley (18617)
+trade 3265473	time	2004-10-30T13:28:11.613
+trade 3265473	asset	REP04_G52
+trade 3265473	price	0.23
+trade 3265473	quantity	3
+trade 3265767	buyer	Kaleb (18499)
+trade 3265767	seller	Elle (1891)
+trade 3265767	time	2004-10-30T14:19:46.450
+trade 3265767	asset	REP04_L52
+trade 3265767	price	0.332
+trade 3265767	quantity	1
+trade 3265790	buyer	Adriana (18684)
+trade 3265790	seller	Kendra (6314)
+trade 3265790	time	2004-10-30T14:22:23.947
+trade 3265790	asset	DEM04_L52
+trade 3265790	price	0.304
+trade 3265790	quantity	1
+trade 3265798	buyer	Shawn (19108)
+trade 3265798	seller	Cohen (18618)
+trade 3265798	time	2004-10-30T14:24:07.410
+trade 3265798	asset	DEM04_G52
+trade 3265798	price	0.16
+trade 3265798	quantity	2
+trade 3265848	buyer	Parker (17933)
+trade 3265848	seller	Kendra (6314)
+trade 3265848	time	2004-10-30T14:27:06.533
+trade 3265848	asset	REP04_G52
+trade 3265848	price	0.213
+trade 3265848	quantity	5
+trade 3266084	buyer	Adriana (18684)
+trade 3266084	seller	Luciano (19009)
+trade 3266084	time	2004-10-30T15:11:35.020
+trade 3266084	asset	DEM04_G52
+trade 3266084	price	0.147
+trade 3266084	quantity	1
+trade 3268500	buyer	Corey (5298)
+trade 3268500	seller	Isabella (13537)
+trade 3268500	time	2004-10-31T06:48:15.123
+trade 3268500	asset	DEM04_L52
+trade 3268500	price	0.306
+trade 3268500	quantity	1
+trade 3269097	buyer	Francis (19185)
+trade 3269097	seller	Adriana (18684)
+trade 3269097	time	2004-10-31T11:47:46.593
+trade 3269097	asset	REP04_L52
+trade 3269097	price	0.334
+trade 3269097	quantity	10
+trade 3269535	buyer	Tristan (18390)
+trade 3269535	seller	Noa (19143)
+trade 3269535	time	2004-10-31T13:47:16.783
+trade 3269535	asset	REP04_L52
+trade 3269535	price	0.345
+trade 3269535	quantity	15
+trade 3269545	buyer	Kayla (18462)
+trade 3269545	seller	Tristan (18390)
+trade 3269545	time	2004-10-31T13:49:59.423
+trade 3269545	asset	DEM04_L52
+trade 3269545	price	0.284
+trade 3269545	quantity	26
+trade 3269997	buyer	Adriana (18684)
+trade 3269997	seller	Delaney (18702)
+trade 3269997	time	2004-10-31T15:08:56.347
+trade 3269997	asset	REP04_L52
+trade 3269997	price	0.325
+trade 3269997	quantity	4
+trade 3270090	buyer	Delaney (18702)
+trade 3270090	seller	Shiloh (19112)
+trade 3270090	time	2004-10-31T15:11:36.423
+trade 3270090	asset	DEM04_L52
+trade 3270090	price	0.31
+trade 3270090	quantity	8
+trade 3270255	buyer	Adriana (18684)
+trade 3270255	seller	Noa (19143)
+trade 3270255	time	2004-10-31T15:53:50.633
+trade 3270255	asset	DEM04_L52
+trade 3270255	price	0.306
+trade 3270255	quantity	10
+trade 3270455	buyer	Dylan (16748)
+trade 3270455	seller	Elle (1891)
+trade 3270455	time	2004-10-31T16:15:49.633
+trade 3270455	asset	DEM04_G52
+trade 3270455	price	0.144
+trade 3270455	quantity	1
+trade 3270755	buyer	Alexis (19189)
+trade 3270755	seller	Juan (18305)
+trade 3270755	time	2004-10-31T17:03:54.130
+trade 3270755	asset	DEM04_L52
+trade 3270755	price	0.323
+trade 3270755	quantity	4
+trade 3270901	buyer	Richard (18442)
+trade 3270901	seller	Adriana (18684)
+trade 3270901	time	2004-10-31T17:30:13.810
+trade 3270901	asset	REP04_L52
+trade 3270901	price	0.324
+trade 3270901	quantity	2
+trade 3270913	buyer	Addilyn (19151)
+trade 3270913	seller	Landon (17389)
+trade 3270913	time	2004-10-31T17:31:55.320
+trade 3270913	asset	DEM04_L52
+trade 3270913	price	0.32
+trade 3270913	quantity	2
+trade 3270962	buyer	Emersyn (18349)
+trade 3270962	seller	Landon (17389)
+trade 3270962	time	2004-10-31T17:33:15.683
+trade 3270962	asset	DEM04_G52
+trade 3270962	price	0.14
+trade 3270962	quantity	2
+trade 3271427	buyer	Sadie (17515)
+trade 3271427	seller	Dylan (16748)
+trade 3271427	time	2004-10-31T18:47:20.943
+trade 3271427	asset	DEM04_L52
+trade 3271427	price	0.301
+trade 3271427	quantity	2
+trade 3271633	buyer	Adriana (18684)
+trade 3271633	seller	Caden (18526)
+trade 3271633	time	2004-10-31T19:27:43.443
+trade 3271633	asset	REP04_L52
+trade 3271633	price	0.312
+trade 3271633	quantity	25
+trade 3271887	buyer	Corey (5298)
+trade 3271887	seller	Adriana (18684)
+trade 3271887	time	2004-10-31T19:42:59.863
+trade 3271887	asset	REP04_L52
+trade 3271887	price	0.302
+trade 3271887	quantity	7
+trade 3272288	buyer	Luciano (19009)
+trade 3272288	seller	Raven (19025)
+trade 3272288	time	2004-10-31T21:45:04.393
+trade 3272288	asset	DEM04_G52
+trade 3272288	price	0.152
+trade 3272288	quantity	1
+trade 3272346	buyer	Autumn (17557)
+trade 3272346	seller	Landon (17389)
+trade 3272346	time	2004-10-31T21:59:17.793
+trade 3272346	asset	REP04_L52
+trade 3272346	price	0.317
+trade 3272346	quantity	1
+trade 3272633	buyer	Kaleb (18499)
+trade 3272633	seller	Owen (15547)
+trade 3272633	time	2004-10-31T22:32:31.320
+trade 3272633	asset	DEM04_G52
+trade 3272633	price	0.153
+trade 3272633	quantity	1
+trade 3272818	buyer	Mila (1535)
+trade 3272818	seller	Addilyn (19151)
+trade 3272818	time	2004-10-31T22:57:02.783
+trade 3272818	asset	REP04_L52
+trade 3272818	price	0.316
+trade 3272818	quantity	2
+trade 3272884	buyer	Grady (18973)
+trade 3272884	seller	Landon (17389)
+trade 3272884	time	2004-10-31T23:07:38.777
+trade 3272884	asset	REP04_G52
+trade 3272884	price	0.229
+trade 3272884	quantity	9
+trade 3272993	buyer	Elisa (4100)
+trade 3272993	seller	Landon (17389)
+trade 3272993	time	2004-10-31T23:31:56.973
+trade 3272993	asset	DEM04_L52
+trade 3272993	price	0.305
+trade 3272993	quantity	42
+trade 3273195	buyer	Grady (18973)
+trade 3273195	seller	Adriana (18684)
+trade 3273195	time	2004-11-01T00:00:44.150
+trade 3273195	asset	REP04_G52
+trade 3273195	price	0.234
+trade 3273195	quantity	25
+trade 3274084	buyer	Elisa (4100)
+trade 3274084	seller	Elle (1891)
+trade 3274084	time	2004-11-01T07:26:45.360
+trade 3274084	asset	REP04_L52
+trade 3274084	price	0.318
+trade 3274084	quantity	3
+trade 3274094	buyer	Elisa (4100)
+trade 3274094	seller	Landon (17389)
+trade 3274094	time	2004-11-01T07:27:17.473
+trade 3274094	asset	DEM04_L52
+trade 3274094	price	0.304
+trade 3274094	quantity	3
+trade 3274126	buyer	Ismael (18837)
+trade 3274126	seller	Landon (17389)
+trade 3274126	time	2004-11-01T07:28:46.057
+trade 3274126	asset	DEM04_G52
+trade 3274126	price	0.156
+trade 3274126	quantity	5
+trade 3274229	buyer	Mila (1535)
+trade 3274229	seller	Kylo (19099)
+trade 3274229	time	2004-11-01T07:58:54.647
+trade 3274229	asset	REP04_L52
+trade 3274229	price	0.319
+trade 3274229	quantity	15
+trade 3274274	buyer	Quentin (6141)
+trade 3274274	seller	Adriana (18684)
+trade 3274274	time	2004-11-01T08:38:08.153
+trade 3274274	asset	REP04_G52
+trade 3274274	price	0.232
+trade 3274274	quantity	19
+trade 3274344	buyer	David (16326)
+trade 3274344	seller	Elle (1891)
+trade 3274344	time	2004-11-01T08:44:33.937
+trade 3274344	asset	DEM04_L52
+trade 3274344	price	0.301
+trade 3274344	quantity	1
+trade 3274739	buyer	Mira (19197)
+trade 3274739	seller	Adriana (18684)
+trade 3274739	time	2004-11-01T09:16:17.653
+trade 3274739	asset	DEM04_G52
+trade 3274739	price	0.148
+trade 3274739	quantity	7
+trade 3274753	buyer	Landon (17389)
+trade 3274753	seller	Adriana (18684)
+trade 3274753	time	2004-11-01T09:16:38.217
+trade 3274753	asset	REP04_L52
+trade 3274753	price	0.322
+trade 3274753	quantity	9
+trade 3274909	buyer	Justice (9708)
+trade 3274909	seller	Adriana (18684)
+trade 3274909	time	2004-11-01T09:21:57.500
+trade 3274909	asset	REP04_L52
+trade 3274909	price	0.332
+trade 3274909	quantity	1
+trade 3275646	buyer	Landon (17389)
+trade 3275646	seller	Dominick (19092)
+trade 3275646	time	2004-11-01T10:17:18.123
+trade 3275646	asset	DEM04_L52
+trade 3275646	price	0.324
+trade 3275646	quantity	1
+trade 3275795	buyer	Averie (19044)
+trade 3275795	seller	Lexi (18899)
+trade 3275795	time	2004-11-01T10:51:26.910
+trade 3275795	asset	DEM04_G52
+trade 3275795	price	0.15
+trade 3275795	quantity	5
+trade 3276262	buyer	Kaleb (18499)
+trade 3276262	seller	Landon (17389)
+trade 3276262	time	2004-11-01T11:23:58.817
+trade 3276262	asset	DEM04_G52
+trade 3276262	price	0.145
+trade 3276262	quantity	1
+trade 3276595	buyer	Tate (18852)
+trade 3276595	seller	Jonathan (17400)
+trade 3276595	time	2004-11-01T12:57:52.383
+trade 3276595	asset	DEM04_G52
+trade 3276595	price	0.148
+trade 3276595	quantity	2
+trade 3276602	buyer	Tate (18852)
+trade 3276602	seller	Bruce (2691)
+trade 3276602	time	2004-11-01T12:58:36.153
+trade 3276602	asset	DEM04_G52
+trade 3276602	price	0.155
+trade 3276602	quantity	27
+trade 3276721	buyer	Landon (17389)
+trade 3276721	seller	Brooke (18514)
+trade 3276721	time	2004-11-01T13:09:53.637
+trade 3276721	asset	REP04_G52
+trade 3276721	price	0.192
+trade 3276721	quantity	3
+trade 3276804	buyer	Maliyah (19135)
+trade 3276804	seller	Landon (17389)
+trade 3276804	time	2004-11-01T13:18:33.357
+trade 3276804	asset	DEM04_L52
+trade 3276804	price	0.322
+trade 3276804	quantity	4
+trade 3276911	buyer	Landon (17389)
+trade 3276911	seller	Adriana (18684)
+trade 3276911	time	2004-11-01T13:30:36.827
+trade 3276911	asset	DEM04_G52
+trade 3276911	price	0.133
+trade 3276911	quantity	3
+trade 3276929	buyer	Kaleb (18499)
+trade 3276929	seller	Adriana (18684)
+trade 3276929	time	2004-11-01T13:31:47.330
+trade 3276929	asset	REP04_L52
+trade 3276929	price	0.345
+trade 3276929	quantity	1
+trade 3277002	buyer	Zander (18614)
+trade 3277002	seller	Adriana (18684)
+trade 3277002	time	2004-11-01T13:35:10.240
+trade 3277002	asset	DEM04_L52
+trade 3277002	price	0.326
+trade 3277002	quantity	9
+trade 3277666	buyer	Landon (17389)
+trade 3277666	seller	Antonio (18384)
+trade 3277666	time	2004-11-01T14:50:42.303
+trade 3277666	asset	REP04_L52
+trade 3277666	price	0.358
+trade 3277666	quantity	6
+trade 3277787	buyer	Lorelai (5366)
+trade 3277787	seller	Parker (17933)
+trade 3277787	time	2004-11-01T15:00:33.873
+trade 3277787	asset	REP04_G52
+trade 3277787	price	0.153
+trade 3277787	quantity	15
+trade 3277789	buyer	Declan (18112)
+trade 3277789	seller	Michelle (18807)
+trade 3277789	time	2004-11-01T15:00:35.497
+trade 3277789	asset	REP04_G52
+trade 3277789	price	0.156
+trade 3277789	quantity	1
+trade 3277843	buyer	Landon (17389)
+trade 3277843	seller	Michelle (18807)
+trade 3277843	time	2004-11-01T15:03:16.090
+trade 3277843	asset	REP04_L52
+trade 3277843	price	0.358
+trade 3277843	quantity	7
+trade 3278140	buyer	Landon (17389)
+trade 3278140	seller	Kashton (1908)
+trade 3278140	time	2004-11-01T15:30:19.750
+trade 3278140	asset	DEM04_L52
+trade 3278140	price	0.341
+trade 3278140	quantity	2
+trade 3278305	buyer	Landon (17389)
+trade 3278305	seller	Lexi (18899)
+trade 3278305	time	2004-11-01T15:39:40.003
+trade 3278305	asset	DEM04_L52
+trade 3278305	price	0.347
+trade 3278305	quantity	11
+trade 3278380	buyer	Juan (18305)
+trade 3278380	seller	Willa (18838)
+trade 3278380	time	2004-11-01T15:55:09.697
+trade 3278380	asset	REP04_G52
+trade 3278380	price	0.145
+trade 3278380	quantity	2
+trade 3278540	buyer	Landon (17389)
+trade 3278540	seller	Allie (19051)
+trade 3278540	time	2004-11-01T16:11:31.487
+trade 3278540	asset	DEM04_G52
+trade 3278540	price	0.152
+trade 3278540	quantity	6
+trade 3278599	buyer	Landon (17389)
+trade 3278599	seller	Isla (16849)
+trade 3278599	time	2004-11-01T16:23:13.050
+trade 3278599	asset	REP04_G52
+trade 3278599	price	0.132
+trade 3278599	quantity	12
+trade 3278747	buyer	Natalia (17563)
+trade 3278747	seller	Elle (1891)
+trade 3278747	time	2004-11-01T16:32:12.693
+trade 3278747	asset	DEM04_L52
+trade 3278747	price	0.363
+trade 3278747	quantity	1
+trade 3278851	buyer	Landon (17389)
+trade 3278851	seller	Ryan (17264)
+trade 3278851	time	2004-11-01T16:39:20.480
+trade 3278851	asset	DEM04_L52
+trade 3278851	price	0.332
+trade 3278851	quantity	4
+trade 3278972	buyer	Adriana (18684)
+trade 3278972	seller	Landon (17389)
+trade 3278972	time	2004-11-01T16:44:26.900
+trade 3278972	asset	REP04_L52
+trade 3278972	price	0.359
+trade 3278972	quantity	20
+trade 3279564	buyer	Landon (17389)
+trade 3279564	seller	Mila (1535)
+trade 3279564	time	2004-11-01T17:19:00.990
+trade 3279564	asset	REP04_L52
+trade 3279564	price	0.345
+trade 3279564	quantity	2
+trade 3280413	buyer	Juan (18305)
+trade 3280413	seller	Damon (19043)
+trade 3280413	time	2004-11-01T18:14:34.773
+trade 3280413	asset	REP04_L52
+trade 3280413	price	0.362
+trade 3280413	quantity	20
+trade 3280420	buyer	Landon (17389)
+trade 3280420	seller	Damon (19043)
+trade 3280420	time	2004-11-01T18:14:40.540
+trade 3280420	asset	REP04_L52
+trade 3280420	price	0.362
+trade 3280420	quantity	6
+trade 3280564	buyer	Landon (17389)
+trade 3280564	seller	Ryan (17264)
+trade 3280564	time	2004-11-01T19:04:41.030
+trade 3280564	asset	DEM04_G52
+trade 3280564	price	0.152
+trade 3280564	quantity	10
+trade 3280674	buyer	Allie (19051)
+trade 3280674	seller	Winston (19000)
+trade 3280674	time	2004-11-01T19:26:10.237
+trade 3280674	asset	REP04_L52
+trade 3280674	price	0.36
+trade 3280674	quantity	20
+trade 3280851	buyer	Ryan (17264)
+trade 3280851	seller	Winston (19000)
+trade 3280851	time	2004-11-01T19:36:55.030
+trade 3280851	asset	REP04_L52
+trade 3280851	price	0.333
+trade 3280851	quantity	30
+trade 3280861	buyer	Landon (17389)
+trade 3280861	seller	Ismael (18837)
+trade 3280861	time	2004-11-01T19:37:00.860
+trade 3280861	asset	REP04_G52
+trade 3280861	price	0.125
+trade 3280861	quantity	10
+trade 3281025	buyer	Winston (19000)
+trade 3281025	seller	Natalia (17563)
+trade 3281025	time	2004-11-01T19:45:59.593
+trade 3281025	asset	DEM04_L52
+trade 3281025	price	0.449
+trade 3281025	quantity	2
+trade 3281158	buyer	Luciano (19009)
+trade 3281158	seller	Adriana (18684)
+trade 3281158	time	2004-11-01T19:47:44.340
+trade 3281158	asset	DEM04_G52
+trade 3281158	price	0.136
+trade 3281158	quantity	10
+trade 3281257	buyer	Landon (17389)
+trade 3281257	seller	Corey (5298)
+trade 3281257	time	2004-11-01T19:55:41.210
+trade 3281257	asset	DEM04_L52
+trade 3281257	price	0.39
+trade 3281257	quantity	23
+trade 3281350	buyer	Landon (17389)
+trade 3281350	seller	Corey (5298)
+trade 3281350	time	2004-11-01T20:00:11.217
+trade 3281350	asset	REP04_G52
+trade 3281350	price	0.125
+trade 3281350	quantity	1
+trade 3281365	buyer	Sullivan (18978)
+trade 3281365	seller	Mila (1535)
+trade 3281365	time	2004-11-01T20:03:43.940
+trade 3281365	asset	REP04_G52
+trade 3281365	price	0.128
+trade 3281365	quantity	1
+trade 3281487	buyer	Kaleb (18499)
+trade 3281487	seller	Landon (17389)
+trade 3281487	time	2004-11-01T20:12:41.190
+trade 3281487	asset	REP04_G52
+trade 3281487	price	0.136
+trade 3281487	quantity	1
+trade 3281502	buyer	Jonathan (17400)
+trade 3281502	seller	Finnegan (19004)
+trade 3281502	time	2004-11-01T20:13:32.930
+trade 3281502	asset	DEM04_L52
+trade 3281502	price	0.366
+trade 3281502	quantity	13
+trade 3281703	buyer	Kaleb (18499)
+trade 3281703	seller	Julian (16571)
+trade 3281703	time	2004-11-01T20:39:33.477
+trade 3281703	asset	DEM04_G52
+trade 3281703	price	0.144
+trade 3281703	quantity	1
+trade 3281873	buyer	Landon (17389)
+trade 3281873	seller	Grady (18973)
+trade 3281873	time	2004-11-01T21:04:29.650
+trade 3281873	asset	REP04_G52
+trade 3281873	price	0.128
+trade 3281873	quantity	22
+trade 3282048	buyer	Kaleb (18499)
+trade 3282048	seller	Landon (17389)
+trade 3282048	time	2004-11-01T21:22:46.230
+trade 3282048	asset	REP04_G52
+trade 3282048	price	0.135
+trade 3282048	quantity	1
+trade 3282344	buyer	Luciano (19009)
+trade 3282344	seller	Kendra (6314)
+trade 3282344	time	2004-11-01T21:46:40.127
+trade 3282344	asset	DEM04_G52
+trade 3282344	price	0.132
+trade 3282344	quantity	1
+trade 3282557	buyer	Nylah (18990)
+trade 3282557	seller	Juan (18305)
+trade 3282557	time	2004-11-01T22:04:55.567
+trade 3282557	asset	REP04_L52
+trade 3282557	price	0.378
+trade 3282557	quantity	20
+trade 3282618	buyer	Kaleb (18499)
+trade 3282618	seller	Lilliana (18829)
+trade 3282618	time	2004-11-01T22:08:10.913
+trade 3282618	asset	REP04_G52
+trade 3282618	price	0.125
+trade 3282618	quantity	1
+trade 3282691	buyer	Ryan (17264)
+trade 3282691	seller	Landon (17389)
+trade 3282691	time	2004-11-01T22:12:46.407
+trade 3282691	asset	DEM04_G52
+trade 3282691	price	0.134
+trade 3282691	quantity	3
+trade 3282716	buyer	Kaleb (18499)
+trade 3282716	seller	Adriana (18684)
+trade 3282716	time	2004-11-01T22:14:21.760
+trade 3282716	asset	REP04_G52
+trade 3282716	price	0.122
+trade 3282716	quantity	1
+trade 3282767	buyer	Adriana (18684)
+trade 3282767	seller	Ismael (18837)
+trade 3282767	time	2004-11-01T22:20:55.403
+trade 3282767	asset	DEM04_G52
+trade 3282767	price	0.138
+trade 3282767	quantity	4
+trade 3282906	buyer	Penelope (16202)
+trade 3282906	seller	Landon (17389)
+trade 3282906	time	2004-11-01T22:35:12.450
+trade 3282906	asset	REP04_L52
+trade 3282906	price	0.393
+trade 3282906	quantity	2
+trade 3282973	buyer	Aitana (18902)
+trade 3282973	seller	Ismael (18837)
+trade 3282973	time	2004-11-01T22:48:47.443
+trade 3282973	asset	REP04_G52
+trade 3282973	price	0.139
+trade 3282973	quantity	2
+trade 3283142	buyer	Michelle (18807)
+trade 3283142	seller	Addilyn (19151)
+trade 3283142	time	2004-11-01T23:06:58.197
+trade 3283142	asset	REP04_L52
+trade 3283142	price	0.363
+trade 3283142	quantity	1
+trade 3283434	buyer	Jase (19163)
+trade 3283434	seller	Adriana (18684)
+trade 3283434	time	2004-11-01T23:49:07.347
+trade 3283434	asset	DEM04_G52
+trade 3283434	price	0.162
+trade 3283434	quantity	1
+trade 3283536	buyer	Kingston (18213)
+trade 3283536	seller	Landon (17389)
+trade 3283536	time	2004-11-02T00:04:14.630
+trade 3283536	asset	REP04_L52
+trade 3283536	price	0.394
+trade 3283536	quantity	10
+trade 3283836	buyer	Landon (17389)
+trade 3283836	seller	Jonathan (17400)
+trade 3283836	time	2004-11-02T01:10:26.377
+trade 3283836	asset	DEM04_G52
+trade 3283836	price	0.143
+trade 3283836	quantity	1
+trade 3283912	buyer	Kaleb (18499)
+trade 3283912	seller	Ethan (13615)
+trade 3283912	time	2004-11-02T01:32:58.390
+trade 3283912	asset	DEM04_G52
+trade 3283912	price	0.135
+trade 3283912	quantity	10
+trade 3283995	buyer	Landon (17389)
+trade 3283995	seller	Ethan (13615)
+trade 3283995	time	2004-11-02T01:38:41.857
+trade 3283995	asset	REP04_G52
+trade 3283995	price	0.153
+trade 3283995	quantity	18
+trade 3284194	buyer	David (16326)
+trade 3284194	seller	Landon (17389)
+trade 3284194	time	2004-11-02T02:12:03.613
+trade 3284194	asset	DEM04_L52
+trade 3284194	price	0.301
+trade 3284194	quantity	11
+trade 3284207	buyer	Princeton (19021)
+trade 3284207	seller	Audrey (17337)
+trade 3284207	time	2004-11-02T02:12:37.977
+trade 3284207	asset	REP04_L52
+trade 3284207	price	0.361
+trade 3284207	quantity	2
+trade 3284285	buyer	Annie (18637)
+trade 3284285	seller	Jonathan (17400)
+trade 3284285	time	2004-11-02T02:49:23.237
+trade 3284285	asset	DEM04_G52
+trade 3284285	price	0.21
+trade 3284285	quantity	1
+trade 3284301	buyer	Landon (17389)
+trade 3284301	seller	Jonathan (17400)
+trade 3284301	time	2004-11-02T02:59:52.653
+trade 3284301	asset	DEM04_G52
+trade 3284301	price	0.144
+trade 3284301	quantity	1
+trade 3284944	buyer	Ismael (18837)
+trade 3284944	seller	Adriana (18684)
+trade 3284944	time	2004-11-02T07:30:49.930
+trade 3284944	asset	DEM04_G52
+trade 3284944	price	0.155
+trade 3284944	quantity	5
+trade 3285094	buyer	Kamden (19177)
+trade 3285094	seller	Blake (18467)
+trade 3285094	time	2004-11-02T08:00:11.320
+trade 3285094	asset	DEM04_G52
+trade 3285094	price	0.13
+trade 3285094	quantity	13
+trade 3285172	buyer	Landon (17389)
+trade 3285172	seller	Joanna (18562)
+trade 3285172	time	2004-11-02T08:19:04.940
+trade 3285172	asset	REP04_G52
+trade 3285172	price	0.133
+trade 3285172	quantity	17
+trade 3285862	buyer	Sebastian (14385)
+trade 3285862	seller	Adriana (18684)
+trade 3285862	time	2004-11-02T09:32:52.477
+trade 3285862	asset	DEM04_G52
+trade 3285862	price	0.153
+trade 3285862	quantity	13
+trade 3285958	buyer	Landon (17389)
+trade 3285958	seller	Adriana (18684)
+trade 3285958	time	2004-11-02T09:46:49.113
+trade 3285958	asset	DEM04_G52
+trade 3285958	price	0.157
+trade 3285958	quantity	4
+trade 3286938	buyer	Bruce (2691)
+trade 3286938	seller	Dylan (268)
+trade 3286938	time	2004-11-02T11:42:57.380
+trade 3286938	asset	REP04_L52
+trade 3286938	price	0.358
+trade 3286938	quantity	3
+trade 3286949	buyer	Bruce (2691)
+trade 3286949	seller	Adriana (18684)
+trade 3286949	time	2004-11-02T11:43:21.460
+trade 3286949	asset	REP04_G52
+trade 3286949	price	0.136
+trade 3286949	quantity	14
+trade 3287396	buyer	Maximilian (207)
+trade 3287396	seller	Juan (18305)
+trade 3287396	time	2004-11-02T12:32:40.503
+trade 3287396	asset	REP04_G52
+trade 3287396	price	0.149
+trade 3287396	quantity	20
+trade 3287407	buyer	Dominick (19092)
+trade 3287407	seller	Carter (4136)
+trade 3287407	time	2004-11-02T12:33:16.133
+trade 3287407	asset	DEM04_L52
+trade 3287407	price	0.323
+trade 3287407	quantity	5
+trade 3287649	buyer	Jack (15431)
+trade 3287649	seller	Landon (17389)
+trade 3287649	time	2004-11-02T13:15:31.847
+trade 3287649	asset	DEM04_L52
+trade 3287649	price	0.328
+trade 3287649	quantity	5
+trade 3287785	buyer	Maci (19114)
+trade 3287785	seller	Landon (17389)
+trade 3287785	time	2004-11-02T13:20:56.453
+trade 3287785	asset	REP04_G52
+trade 3287785	price	0.149
+trade 3287785	quantity	19
+trade 3288057	buyer	Reid (18707)
+trade 3288057	seller	Mila (1535)
+trade 3288057	time	2004-11-02T14:00:31.663
+trade 3288057	asset	DEM04_G52
+trade 3288057	price	0.182
+trade 3288057	quantity	7
+trade 3288235	buyer	Adriana (18684)
+trade 3288235	seller	Kamden (19177)
+trade 3288235	time	2004-11-02T14:13:56.987
+trade 3288235	asset	DEM04_G52
+trade 3288235	price	0.19
+trade 3288235	quantity	23
+trade 3288494	buyer	Destiny (18841)
+trade 3288494	seller	Remington (18494)
+trade 3288494	time	2004-11-02T14:36:58.503
+trade 3288494	asset	REP04_L52
+trade 3288494	price	0.343
+trade 3288494	quantity	13
+trade 3288550	buyer	Landon (17389)
+trade 3288550	seller	Troy (19019)
+trade 3288550	time	2004-11-02T14:38:06.383
+trade 3288550	asset	DEM04_G52
+trade 3288550	price	0.23
+trade 3288550	quantity	2
+trade 3288910	buyer	Landon (17389)
+trade 3288910	seller	Jude (18324)
+trade 3288910	time	2004-11-02T14:59:26.153
+trade 3288910	asset	REP04_G52
+trade 3288910	price	0.095
+trade 3288910	quantity	7
+trade 3289140	buyer	Dominick (19092)
+trade 3289140	seller	Carlos (18313)
+trade 3289140	time	2004-11-02T15:32:24.207
+trade 3289140	asset	REP04_L52
+trade 3289140	price	0.26
+trade 3289140	quantity	55
+trade 3289396	buyer	Landon (17389)
+trade 3289396	seller	Christopher (16914)
+trade 3289396	time	2004-11-02T15:47:45.023
+trade 3289396	asset	DEM04_G52
+trade 3289396	price	0.28
+trade 3289396	quantity	7
+trade 3289473	buyer	Landon (17389)
+trade 3289473	seller	Mckinley (7180)
+trade 3289473	time	2004-11-02T15:51:29.917
+trade 3289473	asset	DEM04_L52
+trade 3289473	price	0.376
+trade 3289473	quantity	5
+trade 3289603	buyer	Jonathan (17400)
+trade 3289603	seller	Dominick (19092)
+trade 3289603	time	2004-11-02T15:54:42.763
+trade 3289603	asset	DEM04_L52
+trade 3289603	price	0.384
+trade 3289603	quantity	39
+trade 3289815	buyer	Waylon (18124)
+trade 3289815	seller	Aspen (18480)
+trade 3289815	time	2004-11-02T16:06:38.123
+trade 3289815	asset	DEM04_G52
+trade 3289815	price	0.45
+trade 3289815	quantity	10
+trade 3289841	buyer	Kendra (6314)
+trade 3289841	seller	Kieran (4286)
+trade 3289841	time	2004-11-02T16:07:57.367
+trade 3289841	asset	REP04_G52
+trade 3289841	price	0.09
+trade 3289841	quantity	15
+trade 3290075	buyer	Savannah (17386)
+trade 3290075	seller	Landon (17389)
+trade 3290075	time	2004-11-02T16:22:11.880
+trade 3290075	asset	REP04_L52
+trade 3290075	price	0.207
+trade 3290075	quantity	4
+trade 3290321	buyer	Alivia (18551)
+trade 3290321	seller	Jonathan (17400)
+trade 3290321	time	2004-11-02T16:36:05.673
+trade 3290321	asset	DEM04_G52
+trade 3290321	price	0.328
+trade 3290321	quantity	80
+trade 3290457	buyer	Kasen (19173)
+trade 3290457	seller	Reid (18707)
+trade 3290457	time	2004-11-02T16:44:00.823
+trade 3290457	asset	REP04_L52
+trade 3290457	price	0.212
+trade 3290457	quantity	2
+trade 3290765	buyer	Kaliyah (7595)
+trade 3290765	seller	Landon (17389)
+trade 3290765	time	2004-11-02T17:10:21.687
+trade 3290765	asset	DEM04_G52
+trade 3290765	price	0.355
+trade 3290765	quantity	267
+trade 3290833	buyer	Landon (17389)
+trade 3290833	seller	Asa (3910)
+trade 3290833	time	2004-11-02T17:13:59.487
+trade 3290833	asset	REP04_G52
+trade 3290833	price	0.048
+trade 3290833	quantity	85
+trade 3290853	buyer	Esther (18323)
+trade 3290853	seller	Asa (3910)
+trade 3290853	time	2004-11-02T17:14:53.867
+trade 3290853	asset	REP04_G52
+trade 3290853	price	0.036
+trade 3290853	quantity	7
+trade 3291113	buyer	Mira (19197)
+trade 3291113	seller	Adriana (18684)
+trade 3291113	time	2004-11-02T17:33:14.823
+trade 3291113	asset	DEM04_L52
+trade 3291113	price	0.42
+trade 3291113	quantity	17
+trade 3291313	buyer	Cesar (18909)
+trade 3291313	seller	Anthony (16685)
+trade 3291313	time	2004-11-02T17:42:23.077
+trade 3291313	asset	REP04_L52
+trade 3291313	price	0.181
+trade 3291313	quantity	40
+trade 3291377	buyer	Catalina (18381)
+trade 3291377	seller	Landon (17389)
+trade 3291377	time	2004-11-02T17:47:58.823
+trade 3291377	asset	DEM04_G52
+trade 3291377	price	0.304
+trade 3291377	quantity	1
+trade 3291387	buyer	Mario (18790)
+trade 3291387	seller	Mila (1535)
+trade 3291387	time	2004-11-02T17:48:31.343
+trade 3291387	asset	REP04_L52
+trade 3291387	price	0.179
+trade 3291387	quantity	15
+trade 3291848	buyer	Adriana (18684)
+trade 3291848	seller	Landon (17389)
+trade 3291848	time	2004-11-02T18:24:35.210
+trade 3291848	asset	DEM04_G52
+trade 3291848	price	0.294
+trade 3291848	quantity	12
+trade 3292128	buyer	Landon (17389)
+trade 3292128	seller	Mohamed (7219)
+trade 3292128	time	2004-11-02T19:06:37.233
+trade 3292128	asset	DEM04_G52
+trade 3292128	price	0.3
+trade 3292128	quantity	7
+trade 3292156	buyer	Alivia (18551)
+trade 3292156	seller	Landon (17389)
+trade 3292156	time	2004-11-02T19:07:41.037
+trade 3292156	asset	DEM04_G52
+trade 3292156	price	0.297
+trade 3292156	quantity	29
+trade 3292229	buyer	Nova (16619)
+trade 3292229	seller	Braelynn (19084)
+trade 3292229	time	2004-11-02T19:13:46.570
+trade 3292229	asset	REP04_L52
+trade 3292229	price	0.155
+trade 3292229	quantity	100
+trade 3292400	buyer	Bennett (18106)
+trade 3292400	seller	Mira (19197)
+trade 3292400	time	2004-11-02T19:26:58.547
+trade 3292400	asset	DEM04_G52
+trade 3292400	price	0.302
+trade 3292400	quantity	10
+trade 3292599	buyer	Landon (17389)
+trade 3292599	seller	Annalise (19080)
+trade 3292599	time	2004-11-02T19:40:38.370
+trade 3292599	asset	DEM04_G52
+trade 3292599	price	0.291
+trade 3292599	quantity	8
+trade 3292736	buyer	Adriana (18684)
+trade 3292736	seller	Alivia (18551)
+trade 3292736	time	2004-11-02T19:50:40.203
+trade 3292736	asset	REP04_L52
+trade 3292736	price	0.19
+trade 3292736	quantity	20
+trade 3292919	buyer	Bennett (18106)
+trade 3292919	seller	Tristan (18390)
+trade 3292919	time	2004-11-02T20:09:09.913
+trade 3292919	asset	REP04_G52
+trade 3292919	price	0.101
+trade 3292919	quantity	1
+trade 3292920	buyer	Nehemiah (18923)
+trade 3292920	seller	Mila (1535)
+trade 3292920	time	2004-11-02T20:09:13.210
+trade 3292920	asset	REP04_L52
+trade 3292920	price	0.227
+trade 3292920	quantity	20
+trade 3292922	buyer	Kaleb (18499)
+trade 3292922	seller	Mila (1535)
+trade 3292922	time	2004-11-02T20:09:22.947
+trade 3292922	asset	REP04_L52
+trade 3292922	price	0.227
+trade 3292922	quantity	1
+trade 3293225	buyer	Bennett (18106)
+trade 3293225	seller	Ethan (13615)
+trade 3293225	time	2004-11-02T20:27:24.417
+trade 3293225	asset	DEM04_G52
+trade 3293225	price	0.21
+trade 3293225	quantity	5
+trade 3293338	buyer	Landon (17389)
+trade 3293338	seller	Amanda (19095)
+trade 3293338	time	2004-11-02T20:36:44.750
+trade 3293338	asset	REP04_G52
+trade 3293338	price	0.098
+trade 3293338	quantity	59
+trade 3293452	buyer	Sean (18806)
+trade 3293452	seller	Amanda (19095)
+trade 3293452	time	2004-11-02T20:42:34.810
+trade 3293452	asset	REP04_G52
+trade 3293452	price	0.098
+trade 3293452	quantity	50
+trade 3293526	buyer	Landon (17389)
+trade 3293526	seller	Case (7996)
+trade 3293526	time	2004-11-02T20:45:20.247
+trade 3293526	asset	REP04_L52
+trade 3293526	price	0.33
+trade 3293526	quantity	1
+trade 3293795	buyer	Maia (279)
+trade 3293795	seller	Lorelai (5366)
+trade 3293795	time	2004-11-02T20:56:57.077
+trade 3293795	asset	REP04_G52
+trade 3293795	price	0.14
+trade 3293795	quantity	15
+trade 3293822	buyer	Esther (18323)
+trade 3293822	seller	Kaleb (18499)
+trade 3293822	time	2004-11-02T20:59:32.120
+trade 3293822	asset	REP04_G52
+trade 3293822	price	0.141
+trade 3293822	quantity	20
+trade 3294108	buyer	Landon (17389)
+trade 3294108	seller	Mila (1535)
+trade 3294108	time	2004-11-02T21:07:28.967
+trade 3294108	asset	REP04_G52
+trade 3294108	price	0.175
+trade 3294108	quantity	25
+trade 3294826	buyer	Landon (17389)
+trade 3294826	seller	Maia (279)
+trade 3294826	time	2004-11-02T21:35:58.950
+trade 3294826	asset	REP04_G52
+trade 3294826	price	0.2
+trade 3294826	quantity	44
+trade 3294828	buyer	Kaleb (18499)
+trade 3294828	seller	Maia (279)
+trade 3294828	time	2004-11-02T21:35:59.543
+trade 3294828	asset	REP04_G52
+trade 3294828	price	0.175
+trade 3294828	quantity	1
+trade 3294941	buyer	Jaiden (18971)
+trade 3294941	seller	Landon (17389)
+trade 3294941	time	2004-11-02T21:41:10.477
+trade 3294941	asset	REP04_G52
+trade 3294941	price	0.188
+trade 3294941	quantity	85
+trade 3295090	buyer	Cameron (1948)
+trade 3295090	seller	Melody (18166)
+trade 3295090	time	2004-11-02T21:48:24.123
+trade 3295090	asset	DEM04_L52
+trade 3295090	price	0.304
+trade 3295090	quantity	100
+trade 3295273	buyer	Kaleb (18499)
+trade 3295273	seller	Maia (279)
+trade 3295273	time	2004-11-02T21:58:32.867
+trade 3295273	asset	REP04_G52
+trade 3295273	price	0.11
+trade 3295273	quantity	1
+trade 3295363	buyer	Bennett (18106)
+trade 3295363	seller	Jaiden (18971)
+trade 3295363	time	2004-11-02T22:03:41.457
+trade 3295363	asset	REP04_L52
+trade 3295363	price	0.525
+trade 3295363	quantity	5
+trade 3295504	buyer	Gianni (18856)
+trade 3295504	seller	Landon (17389)
+trade 3295504	time	2004-11-02T22:20:58.393
+trade 3295504	asset	REP04_L52
+trade 3295504	price	0.589
+trade 3295504	quantity	19
+trade 3296102	buyer	Kaleb (18499)
+trade 3296102	seller	Remington (18494)
+trade 3296102	time	2004-11-02T22:56:28.583
+trade 3296102	asset	DEM04_G52
+trade 3296102	price	0.007
+trade 3296102	quantity	59
+trade 3296302	buyer	Landon (17389)
+trade 3296302	seller	Mila (1535)
+trade 3296302	time	2004-11-02T23:13:00.050
+trade 3296302	asset	DEM04_L52
+trade 3296302	price	0.055
+trade 3296302	quantity	10
+trade 3296719	buyer	Landon (17389)
+trade 3296719	seller	Mila (1535)
+trade 3296719	time	2004-11-02T23:50:45.377
+trade 3296719	asset	REP04_L52
+trade 3296719	price	0.788
+trade 3296719	quantity	10
+trade 3297092	buyer	Landon (17389)
+trade 3297092	seller	Kira (18937)
+trade 3297092	time	2004-11-03T00:23:16.583
+trade 3297092	asset	DEM04_G52
+trade 3297092	price	0.016
+trade 3297092	quantity	18
+trade 3297251	buyer	Ryan (17264)
+trade 3297251	seller	Jaxon (16919)
+trade 3297251	time	2004-11-03T00:29:54.383
+trade 3297251	asset	DEM04_G52
+trade 3297251	price	0.003
+trade 3297251	quantity	39
+trade 3297305	buyer	Jacqueline (19082)
+trade 3297305	seller	Landon (17389)
+trade 3297305	time	2004-11-03T00:35:36.260
+trade 3297305	asset	REP04_L52
+trade 3297305	price	0.938
+trade 3297305	quantity	41
+trade 3297523	buyer	Phillip (4580)
+trade 3297523	seller	Elisa (4100)
+trade 3297523	time	2004-11-03T00:55:37.773
+trade 3297523	asset	REP04_L52
+trade 3297523	price	0.877
+trade 3297523	quantity	5
+trade 3297570	buyer	Landon (17389)
+trade 3297570	seller	Rory (19119)
+trade 3297570	time	2004-11-03T00:59:53.653
+trade 3297570	asset	REP04_L52
+trade 3297570	price	0.852
+trade 3297570	quantity	68
+trade 3298367	buyer	Kasen (19173)
+trade 3298367	seller	Nylah (18990)
+trade 3298367	time	2004-11-03T02:23:27.840
+trade 3298367	asset	REP04_L52
+trade 3298367	price	0.85
+trade 3298367	quantity	22
+trade 3298409	buyer	Ryan (17264)
+trade 3298409	seller	Nylah (18990)
+trade 3298409	time	2004-11-03T02:26:00.913
+trade 3298409	asset	REP04_L52
+trade 3298409	price	0.847
+trade 3298409	quantity	60
+trade 3298461	buyer	Landon (17389)
+trade 3298461	seller	Alaya (18813)
+trade 3298461	time	2004-11-03T02:39:00.140
+trade 3298461	asset	REP04_L52
+trade 3298461	price	0.861
+trade 3298461	quantity	48
+trade 3298677	buyer	Calvin (183)
+trade 3298677	seller	Landon (17389)
+trade 3298677	time	2004-11-03T04:23:36.080
+trade 3298677	asset	REP04_L52
+trade 3298677	price	0.929
+trade 3298677	quantity	15
+trade 3298854	buyer	Katie (19193)
+trade 3298854	seller	Landon (17389)
+trade 3298854	time	2004-11-03T06:18:26.080
+trade 3298854	asset	REP04_G52
+trade 3298854	price	0.049
+trade 3298854	quantity	85
+trade 3298855	buyer	Katie (19193)
+trade 3298855	seller	Bennett (18106)
+trade 3298855	time	2004-11-03T06:18:26.190
+trade 3298855	asset	REP04_G52
+trade 3298855	price	0.05
+trade 3298855	quantity	10
+trade 3299383	buyer	Zaire (5180)
+trade 3299383	seller	Bennett (18106)
+trade 3299383	time	2004-11-03T08:00:45.917
+trade 3299383	asset	DEM04_G52
+trade 3299383	price	0.001
+trade 3299383	quantity	6
+trade 3299490	buyer	Landon (17389)
+trade 3299490	seller	Andre (18616)
+trade 3299490	time	2004-11-03T08:17:33.907
+trade 3299490	asset	DEM04_G52
+trade 3299490	price	0.003
+trade 3299490	quantity	1
+trade 3299508	buyer	Esther (18323)
+trade 3299508	seller	Jane (18579)
+trade 3299508	time	2004-11-03T08:17:53.363
+trade 3299508	asset	REP04_G52
+trade 3299508	price	0.001
+trade 3299508	quantity	488
+trade 3299673	buyer	Landon (17389)
+trade 3299673	seller	John (16234)
+trade 3299673	time	2004-11-03T09:00:58.750
+trade 3299673	asset	REP04_G52
+trade 3299673	price	0.005
+trade 3299673	quantity	60
+trade 3299770	buyer	Aspen (18480)
+trade 3299770	seller	Landon (17389)
+trade 3299770	time	2004-11-03T09:13:38.703
+trade 3299770	asset	DEM04_L52
+trade 3299770	price	0.002
+trade 3299770	quantity	2
+trade 3299948	buyer	Landon (17389)
+trade 3299948	seller	Kingston (18213)
+trade 3299948	time	2004-11-03T09:35:14.157
+trade 3299948	asset	REP04_L52
+trade 3299948	price	0.971
+trade 3299948	quantity	61
+trade 3300352	buyer	Cameron (1948)
+trade 3300352	seller	Derrick (6422)
+trade 3300352	time	2004-11-03T10:54:55.410
+trade 3300352	asset	REP04_L52
+trade 3300352	price	0.992
+trade 3300352	quantity	50
+trade 3300497	buyer	Zaire (5180)
+trade 3300497	seller	Elle (1891)
+trade 3300497	time	2004-11-03T11:40:08.107
+trade 3300497	asset	REP04_G52
+trade 3300497	price	0.003
+trade 3300497	quantity	35
+trade 3301444	buyer	Lorelai (5366)
+trade 3301444	seller	Kira (18937)
+trade 3301444	time	2004-11-03T17:53:07.513
+trade 3301444	asset	DEM04_G52
+trade 3301444	price	0.016
+trade 3301444	quantity	100
+trade 3301445	buyer	Lorelai (5366)
+trade 3301445	seller	Olivia (10138)
+trade 3301445	time	2004-11-03T17:53:22.217
+trade 3301445	asset	DEM04_L52
+trade 3301445	price	0.002
+trade 3301445	quantity	200
+trade 3301496	buyer	Lorelai (5366)
+trade 3301496	seller	Evelynn (18785)
+trade 3301496	time	2004-11-03T18:16:04.487
+trade 3301496	asset	REP04_G52
+trade 3301496	price	0.013
+trade 3301496	quantity	40
+trade 3301739	buyer	Olivia (10138)
+trade 3301739	seller	Melody (18166)
+trade 3301739	time	2004-11-03T19:16:16.943
+trade 3301739	asset	REP04_L52
+trade 3301739	price	0.952
+trade 3301739	quantity	17
+trade 3302784	buyer	Melody (18166)
+trade 3302784	seller	Rafael (18537)
+trade 3302784	time	2004-11-04T10:53:04.207
+trade 3302784	asset	REP04_L52
+trade 3302784	price	0.978
+trade 3302784	quantity	91
+trade 3303774	buyer	Carter (4136)
+trade 3303774	seller	Leila (18436)
+trade 3303774	time	2004-11-04T19:57:07.703
+trade 3303774	asset	REP04_L52
+trade 3303774	price	0.99
+trade 3303774	quantity	5
+trade 3303802	buyer	Warren (18818)
+trade 3303802	seller	Kai (17767)
+trade 3303802	time	2004-11-04T20:20:33.557
+trade 3303802	asset	REP04_G52
+trade 3303802	price	0.01
+trade 3303802	quantity	15
+trade 3304774	buyer	Zaire (5180)
+trade 3304774	seller	Mila (1535)
+trade 3304774	time	2004-11-05T11:59:12.167
+trade 3304774	asset	REP04_L52
+trade 3304774	price	0.994
+trade 3304774	quantity	23
+trade 3304926	buyer	Zaire (5180)
+trade 3304926	seller	Bennett (18106)
+trade 3304926	time	2004-11-05T13:02:04.113
+trade 3304926	asset	REP04_L52
+trade 3304926	price	0.994
+trade 3304926	quantity	5
+trade 3305025	buyer	Mila (1535)
+trade 3305025	seller	Saylor (18671)
+trade 3305025	time	2004-11-05T13:50:15.997
+trade 3305025	asset	REP04_L52
+trade 3305025	price	0.995
+trade 3305025	quantity	5
+trade 3305366	buyer	Maximilian (207)
+trade 3305366	seller	Zaire (5180)
+trade 3305366	time	2004-11-05T17:08:34.353
+trade 3305366	asset	REP04_L52
+trade 3305366	price	0.96
+trade 3305366	quantity	13

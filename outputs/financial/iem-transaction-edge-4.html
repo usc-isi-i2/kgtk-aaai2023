@@ -1,0 +1,376 @@
+<head>
+            <style> body { margin: 0; } </style>
+            <script src="https://cdn.jsdelivr.net/npm/d3-color@3"></script>
+            <script src="https://cdn.jsdelivr.net/npm/d3-interpolate@3"></script>
+            <script src="https://cdn.jsdelivr.net/npm/d3-scale-chromatic@3"></script>
+            <script src="https://cdn.jsdelivr.net/npm/d3-scale@4"></script>
+            <script src="https://unpkg.com/force-graph"></script>
+            <!--<script src="../../dist/force-graph.js"></script>-->
+            </head>
+            <body>
+            <div id="graph"></div>
+            <script>        
+               const j = {
+    "links": [
+        {
+            "source": "trade 3032624",
+            "target": "Landon (17389)",
+            "label": "buyer",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3032624",
+            "target": "Juan (18305)",
+            "label": "seller",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3032624",
+            "target": "2004-07-20T15:08:45.963",
+            "label": "time",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3032624",
+            "target": "DEM04",
+            "label": "asset",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3032624",
+            "target": "0.497",
+            "label": "price",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3032624",
+            "target": "6",
+            "label": "quantity",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "Juan (18305)",
+            "label": "buyer",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "Owen (15547)",
+            "label": "seller",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "2004-07-10T17:21:22.800",
+            "label": "time",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "DEM04",
+            "label": "asset",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "0.501",
+            "label": "price",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3016263",
+            "target": "7",
+            "label": "quantity",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "Landon (17389)",
+            "label": "buyer",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "John (16234)",
+            "label": "seller",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "2004-07-29T05:25:28.947",
+            "label": "time",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "DEM04",
+            "label": "asset",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "0.490",
+            "label": "price",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 3045955",
+            "target": "3",
+            "label": "quantity",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "Owen (15547)",
+            "label": "buyer",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "Julian (16571)",
+            "label": "seller",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "2004-06-10T22:24:24.783",
+            "label": "time",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "REP04",
+            "label": "asset",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "0.550",
+            "label": "price",
+            "width": 1.0,
+            "color": "#000000"
+        },
+        {
+            "source": "trade 2992596",
+            "target": "1",
+            "label": "quantity",
+            "width": 1.0,
+            "color": "#000000"
+        }
+    ],
+    "nodes": [
+        {
+            "id": "trade 3032624",
+            "label": "trade 3032624",
+            "tooltip": "trade 3032624",
+            "size": 2.0,
+            "color": 0
+        },
+        {
+            "id": "Landon (17389)",
+            "label": "Landon (17389)",
+            "tooltip": "Landon (17389)",
+            "size": 2.0,
+            "color": 1
+        },
+        {
+            "id": "Juan (18305)",
+            "label": "Juan (18305)",
+            "tooltip": "Juan (18305)",
+            "size": 2.0,
+            "color": 1
+        },
+        {
+            "id": "DEM04",
+            "label": "DEM04",
+            "tooltip": "DEM04",
+            "size": 2.0,
+            "color": 2
+        },
+        {
+            "id": "2004-07-20T15:08:45.963",
+            "label": "2004-07-20T15:08:45.963",
+            "tooltip": "2004-07-20T15:08:45.963",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "0.497",
+            "label": "0.497",
+            "tooltip": "0.497",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "6",
+            "label": "6",
+            "tooltip": "6",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "trade 3016263",
+            "label": "trade 3016263",
+            "tooltip": "trade 3016263",
+            "size": 2.0,
+            "color": 0
+        },
+        {
+            "id": "Owen (15547)",
+            "label": "Owen (15547)",
+            "tooltip": "Owen (15547)",
+            "size": 2.0,
+            "color": 1
+        },
+        {
+            "id": "2004-07-10T17:21:22.800",
+            "label": "2004-07-10T17:21:22.800",
+            "tooltip": "2004-07-10T17:21:22.800",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "0.501",
+            "label": "0.501",
+            "tooltip": "0.501",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "7",
+            "label": "7",
+            "tooltip": "7",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "trade 3045955",
+            "label": "trade 3045955",
+            "tooltip": "trade 3045955",
+            "size": 2.0,
+            "color": 0
+        },
+        {
+            "id": "John (16234)",
+            "label": "John (16234)",
+            "tooltip": "John (16234)",
+            "size": 2.0,
+            "color": 1
+        },
+        {
+            "id": "2004-07-29T05:25:28.947",
+            "label": "2004-07-29T05:25:28.947",
+            "tooltip": "2004-07-29T05:25:28.947",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "0.490",
+            "label": "0.490",
+            "tooltip": "0.490",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "3",
+            "label": "3",
+            "tooltip": "3",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "trade 2992596",
+            "label": "trade 2992596",
+            "tooltip": "trade 2992596",
+            "size": 2.0,
+            "color": 0
+        },
+        {
+            "id": "Julian (16571)",
+            "label": "Julian (16571)",
+            "tooltip": "Julian (16571)",
+            "size": 2.0,
+            "color": 1
+        },
+        {
+            "id": "REP04",
+            "label": "REP04",
+            "tooltip": "REP04",
+            "size": 2.0,
+            "color": 2
+        },
+        {
+            "id": "2004-06-10T22:24:24.783",
+            "label": "2004-06-10T22:24:24.783",
+            "tooltip": "2004-06-10T22:24:24.783",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "0.550",
+            "label": "0.550",
+            "tooltip": "0.550",
+            "size": 2.0,
+            "color": 3
+        },
+        {
+            "id": "1",
+            "label": "1",
+            "tooltip": "1",
+            "size": 2.0,
+            "color": 3
+        }
+    ]
+}
+              const Graph = ForceGraph()
+              (document.getElementById('graph'))
+                .graphData(j)
+                .nodeId('id')
+                .nodeLabel('tooltip')
+                .nodeVal('size')
+                    .nodeColor((node) => node.color[0] == "#" ? node.color : d3.scaleSequential().domain([0, 3]).interpolator(d3.interpolateRainbow)(node.color))
+                    .linkWidth((link) => link.width)
+                            .nodeCanvasObject((node, ctx, globalScale) => {
+                      const label = node.label;
+                      const fontSize = 12/globalScale;
+                      ctx.font = `${fontSize}px Sans-Serif`;
+                      const textWidth = ctx.measureText(label).width;
+                      const bckgDimensions = [textWidth, fontSize].map(n => n + fontSize * 0.2); // some padding
+                      
+                      ctx.fillStyle = 'rgba(255, 255, 255, 0.8)';
+                      ctx.fillRect(node.x - bckgDimensions[0] / 2, node.y - 10 - 
+                      bckgDimensions[1] / 2, ...bckgDimensions);
+                      ctx.textAlign = 'center';
+                      ctx.textBaseline = 'middle';
+                      
+                        ctx.fillStyle = d3.scaleSequential().domain([0, 3]).interpolator(d3.interpolateRainbow)(node.color);
+                        
+                      ctx.fillText(label, node.x, node.y - 10);
+                      
+                      ctx.beginPath(); ctx.arc(node.x, node.y, node.size, 0, 2 * Math.PI, false);  ctx.fill();
+                      node.__bckgDimensions = bckgDimensions; // to re-use in nodePointerAreaPaint
+                      })        .linkColor((link) => link.color)  </script>
+            </body>

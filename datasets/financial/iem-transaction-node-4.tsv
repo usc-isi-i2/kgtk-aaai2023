@@ -1,0 +1,24 @@
+id	label	type
+trade 3032624	'trade 3032624'@en	transaction
+Landon (17389)	'Landon (17389)'@en	person
+Juan (18305)	'Juan (18305)'@en	person
+DEM04	'DEM04'@en	asset
+2004-07-20T15:08:45.963	'2004-07-20T15:08:45.963'@en	literal
+0.497	'0.497'@en	literal
+6	'6'@en	literal
+trade 3016263	'trade 3016263'@en	transaction
+Owen (15547)	'Owen (15547)'@en	person
+2004-07-10T17:21:22.800	'2004-07-10T17:21:22.800'@en	literal
+0.501	'0.501'@en	literal
+7	'7'@en	literal
+trade 3045955	'trade 3045955'@en	transaction
+John (16234)	'John (16234)'@en	person
+2004-07-29T05:25:28.947	'2004-07-29T05:25:28.947'@en	literal
+0.490	'0.490'@en	literal
+3	'3'@en	literal
+trade 2992596	'trade 2992596'@en	transaction
+Julian (16571)	'Julian (16571)'@en	person
+REP04	'REP04'@en	asset
+2004-06-10T22:24:24.783	'2004-06-10T22:24:24.783'@en	literal
+0.550	'0.550'@en	literal
+1	'1'@en	literal
