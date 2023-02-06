@@ -1,4 +1,6 @@
-# kgtk-tutorial-aaai23
+# Welcome
+
+This page contains the notebooks corresponding to the tutorial [KGTK: User-friendly Toolkit for Manipulation of Large Knowledge Graphs](https://usc-isi-i2.github.io/kgtk-tutorial-aaai-2023) given at AAAI'23.
 
 ## Installation
 
